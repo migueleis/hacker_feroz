@@ -82,17 +82,17 @@ El Lobo se balanceó ligeramente en la red.
 
 Los cerditos se quedaron inmóviles.
 
-Porque la policía llevaba escuchando desde antes de que el Lobo entrara por la chimenea.
+La policía llevaba escuchando desde antes de que el Lobo entrara por la chimenea.
 
 No por el dron.
 
-No por una grabación que apareciera de la nada.
+No por una grabación sorpresa.
 
 Por la cafetera inteligente del Cerdito Mediano.
 
-Por el mismo dispositivo que él había usado para entrar en la red.
+Por el mismo aparato que él había usado para entrar en la red.
 
-Por una puerta que él había dejado abierta, pero que nadie había notado.
+Por una puerta trasera que había dejado abierta y que nadie había visto.
 
 Y entonces, en la oscuridad de la casa, la voz de la policía llegó desde el exterior.
 
@@ -156,13 +156,13 @@ Volvió a abrirla.
 
 —¿Desde antes?
 
-—Desde antes.
+—Sí.
 
 —¿Desde cuándo?
 
 El Lobo sonrió.
 
-—Desde que decidí que entrar en la casa de alguien que no quiere que estés allí podía ser una idea bastante peligrosa.
+—Desde que me di cuenta de que no podía seguir haciendo lo que estaba haciendo.
 
 El Cerdito Mediano miró al Mayor.
 

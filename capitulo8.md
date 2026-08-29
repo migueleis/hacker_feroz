@@ -350,9 +350,7 @@ Porque esa tarde no había dejado un dron al azar.
 
 Había dejado una transmisión activa.
 
-La misma cafetera inteligente que había usado antes en la casa del Cerdito Mediano seguía funcionando como una pequeña puerta de entrada.
-
-Y durante horas la policía había estado escuchando cada amenaza, cada cantidad, cada nombre y cada confesión.
+La misma cafetera inteligente que había usado antes en la casa del Cerdito Mediano seguía funcionando como una pequeña puerta de entrada, y la policía llevaba horas escuchando cada amenaza, cada cantidad, cada nombre y cada confesión.
 
 Cuando el Lobo había decidido mandar las grabaciones, no estaba intentando salvarse.
 

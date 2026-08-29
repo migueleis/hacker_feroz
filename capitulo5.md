@@ -138,13 +138,7 @@ Lo abrió.
 
 Dentro había una lista.
 
-Contraseña del ordenador.
-
-Contraseña del correo.
-
-Contraseña del móvil.
-
-Contraseña de una cuenta bancaria.
+Contraseñas del ordenador, del correo, del móvil y de una cuenta bancaria.
 
 Y casi todas eran...
 
@@ -183,6 +177,7 @@ Aunque, en aquel caso...
 solo había una puerta.
 
 Y estaba abierta.
+
 Entonces el Lobo siguió explorando el equipo.
 
 Había demasiados archivos.
