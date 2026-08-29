@@ -240,6 +240,46 @@ Quizá llevaban años.
 
 Y quizá él no era más que una pequeña pieza de algo mucho más grande.
 
+Entonces abrió uno de los archivos que había encontrado en la carpeta de pagos.
+
+No eran solo números.
+
+Eran nombres.
+
+Fechas.
+
+Mensajes con amenazas.
+
+Notas de personas que pedían tiempo porque no podían pagar.
+
+Un restaurante que estaba a punto de cerrar.
+
+Un joven con una deuda que no podía saldar.
+
+Una madre que había escrito: “Si esto sale a la luz, perderé mi trabajo”.
+
+Y una frase repetida en varias carpetas, en distintos tonos de miedo:
+
+**“Si no pagas, no sabes lo que puede pasar.”**
+
+El Lobo dejó de respirar durante unos segundos.
+
+No había estado robando una suma abstracta.
+
+Había estado empujando a personas a la desesperación.
+
+Personas que no habían hecho nada malo.
+
+Personas que solo querían sobrevivir.
+
+Y de repente entendió algo que no había entendido antes.
+
+No estaba solo siendo explotado.
+
+También estaba explotando a otros.
+
+Eso sí que no podía seguir haciéndolo.
+
 El Lobo volvió a encender el ordenador.
 
 Abrió sus archivos.

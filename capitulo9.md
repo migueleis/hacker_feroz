@@ -34,6 +34,68 @@ Y más.
 
 Hasta que unas luces azules iluminaron las ventanas de la casa.
 
+Pero el dron no era lo importante.
+
+Lo importante era lo que había dejado escondido en la casa del Cerdito Mediano.
+
+La cafetera inteligente.
+
+La pequeña máquina que había usado para entrar en la red la primera vez.
+
+La misma del trabajo de campo.
+
+La misma que le había dado acceso.
+
+La misma que ahora estaba retransmitiendo la conversación desde dentro de la casa.
+
+No había sido una idea de última hora.
+
+Había sido la última decisión que el Lobo tomó cuando ya no tenía salida.
+
+Cuando decidió no volver a ser invisible.
+
+Cuando comprendió que, si seguía adelante, no podría jamás volver a ser el mismo tipo que había empezado a engañar a la gente por dinero fácil.
+
+Y por eso, antes de entrar en la casa del Cerdito Mayor, había permitido que la policía escuchara.
+
+No para escapar.
+
+No para salvarse.
+
+Sino porque sabía que, el momento en que comenzó a mandar las grabaciones, había renunciado a la posibilidad de volver atrás.
+
+Era el punto en el que ya no importaba cómo terminara.
+
+Porque ya se había entregado.
+
+El Cerdito Mayor miró al Lobo con una furia repentina.
+
+—¿Qué has hecho?
+
+El Lobo se balanceó ligeramente en la red.
+
+—He hecho lo que tú jamás entendiste.
+
+—¿Qué es eso?
+
+—Dejar una puerta trasera.
+
+Los cerditos se quedaron inmóviles.
+
+Porque la policía llevaba escuchando desde antes de que el Lobo entrara por la chimenea.
+
+No por el dron.
+
+No por una grabación que apareciera de la nada.
+
+Por la cafetera inteligente del Cerdito Mediano.
+
+Por el mismo dispositivo que él había usado para entrar en la red.
+
+Por una puerta que él había dejado abierta, pero que nadie había notado.
+
+Y entonces, en la oscuridad de la casa, la voz de la policía llegó desde el exterior.
+
 El Cerdito Mediano corrió hacia una de ellas.
 
 Miró fuera.
@@ -64,7 +126,7 @@ Los tres cerditos lo miraron.
 
 —¿Entonces qué hacía?
 
-—Terminando de enviarla.
+—Terminar la última transmisión.
 
 El Cerdito Mayor frunció el ceño.
 
@@ -72,7 +134,17 @@ El Cerdito Mayor frunció el ceño.
 
 El Lobo se encogió de hombros.
 
-—La policía lleva escuchando desde antes de que yo entrara por la chimenea.
+—La cafetera del Mediano no era solo una cafetera.
+
+Era la misma clase de aparato que suele haber en casas modernas con sistemas raros y luces bonitas.
+
+Y yo ya me había colado en ella antes.
+
+Los tres cerditos se miraron.
+
+—¿Qué quieres decir?
+
+—Que la policía llevaba escuchando desde antes de que yo entrara por la chimenea.
 
 Silencio.
 

@@ -36,7 +36,11 @@ Los cerditos quieren que consiga dinero de otras personas utilizando sus conocim
 
 Hasta que llega al límite.
 
-Una noche, el Lobo se queda mirando la pantalla de su ordenador y se hace una pregunta que nunca antes se había hecho:
+Una noche, el Lobo se queda mirando la pantalla de su ordenador y lo que ve no son cifras o mensajes. Son nombres. Fechas. Cantidades. Personas que no han hecho más que vivir y que, por miedo o por necesidad, han acabado pagando a unos criminales. Hay una nota que dice: “Si no pagas, se lo contaremos a todo el mundo”, y otra que habla de un restaurante que puede cerrar, de una familia que puede perder su casa o de alguien que puede quedar sin trabajo.
+
+Por primera vez, el Lobo entiende que no está “ganando dinero fácil”. Está destruyendo vidas.
+
+Y entonces se hace una pregunta que nunca antes se había hecho:
 
 **¿Y si utilizara todo lo que sé para hacer el bien?**
 

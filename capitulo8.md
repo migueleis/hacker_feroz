@@ -342,6 +342,24 @@ El Cerdito Mayor frunció el ceño.
 
 El Lobo señaló hacia arriba.
 
+No era la sonrisa de quien acaba de ganar.
+
+Era la sonrisa de alguien que había aceptado perderlo todo antes de empezar.
+
+Porque esa tarde no había dejado un dron al azar.
+
+Había dejado una transmisión activa.
+
+La misma cafetera inteligente que había usado antes en la casa del Cerdito Mediano seguía funcionando como una pequeña puerta de entrada.
+
+Y durante horas la policía había estado escuchando cada amenaza, cada cantidad, cada nombre y cada confesión.
+
+Cuando el Lobo había decidido mandar las grabaciones, no estaba intentando salvarse.
+
+Estaba aceptando que ya no había vuelta atrás.
+
+Estaba entregándose a la policía aunque no supiera cómo iba a salir de aquella casa.
+
 —Porque creo que deberíais mirar detrás de mí.
 
 Los tres cerditos se giraron.

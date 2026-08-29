@@ -106,11 +106,13 @@ El Lobo se frotó las patas.
 
 —Gracias, cafetera.
 
-La conexión con aquel dispositivo no era sencilla.
+No era una cuestión de ingeniería complicada.
 
-Pero el Lobo conocía aquella máquina como nadie.
+Era la clásica cafetera inteligente de la marca que todos los cerditos modernos parecían comprar cuando querían sentirse muy modernos.
 
-Había pasado tantas horas estudiándola que probablemente sabía más sobre ella que la persona que la había diseñado.
+Y el Lobo la conocía mejor que nadie.
+
+Había pasado tantas horas jugando con ella que casi podía adivinar sus pensamientos.
 
 —Vamos, pequeña.
 
@@ -137,6 +139,12 @@ La cafetera respondió.
 El Lobo sonrió.
 
 —Sabía que algún día todo ese tiempo jugando con su cafetera serviría para algo.
+
+Y, como si el destino quisiera dejarle una segunda oportunidad, no solo usó la cafetera para entrar.
+
+También dejó preparado un pequeño canal de vigilancia oculto.
+
+Una pequeña escucha silenciosa que podría seguir funcionando en segundo plano cuando él ya no estuviera allí.
 
 A través de ella consiguió acceder a la red de la casa.
 

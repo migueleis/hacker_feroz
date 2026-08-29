@@ -44,6 +44,28 @@ El Lobo hizo una mueca.
 
 Necesitaba pruebas.
 
+Y, sobre todo, necesitaba entender por qué estaba haciendo aquello.
+
+Porque ya no se trataba solo de dinero.
+
+Se trataba de la forma en que había puesto el miedo en personas que no tenían por qué sufrirlo.
+
+Había visto nombres reales.
+
+Hombres y mujeres con deudas, negocios, familias y trabajos que no podían permitirse perder.
+
+Y el Lobo sintió algo que no había sentido antes.
+
+No era miedo.
+
+Era náusea.
+
+No podía seguir ganando a costa de la desesperación ajena.
+
+Eso era lo que le estaba haciendo a la gente.
+
+Y eso era precisamente lo que tenía que parar.
+
 Y para conseguirlas tenía que empezar por uno de los cerditos.
 
 El Lobo abrió el ordenador y pensó.
