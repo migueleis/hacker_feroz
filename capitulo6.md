@@ -86,24 +86,6 @@ Se quedó mirando la casa.
 
 Entonces recordó algo.
 
-Una cafetera.
-
-Su cafetera.
-
-La cafetera que había comprado porque, según él, era "el futuro".
-
-La misma cafetera que llevaba meses desmontando, configurando y volviendo a desmontar porque quería saber exactamente cómo funcionaba.
-
-La misma cafetera que había conseguido conectar a Internet.
-
-Y, sobre todo...
-
-la misma cafetera que había conseguido hacer funcionar de formas que probablemente ningún fabricante habría recomendado.
-
-El Lobo abrió mucho los ojos.
-
-—Espera...
-
 Volvió a abrir el ordenador.
 
 Buscó los dispositivos conectados.
@@ -118,11 +100,7 @@ El Lobo sonrió.
 
 Se quedó unos segundos mirando la pantalla.
 
-—¿El Cerdito Mediano tiene la misma?
-
-Comprobó el modelo.
-
-Era exactamente igual.
+—¿El Cerdito Mediano tiene mi misma cafetera?
 
 El Lobo se frotó las patas.
 
@@ -158,7 +136,7 @@ La cafetera respondió.
 
 El Lobo sonrió.
 
-—Sabía que algún día todo ese tiempo jugando con tu cafetera serviría para algo.
+—Sabía que algún día todo ese tiempo jugando con su cafetera serviría para algo.
 
 A través de ella consiguió acceder a la red de la casa.
 
@@ -190,7 +168,7 @@ El sistema estaba actualizado.
 
 Y había varias medidas de seguridad funcionando al mismo tiempo.
 
-El Lobo sonrió.
+El Lobo se quedó mirando la pantalla.
 
 —Muy bien, Cerdito Mediano.
 
@@ -198,7 +176,55 @@ Se reclinó en el asiento.
 
 —Por fin alguien que se ha tomado esto en serio.
 
-ACCESO CONSEGUIDO
+Miró la red interna.
+
+Encontró un servicio de archivos compartidos.
+
+Después un panel de administración.
+
+Y luego un puerto antiguo.
+
+El Lobo probó la primera ruta.
+
+Nada.
+
+La segunda.
+
+Nada.
+
+Una tercera.
+
+**ACCESO DENEGADO.**
+
+Se mordió el labio.
+
+—Vale, vale. Si no puedes abrir la puerta, busca la ventana.
+
+Revisó el sistema en busca de una vulnerabilidad.
+
+Y allí estaba.
+
+Un servicio sin actualizar.
+
+Un módulo viejo.
+
+Una errata de seguridad que alguien había dejado sin corregir.
+
+El Lobo sonrió.
+
+—Ah. Ahí estás.
+
+Escribió a toda prisa.
+
+Una línea de comandos.
+
+Un cambio de configuración.
+
+Otra prueba.
+
+Y de repente...
+
+**ACCESO AL SISTEMA CONSEGUIDO**
 
 El Lobo levantó las patas.
 
@@ -354,6 +380,8 @@ Lo mismo.
 
 Siempre alguien por encima.
 
+Alguien por encima de ellos dos.
+
 Alguien que recibía el dinero.
 
 El Lobo siguió investigando.
@@ -504,14 +532,6 @@ Volvió a entrar.
 
 El Lobo salió lentamente de detrás del árbol.
 
-Miró la casa de madera.
-
-Después miró el ordenador.
-
-Y finalmente miró la carretera que llevaba hasta el siguiente destino.
+Al día siguiente siguió al cerdito mediano hasta su reunión.
 
 —Así que el jefe vive en una casa de ladrillo.
-
-Sonrió.
-
-—Esto se pone interesante.
