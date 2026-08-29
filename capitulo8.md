@@ -356,7 +356,7 @@ Cuando el Lobo había decidido mandar las grabaciones, no estaba intentando salv
 
 Estaba aceptando que ya no había vuelta atrás.
 
-Estaba entregándose a la policía aunque no supiera cómo iba a salir de aquella casa.
+Estaba entregándose a la policía, aunque no supiera cómo iba a salir de aquella casa.
 
 —Porque creo que deberíais mirar detrás de mí.
 

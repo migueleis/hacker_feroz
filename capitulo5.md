@@ -122,7 +122,7 @@ Pensó un segundo.
 
 —Bueno... quizá no tantas.
 
-Entró en el ordenador.
+Entonces entró en el ordenador.
 
 Y entonces descubrió algo todavía peor.
 

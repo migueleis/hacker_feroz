@@ -304,6 +304,8 @@ Y sabía que estaban mal.
 
 Así que contó toda la verdad.
 
+Y esta vez no intentó justificarlo.
+
 Durante el juicio, el juez escuchó cada una de las historias.
 
 Primero, la de los cerditos.
