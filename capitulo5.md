@@ -32,131 +32,164 @@ El Lobo levantó una ceja.
 
 —¿En serio?
 
-Se quedó pensando.
+Hizo clic sobre la red.
 
-—Bueno... cada uno pone el nombre que quiere.
+Esperó.
 
-Abrió la red.
-
-Apareció una contraseña.
-
-**123456**
-
-El Lobo parpadeó.
-
-Volvió a mirar.
-
-**123456**
-
-—No puede ser.
-
-La escribió.
-
-La conexión se estableció inmediatamente.
+Y...
 
 **CONECTADO**
 
-El Lobo se quedó mirando la pantalla durante unos segundos.
+El Lobo parpadeó.
 
-—Esto ha sido demasiado fácil.
-
-Miró hacia la casa.
-
-—Soplaré...
-
-Hizo una pausa.
-
-—Soplaré...
-
-Pulsó una tecla.
-
-—¡Y tu contraseña descubriré!
-
-**¡PIP!**
-
-Conectado.
-
-El Lobo sonrió.
-
-—Funciona.
-
-Entró en la red.
-
-Encontró un ordenador.
-
-Después otro.
-
-Y después una impresora.
-
-—Una impresora.
-
-La miró durante unos segundos.
-
-—Nunca entenderé por qué algunas personas conectan las impresoras a Internet.
-
-Siguió investigando.
-
-El ordenador del Cerdito Pequeño tenía una contraseña distinta.
-
-El Lobo probó algunas de las contraseñas más habituales.
-
-Una no funcionó.
-
-Otra tampoco.
-
-La tercera...
-
-**¡CLIC!**
-
-—¿12345678?
-
-El Lobo se llevó una pata a la cara.
-
-—Por favor...
-
-Entró.
-
-El escritorio estaba lleno de archivos.
-
-**VACACIONES**
-
-**FOTOS**
-
-**IMPUESTOS**
-
-**CONTRASEÑAS**
-
-El Lobo se quedó mirando la última carpeta.
-
-—Eso no puede ser.
-
-La abrió.
-
-Dentro había un documento.
-
-El título era:
-
-**MIS CONTRASEÑAS**
-
-El Lobo se quedó completamente quieto.
-
-—No.
-
-Miró hacia la casa.
-
-—No, no, no.
+—¿Eso es todo?
 
 Volvió a mirar la pantalla.
 
-—¡No puedes guardar tus contraseñas en un archivo que se llama "MIS CONTRASEÑAS"!
+No había contraseña.
 
-Se llevó las patas a la cabeza.
+No había código.
 
-—¡Esto es peor que 123456!
+No había nada.
 
-El Lobo respiró profundamente.
+La red estaba completamente abierta.
 
-—Necesito un café.
+El Lobo se quedó unos segundos en silencio.
+
+—Cerdito...
+
+Miró hacia la casa.
+
+—Una Wi‑Fi debería tener contraseña.
+
+Se encogió de hombros.
+
+—Pero gracias.
+
+Y, aunque no lo dijera en voz alta, pensó para sí mismo con una sonrisa:
+
+—Soplaré...
+
+No hacía falta derribar la casa.
+
+Bastaba con entrar en la red.
+
+Ya estaba dentro.
+
+Ahora necesitaba encontrar el ordenador del Cerdito Pequeño.
+
+Lo localizó rápidamente.
+
+Pero esta vez sí había una contraseña.
+
+El Lobo sonrió.
+
+—Ah. Por fin algo de seguridad.
+
+Miró la pantalla.
+
+**INTRODUZCA SU CONTRASEÑA**
+
+—Veamos...
+
+Pensó unos segundos.
+
+—Voy a probar la cosa más estúpida que se me ocurra.
+
+Tecleó:
+
+**123456**
+
+Pulsó Enter.
+
+**¡CLIC!**
+
+El ordenador se desbloqueó.
+
+El Lobo se quedó mirando la pantalla.
+
+—No puede ser.
+
+Volvió a mirar hacia la casa.
+
+—¡Era 123456!
+
+Se llevó una pata a la cara.
+
+—¿Sabes que hay más de nueve millones de contraseñas mejores que esa?
+
+Pensó un segundo.
+
+—Bueno... quizá no tantas.
+
+Entró en el ordenador.
+
+Y entonces descubrió algo todavía peor.
+
+En el escritorio había un archivo llamado:
+
+**MIS CONTRASEÑAS**
+
+El Lobo abrió mucho los ojos.
+
+—No.
+
+Lo abrió.
+
+Dentro había una lista.
+
+Contraseña del ordenador.
+
+Contraseña del correo.
+
+Contraseña del móvil.
+
+Contraseña de una cuenta bancaria.
+
+Y casi todas eran...
+
+**123456**
+
+El Lobo cerró los ojos.
+
+—Cerdito...
+
+Suspiró.
+
+—No puedes utilizar la misma contraseña para todo.
+
+Abrió los ojos.
+
+—Si alguien consigue una, las consigue todas.
+
+Se quedó mirando la pantalla.
+
+—Y tampoco estaría mal poner una segunda comprobación.
+
+El Lobo señaló el ordenador.
+
+—Una contraseña es una puerta.
+
+Después señaló el teléfono móvil.
+
+—Y una segunda comprobación es otra puerta.
+
+Sonrió.
+
+—Dos puertas son más difíciles de abrir que una.
+
+Aunque, en aquel caso...
+
+solo había una puerta.
+
+Y estaba abierta.
+Entonces el Lobo siguió explorando el equipo.
+
+Había demasiados archivos.
+
+Demasiadas carpetas.
+
+Y demasiado para no descubrir la verdad.
 
 Pero entonces vio otra carpeta.
 
@@ -221,36 +254,6 @@ Y junto a algunos nombres aparecía una palabra:
 Junto a otros:
 
 **PENDIENTE.**
-
-Y junto a unos pocos:
-
-**PROBLEMAS.**
-
-El Lobo frunció el ceño.
-
-—¿Qué significa "problemas"?
-
-Siguió buscando.
-
-Encontró una carpeta protegida con una contraseña.
-
-—Ah.
-
-Por fin algo interesante.
-
-Intentó abrirla.
-
-No pudo.
-
-Probó otra vez.
-
-Nada.
-
-—Vaya.
-
-El Lobo sonrió.
-
-—Parece que el Cerdito Pequeño sí sabe guardar algún secreto.
 
 Se reclinó en el banco.
 
@@ -328,10 +331,258 @@ Y sonrió.
 
 Guardó el portátil.
 
-—Ahora solo necesito averiguar quién está al otro lado de ese teléfono.
+Y se acercó a la puerta.
 
-El Lobo se alejó por la calle.
+**TOC, TOC, TOC.**
 
-Pero esta vez no estaba pensando en dinero.
+El Cerdito Pequeño abrió.
 
-Estaba pensando en el siguiente paso de su plan.
+Al ver al Lobo, se quedó completamente quieto.
+
+—Tú...
+
+—Hola.
+
+—¿Qué haces aquí?
+
+El Lobo levantó el ordenador.
+
+—He estado investigando.
+
+El cerdito tragó saliva.
+
+—¿Investigando qué?
+
+El Lobo sonrió.
+
+—A ti.
+
+El Cerdito Pequeño intentó cerrar la puerta.
+
+El Lobo puso una pata antes de que pudiera hacerlo.
+
+—Tranquilo. No he venido a hacerte daño.
+
+Sacó una hoja.
+
+—He encontrado tus archivos.
+
+El cerdito miró la hoja.
+
+Después miró al Lobo.
+
+—No sabes lo que estás haciendo.
+
+—Creo que sí.
+
+El Lobo señaló la casa.
+
+—Sé que llevas tiempo extorsionando a gente.
+
+El cerdito no respondió.
+
+—Sé que les pides dinero.
+
+Silencio.
+
+—Y sé que no estás trabajando solo.
+
+El Cerdito Pequeño empezó a ponerse nervioso.
+
+—Mira, podemos llegar a un acuerdo.
+
+—Eso espero.
+
+El Lobo guardó la hoja.
+
+—Quiero que dejes de hacerlo.
+
+—¿Y si no?
+
+El Lobo señaló su ordenador.
+
+—Entonces haré un pequeño...
+
+Se detuvo.
+
+Sonrió.
+
+—Un pequeño **soplo**.
+
+El cerdito parpadeó.
+
+—¿Un soplo?
+
+—A la policía.
+
+El Cerdito Pequeño palideció.
+
+—No puedes hacer eso.
+
+—Claro que puedo.
+
+El Lobo levantó una pata.
+
+—Soplaré...
+
+Otra pata.
+
+—Soplaré...
+
+Y señaló la puerta.
+
+—¡Y a la policía te delataré!
+
+El cerdito se quedó mirándolo.
+
+El Lobo sonrió.
+
+Durante unos segundos no se escuchó nada.
+
+Finalmente, el Cerdito Pequeño bajó la cabeza.
+
+—Está bien.
+
+—¿Está bien?
+
+—Sí.
+
+El cerdito asintió rápidamente.
+
+—Dejaré de hacerlo.
+
+—¿De verdad?
+
+—De verdad.
+
+El Lobo lo miró con desconfianza.
+
+—Y dejarás de extorsionar a todas esas personas.
+
+—Sí.
+
+—Y no volverás a utilizarme para conseguir dinero.
+
+—No.
+
+El Lobo sonrió.
+
+—Perfecto.
+
+El cerdito también sonrió.
+
+Pero era una sonrisa extraña.
+
+Demasiado extraña.
+
+—Entonces...
+
+El cerdito dio un paso atrás.
+
+—Creo que ya hemos terminado.
+
+Y antes de que el Lobo pudiera responder...
+
+**¡PUM!**
+
+El Cerdito Pequeño salió corriendo.
+
+—¡Eh!
+
+El Lobo se quedó mirando.
+
+—¡Oye!
+
+El cerdito dobló la esquina a toda velocidad.
+
+El Lobo suspiró.
+
+—Sabía que era demasiado fácil.
+
+Corrió hasta su coche.
+
+Arrancó.
+
+Y salió detrás de él.
+
+---
+
+El Cerdito Pequeño corría todo lo rápido que podían correr unas patas de cerdo.
+
+Pero el Lobo tenía coche.
+
+Y eso era una ventaja bastante importante.
+
+—Vamos...
+
+El Lobo mantenía cierta distancia.
+
+No quería que el cerdito lo viera.
+
+El cerdito giró en una esquina.
+
+Después en otra.
+
+Y después tomó una carretera que salía del pueblo.
+
+El Lobo lo siguió.
+
+Pasaron junto a un parque.
+
+Después junto a un pequeño puente.
+
+Y finalmente llegaron a una zona llena de árboles.
+
+El cerdito frenó delante de una casa.
+
+Bajó del coche.
+
+Miró a su alrededor.
+
+Y llamó a la puerta.
+
+**TOC, TOC, TOC.**
+
+El Lobo frenó unos metros más atrás.
+
+Apagó el motor.
+
+Y se quedó observando.
+
+La puerta se abrió.
+
+Un cerdito más grande apareció al otro lado.
+
+El Cerdito Pequeño entró rápidamente.
+
+El Lobo entrecerró los ojos.
+
+—Así que tú eres el compinche...
+
+Miró la casa.
+
+Sus paredes eran de madera.
+
+La puerta parecía mucho más resistente.
+
+Las ventanas tenían gruesos marcos.
+
+Y en el tejado había varias antenas.
+
+El Lobo sonrió.
+
+—Vaya.
+
+Sacó lentamente su ordenador portátil.
+
+Miró la casa.
+
+Después miró la pantalla.
+
+—Esto va a ser un poco más difícil.
+
+Y arrancó de nuevo el coche.
+
+Pero esta vez...
+
+el Lobo ya sabía dónde vivía el siguiente cerdito.
