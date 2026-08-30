@@ -58,10 +58,6 @@ Se encogió de hombros.
 
 —Pero gracias.
 
-Y, aunque no lo dijera en voz alta, pensó para sí mismo con una sonrisa:
-
-—Soplaré...
-
 No hacía falta derribar la casa.
 
 Bastaba con entrar en la red.
