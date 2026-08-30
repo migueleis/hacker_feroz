@@ -2,14 +2,6 @@
 
 ## La casa de paja
 
-—Bueno, cerdito...
-
-El Lobo Feroz sacó su ordenador portátil.
-
-Lo abrió.
-
-—Veamos cuánto sabes de seguridad.
-
 Se sentó en un banco frente a la casa.
 
 Desde allí podía ver la puerta, las ventanas y una pequeña antena que sobresalía del tejado.
