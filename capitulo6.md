@@ -4,10 +4,6 @@
 
 El Lobo Feroz aparcó el coche a una distancia prudente.
 
-Muy prudente.
-
-Tan prudente que estaba escondido detrás de un árbol.
-
 Miró la casa.
 
 Después miró su ordenador.
@@ -39,8 +35,6 @@ Escribió:
 Se quedó pensando.
 
 —Veamos...
-
-Abrió el ordenador.
 
 Empezó a buscar redes Wi-Fi.
 
@@ -258,8 +252,6 @@ El ordenador tenía antivirus.
 
 Actualizaciones recientes.
 
-Contraseñas diferentes.
-
 Y varias medidas de seguridad activadas.
 
 El Lobo asintió.
@@ -344,7 +336,7 @@ C.M.
 
 El Lobo se quedó pensando.
 
-—Cerdito Mediano.
+—Cerdito Mediano?
 
 Abrió otro archivo.
 
@@ -488,7 +480,7 @@ El Cerdito Mediano salió.
 
 Llevaba el teléfono en la mano.
 
-El Lobo se agachó detrás del árbol.
+El Lobo se agachó.
 
 —Otra vez no...
 
@@ -538,7 +530,7 @@ El Cerdito Mediano colgó.
 
 Volvió a entrar.
 
-El Lobo salió lentamente de detrás del árbol.
+El Lobo se incorporó.
 
 Al día siguiente siguió al cerdito mediano hasta su reunión.
 
