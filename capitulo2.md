@@ -348,10 +348,18 @@ Y eso era mucho peor.
 
 El Lobo tragó saliva.
 
-Aquello ya no parecía un interrogatorio.
+—Queremos que entres donde nadie más puede entrar.
 
-Parecía un trato.
+El Lobo frunció el ceño.
 
-Y los tratos con los cerditos...
+—¿Dónde?
+
+Uno de los cerditos sonrió.
+
+—En una casa //TODO borrar tras maquetado (imagen de la casa de la abuelita)
+
+Parecía un buen trato.
+
+Pero los tratos con los cerditos...
 
 podían ser muy peligrosos.
