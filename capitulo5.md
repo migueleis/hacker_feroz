@@ -276,7 +276,23 @@ Pausa.
 
 —Sí. El Lobo sigue haciendo lo que le pedimos.
 
-El Lobo abrió mucho los ojos.
+Otra pausa.
+
+El cerdito sonrió.
+
+—Ha costado más de lo esperado.
+
+Silencio.
+
+—Pero, por fin, ha conseguido engañar a la persona adecuada.
+
+El Lobo frunció el ceño.
+
+—Sí. Ya tenemos el camino libre hasta la casa de la abuelita.
+
+Pausa.
+
+—No. Ella no sabe nada.
 
 **¿Qué?**
 
@@ -285,12 +301,6 @@ El cerdito continuó hablando.
 —Esta semana tendremos que pedirle más.
 
 El Lobo apretó los dientes.
-
-Aquello era justo lo que necesitaba escuchar.
-
-Una prueba.
-
-Pero necesitaba algo más.
 
 Necesitaba saber con quién estaba hablando.
 
