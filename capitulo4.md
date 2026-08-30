@@ -82,7 +82,7 @@ El Lobo empezó a buscar información.
 
 No tuvo que esforzarse demasiado.
 
-La policía tenía una página web.
+El Centro de Seguridad de la Hermandad tenía una página web.
 
 Y en ella había información que cualquiera podía consultar.
 
