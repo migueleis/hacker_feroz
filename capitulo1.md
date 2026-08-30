@@ -74,9 +74,9 @@ Dinero sin tener que levantarse demasiado temprano.
 
 Aquella mañana, el Lobo estaba sentado delante de tres monitores.
 
-En uno tenía abierto su ordenador.
+En uno tenía abierta una aplicación del banco.
 
-En otro, una página web falsa.
+En otro, una página web.
 
 Y en el tercero...
 
@@ -86,79 +86,173 @@ Porque incluso los hackers necesitan descansar.
 
 —Vamos, vamos... —murmuró.
 
-Un pequeño sonido apareció en la pantalla.
+En el monitor central aparecía una página que parecía pertenecer a una organización muy conocida entre los cerditos.
 
-**¡CLIC!**
+La **Hermandad de los Cerditos**.
+
+La Hermandad se encargaba de ayudar a los cerditos a construir casas seguras y ofrecía distintos servicios de protección.
+
+Y tenía una oferta especial para nuevos miembros.
+
+O, al menos, eso era lo que decía la página que estaba viendo el Lobo.
+
+Porque aquella no era la página de la Hermandad.
+
+Era una copia.
+
+Una copia prácticamente idéntica.
+
+Mismo nombre.
+
+Mismo logo.
+
+Mismos dibujos.
+
+Mismos botones.
+
+Pero había una pequeña diferencia.
+
+El Lobo había cambiado la oferta.
+
+La Hermandad cobraba **9,99 monedas al mes**.
+
+En la página del Lobo aparecía:
+
+**¡OFERTA ESPECIAL!**
+
+**PRIMER MES: 1 MONEDA**
+
+El Lobo se frotó las patas.
+
+—¿Quién va a decir que no?
+
+En el segundo monitor apareció una pequeña notificación.
+
+**NUEVO VISITANTE**
+
+El Lobo se inclinó hacia delante.
+
+—Hola...
+
+Unos segundos después:
+
+**NUEVO REGISTRO**
+
+—Bien.
+
+Otro mensaje apareció.
+
+**DATOS RECIBIDOS**
 
 El Lobo sonrió.
 
-—Uno más.
+—Mejor.
 
-Volvió a teclear.
+Esperó.
 
-**¡CLIC!**
+Entonces apareció otra notificación.
 
-—Dos.
+**NUEVO SOCIO**
 
-Volvió a teclear.
+El Lobo levantó una ceja.
 
-**¡CLIC!**
+—Bueno... socio de mentira.
 
-—¡Tres!
+Volvió a mirar el contador.
 
-Se levantó de la silla.
+**SOCIOS REGISTRADOS: 47**
 
-—¡JA!
+—Siete.
 
-Levantó las patas hacia el techo.
+El número cambió.
 
-—¡El Lobo Feroz vuelve a atacar!
+**48**
 
-Su ordenador emitió un pitido.
+—Cuarenta y ocho.
 
-**PIP.**
+**49**
 
-El Lobo miró la pantalla.
+—¡Cuarenta y nueve!
 
-Otro pitido.
+El Lobo empezó a reírse.
 
-**PIP.**
+—¡Esto funciona!
 
-Y entonces apareció un mensaje.
+Mientras tanto, en otra la aplicación del banco, una pequeña cifra iba aumentando.
 
-**TRANSACCIÓN COMPLETADA.**
+**PAGOS RECIBIDOS: 50**
 
-El Lobo sonrió.
+El Lobo abrió mucho los ojos.
 
-—Me encanta mi trabajo.
+—¡Ja!
 
-Aunque había un pequeño problema.
+Aquello sí que le gustaba.
 
-El Lobo Feroz no era especialmente bueno administrando su dinero.
+No necesitaba perseguir a nadie.
 
-Lo gastaba casi todo.
+No necesitaba romper ninguna puerta.
 
-Comida.
+Solo tenía que conseguir que las personas entraran por la puerta equivocada.
 
-Videojuegos.
+Y lo mejor de todo era que, mientras se registraban, dejaban algo más que una moneda.
 
-Ordenadores nuevos.
+Sus nombres.
 
-Un sofá con forma de hueso que había comprado porque le parecía una idea estupenda.
+Sus direcciones.
 
-No lo era.
+Sus teléfonos.
 
-Y también había comprado una cafetera que podía conectarse a Internet.
+Sus datos.
 
-Tampoco era una buena idea.
+Información que el Lobo podía utilizar después.
 
-Una vez que consiguió que la cafetera le enviara una notificación al móvil cada vez que terminaba el café, se quedó mirándola durante varios minutos.
+El contador siguió aumentando.
 
-—Esto —dijo emocionado— es el futuro.
+**SOCIOS REGISTRADOS: 51**
 
-No lo era.
+El Lobo se levantó de la silla.
 
-Pero al Lobo le daba igual.
+—¡Cincuenta y uno!
+
+Miró el vídeo de gatitos.
+
+—Lo siento, amigos. Esto es más interesante.
+
+Volvió a sentarse.
+
+El número continuó creciendo.
+
+**52**
+
+**53**
+
+**54**
+
+El Lobo ya ni siquiera intentaba disimular su sonrisa.
+
+—La Hermandad va a estar orgullosísima de mí.
+
+Hizo una pausa.
+
+—Bueno... de ellos mismos.
+
+Una nueva notificación apareció.
+
+**NUEVO PAGO RECIBIDO**
+
+El Lobo dio un pequeño salto.
+
+—¡Bingo!
+
+Sonrió.
+
+—Y todo por una moneda.
+
+Se reclinó en su silla.
+
+—Definitivamente, soy un genio.
+
+---
 
 Aquella tarde, mientras preparaba su siguiente engaño, ocurrió algo extraño.
 
@@ -196,15 +290,13 @@ El ordenador volvió a encenderse.
 
 Y apareció una imagen.
 
-Dos cerditos.
-
-Con uniforme del Centro de Seguridad de la Hermandad.
+El logo de la Hermandad de Constructores.
 
 El Lobo se quedó inmóvil.
 
-Debajo de la fotografía había un mensaje.
+Debajo de la imagen había un mensaje.
 
-**SABEMOS QUIÉN ERES.**
+**SABEMOS QUIÉN ERES LOBO**
 
 El Lobo tragó saliva.
 
@@ -218,12 +310,6 @@ Apareció una segunda línea.
 
 **SABEMOS LO QUE HACES.**
 
-El Lobo miró hacia la puerta.
-
-Luego hacia la ventana.
-
-Luego otra vez hacia la pantalla.
-
 —Esto ya me gusta menos.
 
 La tercera línea apareció lentamente.
@@ -232,15 +318,11 @@ La tercera línea apareció lentamente.
 
 El Lobo se quedó muy quieto.
 
-Después miró su sofá con forma de hueso.
+Miró hacia la puerta.
 
-Miró su cafetera.
+Luego hacia la ventana.
 
-Miró los tres monitores.
-
-Y finalmente dijo:
-
-—Quizá debería haber comprado una planta.
+Luego otra vez hacia la pantalla.
 
 En ese mismo instante...
 
@@ -280,9 +362,9 @@ Volvió a mirar la pantalla.
 
 Y entonces soltó el aire que llevaba conteniendo.
 
-—¡Uf!¡Menudo susto!
+—¡Uf! ¡Menudo susto!
 
-—Así que era una broma...
+—Seguro que es una broma...
 
 El Lobo empezó a reírse.
 
@@ -305,5 +387,7 @@ El más pequeño levantó una placa.
 —Lobo Feroz.
 
 El Lobo parpadeó.
+
+—¿Sí?
 
 —¡Estás detenido!
