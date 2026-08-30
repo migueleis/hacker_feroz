@@ -1,6 +1,6 @@
 # Capítulo 4
 
-## El plan del Lobo
+## Un plan feroz
 
 El Lobo Feroz llevaba tres horas mirando una pantalla.
 

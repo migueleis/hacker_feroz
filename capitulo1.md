@@ -1,6 +1,6 @@
 # Capítulo 1
 
-## El Hacker Feroz
+## El Cracker Feroz
 
 Había lobos que aullaban a la luna.
 
