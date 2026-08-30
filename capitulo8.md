@@ -1,6 +1,6 @@
 # Capítulo 8
 
-## La trampa de la chimenea
+## La brecha de seguridad
 
 La noche había caído sobre la casa del Cerdito Mayor.
 
@@ -11,10 +11,6 @@ No se veía ninguna luz.
 No se escuchaba ningún ruido.
 
 El Lobo Feroz levantó la mirada hacia el tejado.
-
-La chimenea seguía allí.
-
-Exactamente donde la había visto.
 
 —Por fin —murmuró.
 
@@ -144,97 +140,87 @@ El Pequeño empezó a dar saltitos.
 
 El Lobo dejó de sonreír.
 
-—¿Qué quieres decir?
+Miró a los tres.
 
-El Cerdito Mayor se acercó.
+Después miró la red que lo mantenía atrapado.
 
-—Que sabemos lo que has estado haciendo.
+—Así que era una trampa.
 
-—¿Investigaros?
+—Claro —respondió el Mayor.
 
-—Entrar en nuestros ordenadores.
+El Lobo suspiró.
 
-—Descubrir nuestros secretos.
+—Bueno...
 
-—Seguirnos.
+Miró hacia abajo.
 
-El Lobo tragó saliva.
+—Supongo que vais a entregarme a la policía.
 
-—Y vosotros sabíais que iba a venir.
-
-—Claro.
-
-El Cerdito Pequeño señaló la chimenea.
-
-—La dejamos abierta para ti.
-
-El Lobo miró hacia arriba.
-
-—Así que todo esto...
-
-—Era una trampa.
-
-El Lobo cerró los ojos durante un segundo.
-
-—Genial.
-
-El Cerdito Mediano se cruzó de patas.
-
-—¿Sabes qué es lo más gracioso?
-
-El Lobo lo miró.
-
-—Que pensabas que estabas investigándonos.
-
-El Cerdito Mayor sonrió.
-
-—Y nosotros llevábamos todo este tiempo investigándote a ti.
-
-El Lobo permaneció callado.
-
-El Cerdito Pequeño se acercó.
-
-—Ahora vas a decirnos todo lo que sabes.
-
-—¿Y si no quiero?
-
-El cerdito sonrió.
-
-—No importa.
-
-El Lobo miró al Mayor.
-
-—¿Me vais a llevar a la policía?
-
-Los tres se miraron.
+Los tres cerditos se miraron.
 
 Y comenzaron a reír.
 
-El Cerdito Mayor negó lentamente con la cabeza.
+El Lobo frunció el ceño.
 
-—No.
+—¿Qué?
 
-El Lobo sintió un pequeño escalofrío.
+El Cerdito Mayor dio un paso hacia él.
+
+—¿De verdad crees que después de todo lo que has hecho vamos a dejar que salgas de aquí?
+
+El Lobo se quedó callado.
+
+—Te dimos una oportunidad —continuó el Mayor.
+
+—Podías haber seguido trabajando para nosotros.
+
+El Cerdito Mediano se acercó.
+
+—Tenías dinero.
+
+El Pequeño añadió:
+
+—Tenías protección.
+
+El Mayor negó lentamente con la cabeza.
+
+—Y decidiste ir contra nosotros.
+
+El Lobo tragó saliva.
 
 —Entonces...
 
-El cerdito se acercó todavía más.
+Miró a los tres.
 
-—No queremos que salgas de esta casa.
+—¿Qué vais a hacer conmigo?
+
+Los cerditos volvieron a mirarse.
+
+Esta vez ninguno se rio.
+
+El Cerdito Mayor se acercó hasta quedar justo delante de la red.
+
+—Lo que tú intentabas hacer con nosotros.
 
 Silencio.
 
-—Pero...
+—Acabar con nuestros planes.
 
-—No vamos a entregarte.
+El Lobo lo miró fijamente.
 
-El Mediano sonrió.
+—¿Me vais a matar?
 
-—Y tampoco vamos a dejar que cuentes lo que has descubierto.
+El Mayor sonrió.
 
-El Pequeño miró al Lobo.
+—No hace falta decirlo así.
 
-—Aquí nadie va a saber lo que ha pasado.
+El Mediano soltó una pequeña carcajada.
+
+—Digamos que no vas a salir de esta casa.
+
+El Pequeño se cruzó de patas.
+
+—Y nadie sabe que estás aquí.
 
 El Lobo dejó de moverse.
 
@@ -242,21 +228,29 @@ Por primera vez aquella noche...
 
 estaba realmente preocupado.
 
-Los cerditos se habían delatado.
+Los cerditos habían dejado de fingir.
 
-Habían hablado demasiado.
+Ya no querían utilizarlo.
 
-Pero no parecía importarles.
+Ya no querían chantajearlo.
 
-Porque estaban convencidos de que el Lobo nunca saldría de aquella casa.
+Querían silenciarlo.
 
 El Cerdito Mayor se sentó tranquilamente.
 
-—Ahora que sabemos que no podrás contárselo a nadie...
+—Pero antes...
 
 Hizo una pausa.
 
-—Podemos hablar con tranquilidad.
+—Hay algo que queremos que entiendas.
+
+El Lobo levantó la mirada.
+
+—¿El qué?
+
+El Mayor sonrió.
+
+—Que todo esto empezó mucho antes de que tú aparecieras.
 
 Y entonces empezó a contar.
 
@@ -328,114 +322,98 @@ Los tres cerditos sonrieron.
 
 Y entonces...
 
-el Lobo levantó la mirada.
+**¡PUM!**
 
-Sonreía.
+La puerta principal se abrió de golpe.
 
-El Cerdito Mayor frunció el ceño.
+—¡POLICÍA!
 
-—¿Qué?
+Los tres cerditos se quedaron paralizados.
 
-—Nada.
+El Lobo levantó la cabeza.
 
-—¿Por qué sonríes?
+Por primera vez, su expresión no revelaba nada.
 
-El Lobo señaló hacia arriba.
+Varios agentes entraron rápidamente en la casa.
 
-No era la sonrisa de quien acaba de ganar.
+—¡Que nadie se mueva!
 
-Era la sonrisa de alguien que había aceptado perderlo todo antes de empezar.
+—¡¿Qué está pasando?! —gritó el Cerdito Pequeño.
 
-Porque esa tarde no había dejado un dron al azar.
+—¡Esto es nuestra casa! —protestó el Mediano.
 
-Había dejado una transmisión activa.
+El Cerdito Mayor miró al Lobo.
 
-La misma cafetera inteligente que había usado antes en la casa del Cerdito Mediano seguía funcionando como una pequeña puerta de entrada, y la policía llevaba horas escuchando cada amenaza, cada cantidad, cada nombre y cada confesión.
+Después miró a los agentes.
 
-Cuando el Lobo había decidido mandar las grabaciones, no estaba intentando salvarse.
+—¡Él! ¡Ha entrado en nuestra casa! ¡Es un delincuente!
 
-Estaba aceptando que ya no había vuelta atrás.
+Uno de los agentes se acercó.
 
-Estaba entregándose a la policía, aunque no supiera cómo iba a salir de aquella casa.
+—Ya hablaremos de él.
 
-—Porque creo que deberíais mirar detrás de mí.
+Miró a los tres cerditos.
 
-Los tres cerditos se giraron.
+—Ahora mismo, vosotros tenéis un problema mucho mayor.
 
-Detrás de la red, justo en la entrada de la chimenea, había algo que ninguno había visto hasta entonces.
+Los tres se quedaron en silencio.
 
-Un pequeño dron.
+El Cerdito Mayor intentó recuperar la compostura.
 
-Estaba quieto.
+—No tienen ninguna prueba.
 
-Con una pequeña luz parpadeando.
+El agente lo miró.
 
-El Cerdito Pequeño abrió los ojos.
+—De eso hablaremos en comisaría.
 
-—¿Eso estaba ahí antes?
+Sacó unas esposas.
 
-El Mediano palideció.
+El Cerdito Mayor retrocedió.
 
-—No...
+—¡Esperad!
 
-El Cerdito Mayor se acercó.
+Los otros dos cerditos comenzaron a protestar.
+
+Los agentes los rodearon.
+
+El Lobo seguía atrapado en la red.
+
+Miraba la escena sin decir una palabra.
+
+El Cerdito Pequeño se volvió hacia él.
 
 —¿Qué has hecho?
 
-El Lobo sonrió.
+El Lobo no respondió.
 
-—Mientras vosotros estabais preparando vuestra trampa...
+El Mayor lo miró fijamente.
 
-Miró al dron.
+—¿Cómo has conseguido que vinieran?
 
-—...yo preparaba la mía.
+El Lobo levantó ligeramente una ceja.
 
-El Mayor dio un paso atrás.
+Pero siguió sin responder.
 
-—¡Apágalo!
+Uno de los agentes comenzó a bajar la red.
 
-El Lobo pulsó un pequeño botón que llevaba en la pata.
+Los cerditos fueron conducidos hacia la puerta.
 
-El dron emitió un sonido.
+Y, mientras salían, el Cerdito Mayor volvió a mirar al Lobo.
 
-**PIP.**
+—¡Esto no ha terminado!
 
-La luz cambió.
+El Lobo lo observó en silencio.
 
-En el pequeño panel apareció un mensaje.
+Cuando la puerta se cerró detrás de ellos, la casa quedó completamente quieta.
 
-**TRANSMISIÓN COMPLETADA**
+El Lobo miró a los agentes.
 
-El Cerdito Mayor se quedó inmóvil.
+Después miró la red.
 
-—¿Qué has transmitido?
+Y finalmente sonrió.
 
-El Lobo sonrió.
+Muy despacio.
 
-—Todo.
+Porque los cerditos todavía no sabían una cosa.
 
-El dron levantó lentamente el vuelo.
-
-**BZZZZZZZ.**
-
-Los tres cerditos miraron hacia arriba.
-
-El pequeño aparato subió por la chimenea.
-
-Pasó junto al Lobo.
-
-Y desapareció por el tejado.
-
-**BZZZZZZZ...**
-
-El sonido se fue alejando.
-
-Los tres cerditos se quedaron completamente quietos.
-
-El Lobo volvió a balancearse dentro de la red.
-
-—Bueno...
-
-Miró a los tres.
-
-—Supongo que ahora sí podemos llamar a la policía.
+**La trampa nunca había sido la red.**
