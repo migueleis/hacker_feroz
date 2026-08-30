@@ -14,13 +14,9 @@ Después miró al cerdito mediano.
 
 Volvió a mirar al pequeño.
 
-—¿Puedo cerrar la puerta?
-
-—No.
-
 —¿Puedo apagar el ordenador?
 
-—Tampoco.
+—No.
 
 —¿Puedo coger mi chaqueta?
 
@@ -69,8 +65,6 @@ El Lobo entró.
 El cerdito pequeño cerró la puerta.
 
 **¡CLAC!**
-
-—Bueno —dijo el Lobo—. Al menos no habéis puesto una sirena dentro.
 
 El cerdito mediano se sentó al volante.
 
@@ -184,253 +178,173 @@ Listas de direcciones.
 
 Avisos de seguridad.
 
-Y en una de las paredes había una enorme pantalla con una palabra escrita:
+Y en una de las paredes había una enorme insignia de la Hermandad: un emblema formado por ladrillos que dibujaban un escudo, con el pequeño símbolo de un cerdito en el centro.
 
-**CIBERSEGURIDAD**
+No hacía falta ninguna palabra para saber qué significaba.
+
+Aquel era el lugar donde construían y protegían los hogares de los cerditos.
 
 El Lobo abrió mucho los ojos.
 
 —Vaya.
 
-El cerdito mediano sonrió.
+—Siéntate —ordenó el cerdito pequeño.
 
-—Impresionante, ¿verdad?
+El Lobo obedeció.
 
-—Un poco.
+Frente a él había una mesa.
 
-—Aquí investigamos delitos informáticos.
+Sobre ella, una carpeta.
 
-El Lobo se acercó a uno de los ordenadores.
+Y junto a la carpeta, su ordenador.
 
-—¿Y atrapáis a muchos hackers?
+El Lobo se quedó mirando.
 
-—A algunos.
-
-—¿Y a los malos?
-
-—Sobre todo a los malos.
-
-El Lobo miró la pantalla.
-
-Después miró a los cerditos.
-
-Por primera vez desde que había entrado en aquel edificio, sintió algo extraño.
-
-No era miedo.
-
-Era curiosidad.
-
-Quizá había más cosas que podía hacer con sus conocimientos además de ganar dinero.
-
-Pero aquella idea desapareció rápidamente.
-
-—Bueno —dijo—. ¿Cuánto tiempo voy a estar aquí?
-
-El cerdito pequeño sacó una carpeta.
-
-—Eso dependerá de lo que encontremos.
-
-—Ya.
-
-El Lobo miró alrededor.
-
-—¿Y mi ordenador?
+—¿Ese es mi ordenador?
 
 —Lo hemos requisado.
 
-—¿Mi cafetera?
-
-El cerdito mediano frunció el ceño.
-
-—¿Qué tiene que ver tu cafetera?
-
-—Nada. Solo quería saber si alguien la va a cuidar.
-
-El cerdito pequeño cerró la carpeta.
-
-—Vamos a empezar.
-
-El Lobo se sentó frente a la mesa.
-
-El cerdito mediano dejó varios documentos delante de él.
-
-—Sabemos que llevas meses enviando mensajes falsos.
-
-El Lobo bajó la mirada.
-
-—Sí.
-
-—Sabemos que has creado páginas para engañar a la gente.
-
-—Sí.
-
-—Y sabemos que has conseguido dinero utilizando información que no era tuya.
-
-El Lobo asintió.
-
-—Sí.
-
-El cerdito pequeño se inclinó hacia él.
-
-—Así que queremos saber algo.
-
-El Lobo levantó la cabeza.
-
-—¿Qué?
-
-—¿Quién más está haciendo lo mismo?
-
-El Lobo se quedó pensando.
-
-Aquello era una pregunta interesante.
-
-Muy interesante.
-
-Porque él conocía a otros hackers.
-
-Algunos eran mejores que él.
-
-Mucho mejores.
-
-Pero había una cosa que los cerditos todavía no sabían.
-
-El Lobo llevaba mucho tiempo moviéndose por Internet.
-
-Había visto nombres.
-
-Había encontrado pistas.
-
-Había entrado en lugares donde no debía.
-
-Y quizá podía ayudarles.
-
-—Si os cuento lo que sé...
-
-El cerdito pequeño asintió.
-
-—Podríamos tenerlo en cuenta.
-
-—¿Y eso significa que me vais a dejar libre?
-
-Los dos cerditos se miraron.
+—¿Y lo habéis encendido?
 
 El cerdito mediano sonrió.
 
-—Eso ya lo veremos.
-
-El Lobo se reclinó en la silla.
-
-—Me parece justo.
-
-Y empezó a hablar.
-
-Durante las siguientes horas, contó todo lo que sabía.
-
-Nombres.
-
-Apodos.
-
-Direcciones de páginas.
-
-Trucos.
-
-Engaños.
-
-Los cerditos tomaron notas.
-
-Muchas notas.
-
-Al terminar, el cerdito pequeño cerró la carpeta.
-
-—Has sido muy útil.
-
-El Lobo sonrió.
-
-—Gracias.
-
-El cerdito mediano se levantó.
-
-—Ahora tendremos que estudiar toda esta información.
-
-—Claro.
-
-Los dos cerditos salieron de la habitación.
-
-La puerta se cerró.
-
-**¡CLIC!**
-
-El Lobo se quedó solo.
-
-Miró las paredes.
-
-Miró los ordenadores.
-
-Miró la puerta.
-
-Y sonrió.
-
-—Quizá no sea tan malo estar aquí.
-
-Entonces escuchó voces al otro lado.
-
-—¿Crees que funcionará?
-
-—Claro que sí.
+—Ya sabemos muchas cosas sobre ti.
 
 El Lobo dejó de sonreír.
 
-Se acercó lentamente a la puerta.
+—Ah.
 
-Las voces continuaron.
+El cerdito pequeño abrió la carpeta.
 
-—Con todo lo que sabe, podremos conseguir mucho más dinero.
+Dentro había fotografías, capturas de pantalla, direcciones y registros de sus actividades.
 
-El Lobo abrió los ojos.
+—Llevamos tiempo siguiéndote.
 
-—¿Dinero?
+El Lobo miró las hojas.
 
-Silencio.
+Por primera vez, entendió que aquello no era un golpe de suerte.
 
-Después escuchó al cerdito mediano.
+Los cerditos sabían exactamente quién era.
 
-—Y mientras él haga el trabajo, nadie sospechará de nosotros.
+Sabían lo que hacía.
 
-El Lobo se quedó completamente quieto.
+Y sabían cómo lo hacía.
 
-No entendía qué estaba pasando.
+—Entonces… ¿para qué me habéis traído aquí?
 
-Pero una cosa estaba empezando a quedar clara.
+El cerdito pequeño cerró la carpeta.
 
-Quizá los cerditos no lo habían detenido para meterlo en prisión.
+—Porque creemos que puedes sernos útil.
 
-Quizá lo habían detenido por otra razón.
+El Lobo frunció el ceño.
 
-La puerta volvió a abrirse.
+—¿Útil?
 
-Los dos cerditos entraron.
+—Sí.
 
-El cerdito pequeño llevaba una sonrisa que el Lobo no había visto antes.
+El cerdito mediano se acercó a uno de los ordenadores y abrió una pantalla.
 
-—Tenemos una propuesta para ti, Lobo.
+—Tu sistema para engañar a la gente no es especialmente sofisticado.
 
-El Lobo los miró.
+El Lobo hizo una mueca.
 
-—¿Qué clase de propuesta?
+—Gracias.
 
-El cerdito mediano dejó una carpeta sobre la mesa.
+—Pero funciona.
 
-—Una que te va a permitir seguir haciendo lo que mejor sabes hacer.
+El Lobo no supo qué responder.
 
-El Lobo miró la carpeta.
+El cerdito pequeño continuó:
 
-Después levantó lentamente la mirada.
+—Y tienes algo que nosotros necesitamos.
 
-—¿Y qué es lo que mejor sé hacer?
+—¿Qué?
 
-El cerdito pequeño sonrió.
+—Sabes cómo piensa alguien que intenta entrar donde no debe.
 
-—Entrar donde nadie más puede entrar.
+El Lobo miró las pantallas.
+
+Después miró a los dos cerditos.
+
+—¿Queréis que os ayude a atrapar a otros hackers?
+
+Los dos cerditos se miraron.
+
+Y sonrieron.
+
+—No exactamente.
+
+El cerdito mediano pulsó una tecla.
+
+En la pantalla apareció un mapa lleno de puntos.
+
+—Queremos que entres en algunos sistemas.
+
+El Lobo se quedó callado.
+
+—¿Sistemas de quién?
+
+—Eso no importa.
+
+—Creo que sí importa.
+
+El cerdito pequeño se inclinó hacia él.
+
+—Tú haces lo que sabes hacer.
+
+—¿Y vosotros?
+
+—Nosotros nos encargaremos del resto.
+
+El Lobo miró de nuevo su ordenador.
+
+Aquello era diferente.
+
+Hasta entonces había hackeado para ganar dinero.
+
+Para presumir.
+
+Para demostrar que podía hacerlo.
+
+Pero aquello parecía mucho más grande.
+
+Y mucho más peligroso.
+
+—¿Y si digo que no?
+
+El cerdito mediano señaló la carpeta.
+
+—Entonces entregaremos todo esto a las autoridades.
+
+El Lobo tragó saliva.
+
+—Ya...
+
+—Pero si aceptas —continuó el cerdito pequeño—, quizá podamos hacer que todo esto desaparezca.
+
+El Lobo miró a los dos cerditos.
+
+Durante unos segundos no dijo nada.
+
+Después sonrió.
+
+—¿Y cuánto voy a cobrar?
+
+Los cerditos se echaron a reír.
+
+—Sabíamos que dirías eso.
+
+El Lobo miró la pantalla.
+
+No sabía todavía qué querían conseguir.
+
+Pero empezaba a entender algo.
+
+Los cerditos no querían que dejara de delinquir.
+
+Querían que lo hiciera para ellos.
+
+Y eso era mucho peor.
 
 El Lobo tragó saliva.
 
