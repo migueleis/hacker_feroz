@@ -2,21 +2,27 @@
 
 ## El trato
 
-—Entrar donde nadie más puede entrar.
+A la mañana siguiente, el cerdito pequeño volvió a entrar en la habitación.
 
-El Lobo Feroz miró a los dos cerditos.
+Dejó una carpeta sobre la mesa.
 
-—Eso suena bastante ilegal.
+—Bienvenido a tu nuevo trabajo.
 
-El cerdito pequeño sonrió.
+El Lobo la miró.
 
-—¿Y desde cuándo te preocupa eso?
+—Todavía no he dicho que sí.
 
-El Lobo se quedó callado.
+—Lo sabemos.
 
-Touché.
+El cerdito se sentó frente a él.
 
-El cerdito mediano abrió la carpeta que había dejado sobre la mesa.
+—Por eso vamos a explicarte exactamente qué queremos.
+
+El Lobo cruzó las patas.
+
+—Soy todo oídos.
+
+El cerdito mediano abrió la carpeta.
 
 Dentro había fotografías, documentos y varias hojas llenas de números.
 
@@ -256,11 +262,13 @@ Un restaurante que estaba a punto de cerrar.
 
 Un joven con una deuda que no podía saldar.
 
-Una madre que había escrito: “Si esto sale a la luz, perderé mi trabajo”.
+Una madre que había escrito:
+
+«Si esto sale a la luz, perderé mi trabajo».
 
 Y una frase repetida en varias carpetas, en distintos tonos de miedo:
 
-**“Si no pagas, no sabes lo que puede pasar.”**
+**«Si no pagas, no sabes lo que puede pasar.»**
 
 El Lobo dejó de respirar durante unos segundos.
 
