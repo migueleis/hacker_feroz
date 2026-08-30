@@ -10,17 +10,9 @@ Muy grande.
 
 Y estaba construida completamente de ladrillo.
 
-El Lobo Feroz aparcó el coche a una distancia prudente.
-
-Muy prudente.
-
-Tan prudente que estaba escondido detrás de un árbol.
+El Lobo Feroz aparcó el coche.
 
 Miró la casa.
-
-Después miró su ordenador.
-
-Volvió a mirar la casa.
 
 —Bueno...
 
@@ -103,8 +95,6 @@ El Lobo empezó a ponerse nervioso.
 —Vamos...
 
 Probó otra vez.
-
-**ACCESO DENEGADO.**
 
 El Lobo cerró los ojos.
 
@@ -212,13 +202,7 @@ Se levantó.
 
 Se acercó un poco.
 
-Sacó el ordenador.
-
 Volvió a observarla.
-
-Había una pequeña abertura en uno de los laterales.
-
-Y desde allí parecía haber una conexión con el interior.
 
 El Lobo sonrió.
 
@@ -226,17 +210,7 @@ El Lobo sonrió.
 
 Se quedó pensando.
 
-—Bueno...
-
-Miró la casa de ladrillo.
-
-—No exactamente una puerta.
-
-Miró la chimenea.
-
-—Pero tampoco necesito una puerta.
-
-Guardó el ordenador.
+—No es exactamente una puerta, pero tampoco necesito una puerta.
 
 Por primera vez en toda la tarde, parecía satisfecho.
 
@@ -248,12 +222,12 @@ Hizo una pausa.
 
 Miró la chimenea.
 
-—Solo tengo que encontrar la forma de entrar.
+—Solo tengo que encontrar la forma de subir ahí arriba.
 
 El Lobo se quedó observando la casa.
 
 Y sonrió.
 
-Había encontrado una entrada.
+Había encontrado una brecha de seguridad.
 
 O eso creía.
