@@ -328,38 +328,69 @@ Durante unos segundos no dijo nada.
 
 Después sonrió.
 
+El Lobo miró a los dos cerditos.
+
 —¿Y cuánto voy a cobrar?
 
 Los cerditos se echaron a reír.
 
 —Sabíamos que dirías eso.
 
-El Lobo miró la pantalla.
+El Lobo sonrió.
 
-No sabía todavía qué querían conseguir.
+—Bueno, si voy a trabajar para vosotros...
 
-Pero empezaba a entender algo.
+El cerdito pequeño levantó una pata.
 
-Los cerditos no querían que dejara de delinquir.
+—Todavía no has aceptado.
 
-Querían que lo hiciera para ellos.
+El Lobo dejó de sonreír.
 
-Y eso era mucho peor.
+—Cierto.
 
-El Lobo tragó saliva.
+Durante unos segundos, nadie dijo nada.
 
-—Queremos que entres donde nadie más puede entrar.
+El cerdito pequeño cerró la carpeta.
 
-El Lobo frunció el ceño.
+—Mañana hablaremos de las condiciones.
 
-—¿Dónde?
+El Lobo miró la carpeta.
 
-Uno de los cerditos sonrió.
+Después miró su ordenador.
 
-—En una casa //TODO borrar tras maquetado (imagen de la casa de la abuelita)
+Y finalmente, a los dos cerditos.
 
-Parecía un buen trato.
+No sabía qué querían exactamente de él.
 
-Pero los tratos con los cerditos...
+Pero sí sabía una cosa.
 
-podían ser muy peligrosos.
+Querían que siguiera haciendo lo que mejor sabía hacer.
+
+Y eso podía significar cualquier cosa.
+
+El cerdito pequeño se levantó.
+
+—Descansa, Lobo.
+
+—¿Y si quiero pensármelo?
+
+El cerdito sonrió.
+
+—Piénsatelo.
+
+Salió de la habitación.
+
+El Lobo se quedó solo.
+
+Miró la puerta cerrada.
+
+Después miró la carpeta.
+
+Y tragó saliva.
+
+Aquello ya no parecía una detención.
+
+Parecía un trato.
+
+Y todavía no sabía qué precio tendría.
+
