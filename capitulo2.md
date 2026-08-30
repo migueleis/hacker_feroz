@@ -40,7 +40,7 @@ Los dos cerditos se miraron.
 
 El Lobo salió de su casa con las patas en alto.
 
-En la acera había un coche de policía.
+En la acera había un coche del Centro de Seguridad de la Hermandad.
 
 El cerdito pequeño abrió la puerta trasera.
 
@@ -136,11 +136,11 @@ El coche se detuvo frente a un edificio enorme.
 
 En la entrada había un cartel:
 
-**POLICÍA — UNIDAD DE INVESTIGACIÓN DIGITAL**
+**CENTRO DE SEGURIDAD DE LA HERMANDAD**
 
 El Lobo levantó una ceja.
 
-—¿Investigación digital?
+—¿Centro de Seguridad?
 
 —Sí.
 

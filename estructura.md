@@ -1,8 +1,8 @@
 Estructura de capitulos
 
 El Hacker Feroz — Presentamos al Lobo y sus "travesuras" digitales.
-¡Estás detenido! — Aparecen los dos primeros cerditos y descubrimos que son policías.
-El trato de los cerditos — Giro: los policías son corruptos y empiezan a extorsionarlo.
+¡Estás detenido! — Aparecen los dos primeros cerditos trabajadores del Centro de Seguridad de la Hermandad y descubrimos que son corruptos.
+El trato de los cerditos — Giro: los cerditos son corruptos y empiezan a extorsionarlo.
 El límite moral del Lobo — Comprende el daño real que está causando y decide que no puede seguir así.
 Una idea feroz — El Lobo decide investigar a quienes lo están extorsionando y preparar el plan para desenmascararlos.
 La casa de paja — Contraseña débil, 123456, phishing y primera investigación.

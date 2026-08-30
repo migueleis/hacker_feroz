@@ -56,11 +56,11 @@ El cerdito mediano se inclinó sobre la mesa.
 
 El Lobo abrió mucho los ojos.
 
-—Pero vosotros sois policías.
+—Pero vosotros trabajáis para el Centro de Seguridad de la Hermandad.
 
 —¿Y?
 
-—Se supone que los policías detienen a los que hacen esas cosas.
+—Se supone que quienes trabajan en seguridad detienen a los que hacen esas cosas.
 
 El cerdito pequeño se encogió de hombros.
 
@@ -120,7 +120,7 @@ Era una amenaza.
 
 Durante unos segundos pensó en negarse.
 
-Podía contarle todo a otro policía.
+Podía contarle todo a la policía.
 
 Podía intentar escapar.
 

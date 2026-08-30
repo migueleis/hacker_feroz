@@ -204,7 +204,7 @@ El cerdito sonrió.
 
 El Lobo miró al Mayor.
 
-—¿Me vais a llevar a la policía?
+—¿Me vais a llevar apolicía?
 
 Los tres se miraron.
 

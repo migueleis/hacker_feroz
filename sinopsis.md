@@ -12,13 +12,13 @@ Y, aunque no es precisamente el hacker más famoso ni más peligroso de la ciuda
 
 No quiere conquistar el mundo. Solo quiere ganar dinero fácil.
 
-Hasta que un día dos policías, el Cerdito Pequeño y el Cerdito Mediano, consiguen localizarlo.
+Hasta que un día dos trabajadores del Centro de Seguridad de la Hermandad, el Cerdito Pequeño y el Cerdito Mediano, consiguen localizarlo.
 
 —¡Estás detenido, Lobo Feroz!
 
 El Lobo cree que todo ha terminado. Lo han descubierto y tendrá que responder por lo que ha hecho.
 
-Pero pronto descubre que los cerditos no son exactamente los policías que parecen ser.
+Pero pronto descubre que los cerditos no son exactamente los trabajadores que parecen ser.
 
 En lugar de llevarlo ante la justicia, deciden aprovecharse de sus conocimientos.
 

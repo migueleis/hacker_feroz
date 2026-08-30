@@ -198,7 +198,7 @@ Y apareció una imagen.
 
 Dos cerditos.
 
-Con uniforme de policía.
+Con uniforme del Centro de Seguridad de la Hermandad.
 
 El Lobo se quedó inmóvil.
 
@@ -298,7 +298,7 @@ No había ningún repartidor.
 
 Había dos cerditos.
 
-Los dos llevaban uniforme de policía.
+Los dos llevaban uniforme del Centro de Seguridad de la Hermandad.
 
 El más pequeño levantó una placa.
 

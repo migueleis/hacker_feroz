@@ -36,7 +36,7 @@ El problema era que no podía ir directamente a la policía.
 
 ¿Quién iba a creerle?
 
-—Hola, soy el Lobo Feroz. He cometido un montón de delitos informáticos y ahora quiero denunciar a dos policías corruptos.
+—Hola, soy el Lobo Feroz. He cometido un montón de delitos informáticos y ahora quiero denunciar a dos trabajadores corruptos del Centro de Seguridad de la Hermandad.
 
 El Lobo hizo una mueca.
 
