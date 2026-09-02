@@ -26,6 +26,58 @@ Demasiado, según algunas personas.
 
 Y sabía hacer cosas con ellos que era mejor que no supiera hacer.
 
+Al Lobo Feroz también le gustaba el dinero.
+
+Muchísimo.
+
+El problema era lo que hacía con él después.
+
+Porque el Lobo Feroz ganaba el dinero de forma rápida...
+
+y lo gastaba de forma todavía más rápida.
+
+En tonterías.
+
+Grandes tonterías.
+
+Por ejemplo, un día decidió que necesitaba un sofá nuevo.
+
+Y no un sofá cualquiera.
+
+Un sofá con forma de hueso gigante.
+
+Los dos extremos del hueso, bien redonditos, hacían de reposabrazos.
+
+Y en el centro, bien mullidito, se podía sentar.
+
+—Es una obra de arte —decía, tumbado en él con las patas cruzadas.
+
+Nadie más opinaba lo mismo.
+
+También se había comprado una cafetera.
+
+Pero no una cafetera normal.
+
+Una cafetera con wifi, con aplicación móvil, con lucecitas y con más botones de los que cualquier cafetera debería tener.
+
+Y, como era hacker, no pudo resistirse.
+
+La hackeó.
+
+Le añadió funciones que la cafetera jamás debería tener.
+
+Ahora le mandaba mensajes de buenos días.
+
+Ahora le hacía la lista de la compra.
+
+Ahora, si se despistaba, empezaba a mandarle cafés a los vecinos.
+
+—Es una obra de arte —decía también de la cafetera.
+
+El Lobo, en resumen, sabía hacer cosas increíbles con los ordenadores.
+
+Lo que no sabía era hacer nada útil con el dinero que ganaba con ellos.
+
 Por ejemplo, podía crear una página web prácticamente idéntica a la de un banco.
 
 Podía enviar un correo electrónico que pareciera completamente legítimo.
@@ -58,19 +110,21 @@ Ni siquiera era el segundo más peligroso.
 
 Probablemente tampoco estaba entre los diez primeros.
 
-Pero era bastante bueno.
+Pero eso él no lo sabía.
 
-Lo suficiente como para ganar dinero.
+O no quería saberlo.
 
-Y eso era exactamente lo que quería.
+—Soy una leyenda —se decía a sí mismo mientras se miraba en la pantalla apagada del ordenador—. Un genio incomprendido. El hacker más malvado que ha existido jamás.
 
-Dinero.
+Se ajustó unas gafas de sol que no necesitaba para nada, porque estaba dentro de casa y era de día.
 
-Dinero fácil.
+—Van a escribir libros sobre mí.
 
-Dinero rápido.
+Nadie iba a escribir libros sobre él.
 
-Dinero sin tener que levantarse demasiado temprano.
+Bueno.
+
+Puede que uno.
 
 Aquella mañana, el Lobo estaba sentado delante de tres monitores.
 
@@ -82,9 +136,9 @@ Y en el tercero...
 
 un vídeo de gatitos.
 
-Porque incluso los hackers necesitan descansar.
+Porque incluso los genios incomprendidos necesitan descansar.
 
-—Vamos, vamos... —murmuró.
+—Vamos, vamos... —murmuró, dándose aires—. El maestro está trabajando.
 
 En el monitor central aparecía una página que parecía pertenecer a una organización muy conocida entre los cerditos.
 
@@ -126,6 +180,13 @@ El Lobo se frotó las patas.
 
 —¿Quién va a decir que no?
 
+—Nadie. Porque soy un genio.
+
+—Un genio del mal. Con perdón, del mal-ware. Ja. Buena esa.
+-Espera que tenga otra, soy un crack, mejor dicho un Crack-er.
+
+Se rio de su propio chiste durante un rato más de lo necesario.
+
 En el segundo monitor apareció una pequeña notificación.
 
 **NUEVO VISITANTE**
@@ -138,7 +199,7 @@ Unos segundos después:
 
 **NUEVO REGISTRO**
 
-—Bien.
+—Bien. Como estaba previsto. Todo bajo control.
 
 Otro mensaje apareció.
 
@@ -146,7 +207,7 @@ Otro mensaje apareció.
 
 El Lobo sonrió.
 
-—Mejor.
+—Mejor. Nada se me escapa.
 
 Esperó.
 
@@ -162,7 +223,7 @@ Volvió a mirar el contador.
 
 **SOCIOS REGISTRADOS: 47**
 
-—Siete.
+—Cuarenta y siete.
 
 El número cambió.
 
@@ -174,17 +235,49 @@ El número cambió.
 
 —¡Cuarenta y nueve!
 
-El Lobo empezó a reírse.
+El Lobo empezó a reírse frotandose las manos
 
-—¡Esto funciona!
+—¡Esto funciona! ¡Soy imparable!
 
-Mientras tanto, en otra la aplicación del banco, una pequeña cifra iba aumentando.
+Mientras tanto, en la aplicación del banco, una pequeña cifra iba aumentando.
 
 **PAGOS RECIBIDOS: 50**
 
 El Lobo abrió mucho los ojos.
 
 —¡Ja!
+
+Y entonces hizo lo que hacía siempre que las cosas le salían bien.
+
+Su baile especial.
+
+Se puso de pie de un salto, levantó las patas delanteras como si fueran zarpitas y empezó a agitarlas en el aire, una detrás de otra.
+
+Miró de reojo el tercer monitor, donde el vídeo de gatitos seguía reproduciéndose de fondo.
+
+Justo en ese momento, un gatito anaranjado del vídeo levantó una patita hacia la cámara.
+
+Y el Lobo levantó la suya exactamente igual.
+
+Al mismo tiempo.
+
+Con el mismo ritmo.
+
+Como si llevaran ensayando juntos toda la vida.
+
+—¡Miau-miau-money! ¡Miau-miau-money! —canturreó, moviendo las caderas de un lado a otro mientras las orejas le rebotaban.
+
+Era, sin ninguna duda, el baile más ridículo del mundo.
+
+Pero a él le encantaba.
+
+Lo llamaba "Miau-miau-Money Dance".
+
+Nadie más lo llamaba de ninguna manera.
+
+Nadie más lo había visto nunca.
+
+Y él esperaba, sinceramente, que las cosas siguieran así.
 
 Aquello sí que le gustaba.
 
@@ -207,20 +300,6 @@ Sus datos.
 Información que el Lobo podía utilizar después.
 
 El contador siguió aumentando.
-
-**SOCIOS REGISTRADOS: 51**
-
-El Lobo se levantó de la silla.
-
-—¡Cincuenta y uno!
-
-Miró el vídeo de gatitos.
-
-—Lo siento, amigos. Esto es más interesante.
-
-Volvió a sentarse.
-
-El número continuó creciendo.
 
 **52**
 
@@ -248,9 +327,13 @@ Sonrió.
 
 —Y todo por una moneda.
 
-Se reclinó en su silla.
+Se reclinó en su silla, con las patas detrás de la nuca, como si fuera el dueño del mundo.
 
-—Definitivamente, soy un genio.
+—Definitivamente, soy un genio. Van a tener que inventar una palabra nueva para describirme. "Lobonario". "Lobísimo". Algo así.
+
+Se quedó pensando.
+
+—Ya lo iré puliendo.
 
 ---
 
@@ -284,7 +367,7 @@ Nada.
 
 Lo golpeó un poquito más fuerte.
 
-—No me hagas esto.
+—No me hagas esto. No a mí. Yo soy el que hackea, no el hackeado.
 
 El ordenador volvió a encenderse.
 
@@ -330,7 +413,7 @@ En ese mismo instante...
 
 Alguien llamó a la puerta.
 
-El Lobo dio un salto.
+El Lobo dio un salto tan alto que estuvo a punto de aterrizar dentro del sofá-hueso.
 
 —¡¿Quién es?!
 
@@ -340,8 +423,6 @@ Volvieron a llamar.
 
 **¡PUM! ¡PUM! ¡PUM!**
 
-—¿Quién?
-
 Una voz respondió desde el otro lado.
 
 —¡Pizza!
@@ -350,25 +431,17 @@ El Lobo se quedó quieto.
 
 —¿Pizza?
 
-—¡Una pizza familiar!
-
-El Lobo miró la pantalla.
-
-Miró la puerta.
-
-Volvió a mirar la pantalla.
-
-**SABEMOS DÓNDE VIVES.**
+—¡Una pizza familiar!¡
 
 Y entonces soltó el aire que llevaba conteniendo.
 
 —¡Uf! ¡Menudo susto!
 
-—Seguro que es una broma...
+—Seguro que era uno de mis colegas hackers haciendome una broma.
 
-El Lobo empezó a reírse.
+El Lobo empezó a reírse, aunque le temblaba un poco la voz.
 
-—¡Ja! ¡Ja! ¡Ja! ¡Qué susto me he llevado!
+—¡Ja! ¡Ja! ¡Ja! ¡Qué susto me he llevado! Como si alguien fuera a encontrarme por una pizza. Ridículo. Absolutamente ridículo.
 
 Se levantó.
 
@@ -391,3 +464,13 @@ El Lobo parpadeó.
 —¿Sí?
 
 —¡Estás detenido!
+
+El Lobo miró a un lado.
+
+Miró al otro.
+
+—Ehh! ¿Y mi pizza?
+
+—No hay pizza.
+
+—Vaya —dijo el Lobo, bajando las orejas—. Eso sí que ha sido un timo.
