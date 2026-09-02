@@ -235,7 +235,7 @@ El número cambió.
 
 —¡Cuarenta y nueve!
 
-El Lobo empezó a reírse frotandose las manos
+El Lobo empezó a reírse frotándose las manos
 
 —¡Esto funciona! ¡Soy imparable!
 
@@ -337,7 +337,7 @@ Se quedó pensando.
 
 ---
 
-Aquella tarde, mientras preparaba su siguiente engaño, ocurrió algo extraño.
+Unas semanas después, mientras preparaba su siguiente engaño, ocurrió algo extraño.
 
 Su ordenador se quedó completamente bloqueado.
 
@@ -431,7 +431,7 @@ El Lobo se quedó quieto.
 
 —¿Pizza?
 
-—¡Una pizza familiar!¡
+—¡Una pizza familiar!
 
 Y entonces soltó el aire que llevaba conteniendo.
 
