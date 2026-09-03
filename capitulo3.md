@@ -4,7 +4,7 @@
 
 A la mañana siguiente, el cerdito pequeño volvió a entrar en la habitación.
 
-Dejó una carpeta sobre la mesa.
+Dejó una carpeta sobre la mesa con un golpe demasiado dramático para lo que en realidad era una carpeta.
 
 —Bienvenido a tu nuevo trabajo.
 
@@ -14,13 +14,23 @@ El Lobo la miró.
 
 —Lo sabemos.
 
-El cerdito se sentó frente a él.
+—Entonces, técnicamente, esto es secuestro con papeleo.
+
+—Es papeleo con secuestro. El orden importa.
+
+El Lobo entrecerró los ojos.
+
+—Eso no tiene ningún sentido.
+
+—Yo tampoco lo entendí cuando me lo explicaron a mí.
+
+El cerdito mediano suspiró y se sentó frente al Lobo.
 
 —Por eso vamos a explicarte exactamente qué queremos.
 
-El Lobo cruzó las patas.
+El Lobo cruzó las patas, todavía esposadas por delante.
 
-—Soy todo oídos.
+—Soy todo oídos. Un poco incómodo, pero todo oídos.
 
 El cerdito mediano abrió la carpeta.
 
@@ -30,13 +40,13 @@ Dentro había fotografías, documentos y varias hojas llenas de números.
 
 El Lobo miró la carpeta.
 
-—Supongo que eso depende de lo bien que esté la comida de la cárcel.
+—Supongo que eso depende de lo bien que esté la comida.
 
 —No estamos bromeando.
 
-El Lobo dejó de sonreír.
+—Ya, ya. Es que a mí me sale solo. Es un problemilla que tengo.
 
-El cerdito pequeño señaló uno de los documentos.
+El cerdito pequeño señaló uno de los documentos, muy serio, como si llevara toda la noche ensayando el gesto delante del espejo.
 
 —Tienes dos opciones.
 
@@ -47,6 +57,12 @@ Levantó un dedo.
 Levantó otro.
 
 —Segunda: trabajas para nosotros.
+
+—Tercera —dijo el Lobo—. Me dais un móvil nuevo y no volvemos a hablar del tema.
+
+—¡No hay tercera!
+
+—Valeee, valía la pena intentarlo.
 
 El Lobo frunció el ceño.
 
@@ -68,43 +84,35 @@ El Lobo abrió mucho los ojos.
 
 —Se supone que quienes trabajan en seguridad detienen a los que hacen esas cosas.
 
-El cerdito pequeño se encogió de hombros.
+El cerdito pequeño se encogió de hombros, como si le estuvieran preguntando algo obvio.
 
 —Nosotros preferimos cobrarles.
 
 El Lobo se quedó mirando a los dos.
 
-Por primera vez desde que lo habían detenido, no sabía qué decir.
+El cerdito mediano abrió la carpeta.
 
-El cerdito mediano sacó un teléfono móvil y lo dejó sobre la mesa.
-
-En la pantalla apareció una lista.
+En la primera hoja apareció una lista.
 
 Nombres.
 
-Cantidades de dinero.
+Direcciones.
 
-Fechas.
+—Hay quien tiene cosas que prefiere que no se sepan —dijo el cerdito mediano—. 
 
-Muchos nombres.
-
-Demasiados.
-
-—Hay personas que tienen cosas que esconder —dijo—. Empresarios. Funcionarios. Otros delincuentes. Gente con dinero.
+-Comerciantes que maquillan sus cuentas. Funcionarios que aceptan sobornos. Otros que directamente son delincuentes de los de verdad. Gente con dinero y algo que esconder.
 
 El Lobo miró la lista.
 
 —¿Y vosotros los chantajeáis?
 
-—Nosotros lo llamamos cobrar por nuestros servicios.
+—Nosotros lo llamamos "cobrar por nuestros servicios".
 
-—Eso es chantaje.
+—Eso es chantaje con nombre elegante.
 
-—Puedes llamarlo como quieras.
+—Puedes llamarlo como quieras. Nosotros preferimos el nuestro. Suena mejor en las facturas.
 
-El cerdito pequeño señaló una de las cantidades.
-
-—Cada semana tendrás que conseguir una cantidad determinada.
+—Cada semana tendrás que conseguir 100 monedas.
 
 El Lobo soltó una carcajada nerviosa.
 
@@ -114,23 +122,17 @@ El Lobo soltó una carcajada nerviosa.
 
 —¿Y si no consigo suficiente?
 
-El cerdito mediano sonrió.
+El cerdito mediano sonrió, sin ninguna gracia.
 
-—Entonces hablaremos de las pruebas que tenemos sobre ti.
+—Entonces hablaremos otra vez de las pruebas que tenemos sobre ti.
 
 El Lobo entendió perfectamente.
-
-No era una oferta.
-
-Era una amenaza.
 
 Durante unos segundos pensó en negarse.
 
 Podía contarle todo a la policía.
 
 Podía intentar escapar.
-
-Podía incluso intentar hackear el sistema de los cerditos.
 
 Pero entonces recordó algo.
 
@@ -148,47 +150,35 @@ Había ganado dinero de forma ilegal.
 
 No podía fingir que era inocente.
 
-—¿Cuánto queréis? —preguntó finalmente.
-
-El cerdito pequeño sonrió.
-
-—Eso depende de cuánto puedas conseguir.
+Por primera vez en mucho tiempo, no tenía ninguna frase ingeniosa preparada.
 
 Y así empezó.
 
-La primera semana, el Lobo consiguió una cantidad pequeña.
+---
 
-Le pareció demasiado.
+La primera semana, el Lobo consiguió una cantidad indicada.
 
-Pero los cerditos no pensaron lo mismo.
+A los cerditos no les pareció suficiente.
 
 —Queremos más.
 
-La segunda semana consiguió el doble.
+La segunda semana igual.
 
 —Más.
 
-La tercera semana volvió a conseguir el doble.
+La tercera semana también.
 
 —Más.
 
-Cada vez que el Lobo entregaba el dinero, los cerditos encontraban una nueva razón para pedirle todavía más.
+Cada vez que el Lobo entregaba el dinero, los cerditos le pedían todavía más.
 
-—Tenemos gastos.
+El Lobo empezó a trabajar durante horas y horas.
 
-—Necesitamos cubrir ciertas cosas.
+Ya no había vídeos de gatitos de fondo.
 
-—Hay gente que no quiere colaborar.
+Ya no había tiempo para el sofá-hueso.
 
-—Pues tendrás que conseguir más.
-
-El Lobo empezó a trabajar durante horas.
-
-Ya no había vídeos de gatitos.
-
-Ya no había sofá.
-
-Ya no había café tranquilo.
+Ya no había café tranquilo por las mañanas, y mucho menos "Miau-miau-Money Dance".
 
 Solo ordenadores.
 
@@ -200,157 +190,51 @@ Personas a las que engañar.
 
 Dinero que nunca se quedaba con él.
 
-Y una cantidad que siempre parecía demasiado grande.
+---
 
-Una noche, el Lobo cerró el ordenador.
+Una noche, muy tarde, el Lobo cerró el ordenador.
 
 Se quedó mirando su reflejo en la pantalla apagada.
 
 Tenía ojeras.
 
-Estaba cansado.
+Estaba agotado.
 
-Y estaba harto.
+Y, sobre todo, estaba harto.
 
 —¿Qué estoy haciendo?
 
 Nadie respondió.
 
-El Lobo miró la habitación.
-
-Había empezado haciendo pequeños engaños porque quería dinero fácil.
+El Lobo había empezado haciendo pequeños engaños porque quería dinero fácil.
 
 Ahora estaba haciendo cosas mucho peores.
 
-Y todo el dinero iba a parar a los bolsillos de los cerditos.
+Una panadería llevaba semanas sin comprar harina para poder pagar.
 
-Entonces recordó una conversación.
-
-Una que había escuchado días atrás.
-
-Los cerditos habían mencionado a otras personas.
-
-Más víctimas.
-
-Más dinero.
-
-Más nombres.
-
-Y el Lobo empezó a unir las piezas.
-
-No era solo él.
-
-Los cerditos llevaban mucho tiempo haciendo aquello.
-
-Quizá llevaban años.
-
-Y quizá él no era más que una pequeña pieza de algo mucho más grande.
-
-Entonces abrió uno de los archivos que había encontrado en la carpeta de pagos.
-
-No eran solo números.
-
-Eran nombres.
-
-Fechas.
-
-Mensajes con amenazas.
-
-Notas de personas que pedían tiempo porque no podían pagar.
-
-Un restaurante que estaba a punto de cerrar.
-
-Un joven con una deuda que no podía saldar.
-
-Una madre que había escrito:
-
-«Si esto sale a la luz, perderé mi trabajo».
-
-Y una frase repetida en varias carpetas, en distintos tonos de miedo:
-
-**«Si no pagas, no sabes lo que puede pasar.»**
+Un joven que había tenido que vender su bicicleta.
 
 El Lobo dejó de respirar durante unos segundos.
 
-No había estado robando una suma abstracta.
+No había estado robando una suma abstracta de monedas.
 
-Había estado empujando a personas a la desesperación.
+Había estado empujando a alguien, en algún lugar, a quedarse sin dormir por las noches.
 
 Personas que no habían hecho nada malo.
 
-Personas que solo querían sobrevivir.
+Personas que solo querían salir adelante.
 
 Y de repente entendió algo que no había entendido antes.
 
-No estaba solo siendo explotado.
+No estaba solo siendo utilizado.
 
-También estaba explotando a otros.
+También estaba haciendo daño a otros.
 
-Eso sí que no podía seguir haciéndolo.
+Y eso sí que no podía seguir haciéndolo.
 
 El Lobo volvió a encender el ordenador.
 
 Abrió sus archivos.
-
-Empezó a revisar todo lo que había encontrado durante las últimas semanas.
-
-Nombres.
-
-Fechas.
-
-Direcciones.
-
-Transferencias.
-
-Mensajes.
-
-Había cosas que no tenían sentido.
-
-Un nombre aparecía varias veces.
-
-Una empresa aparecía en documentos diferentes.
-
-Y siempre había una cantidad de dinero que desaparecía.
-
-El Lobo entrecerró los ojos.
-
-—Interesante...
-
-Siguió investigando.
-
-Cuanto más buscaba, más conexiones encontraba.
-
-Y entonces descubrió algo que hizo que se quedara completamente quieto.
-
-Los cerditos no estaban solos.
-
-Había alguien por encima de ellos.
-
-Alguien que parecía controlar todo.
-
-El Lobo se echó hacia atrás en la silla.
-
-—Vaya...
-
-Miró la pantalla.
-
-—Esto es bastante más grande de lo que pensaba.
-
-En ese momento, su teléfono sonó.
-
-**PIP.**
-
-Un mensaje.
-
-Era del Cerdito Pequeño.
-
-**MAÑANA QUEREMOS EL DOBLE.**
-
-El Lobo apretó los dientes.
-
-Miró el mensaje.
-
-Después miró todos los documentos que tenía delante.
 
 Y finalmente sonrió.
 
