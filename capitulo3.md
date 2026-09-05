@@ -16,17 +16,13 @@ El Lobo la miró.
 
 —Entonces, técnicamente, esto es secuestro con papeleo.
 
-—Es papeleo con secuestro. El orden importa.
+—Nosotros preferimos llamarlo "colaboración forzosa". Suena mucho mejor.
 
-El Lobo entrecerró los ojos.
+—Suena exactamente igual de mal.
 
-—Eso no tiene ningún sentido.
+El cerdito mediano se sentó frente al Lobo.
 
-—Yo tampoco lo entendí cuando me lo explicaron a mí.
-
-El cerdito mediano suspiró y se sentó frente al Lobo.
-
-—Por eso vamos a explicarte exactamente qué queremos.
+—Vamos a explicarte exactamente qué queremos.
 
 El Lobo cruzó las patas, todavía esposadas por delante.
 
@@ -34,35 +30,31 @@ El Lobo cruzó las patas, todavía esposadas por delante.
 
 El cerdito mediano abrió la carpeta.
 
-Dentro había fotografías, documentos y varias hojas llenas de números.
+Dentro había fotografías, documentos y varias hojas llenas de datos de personas.
 
 —Sabemos lo que sabes hacer —dijo—. Y también sabemos que no quieres pasar los próximos años en una celda.
 
 El Lobo miró la carpeta.
 
-—Supongo que eso depende de lo bien que esté la comida.
+—Supongo que eso depende de lo bien que esté la comida en la carcel.
 
 —No estamos bromeando.
 
 —Ya, ya. Es que a mí me sale solo. Es un problemilla que tengo.
 
-El cerdito pequeño señaló uno de los documentos, muy serio, como si llevara toda la noche ensayando el gesto delante del espejo.
-
-—Tienes dos opciones.
+—Tienes dos opciones. -dijo el cerdito pequeño
 
 Levantó un dedo.
 
-—Primera: entregamos todas las pruebas que tenemos sobre ti.
+—Primera: entregamos todas las pruebas que tenemos sobre ti y te pasas unas largas vacaciones en la carcel.
 
-Levantó otro.
+—Segunda: trabajas para nosotros. -dijo señalando uno de los documentos.
 
-—Segunda: trabajas para nosotros.
+—Tercera —interrumpió el Lobo—. Os devuelvo el dinero, me dais un móvil nuevo y me vuelvo a casa como si nada hubiera pasado.
 
-—Tercera —dijo el Lobo—. Me dais un móvil nuevo y no volvemos a hablar del tema.
+—¡No hay tercera! -gritaron a la vez.
 
-—¡No hay tercera!
-
-—Valeee, valía la pena intentarlo.
+—Vale, vaaale, tenía que intentarlo.
 
 El Lobo frunció el ceño.
 
@@ -70,101 +62,115 @@ El Lobo frunció el ceño.
 
 El cerdito mediano se inclinó sobre la mesa.
 
-—Lo mismo que llevas haciendo hasta ahora.
+—Dos cosas.
 
-—¿Estafar gente?
+—Suena a mucho para un lobo esposado.
 
-—Exactamente.
+—La primera: sigues con la web falsa. La mantienes abierta, la mantienes creciendo, y sigues pescando incautos como estabas haciendo, pero a partir de ahora el dinero que saques irá a nosotros.
 
 El Lobo abrió mucho los ojos.
 
-—Pero vosotros trabajáis para el Centro de Seguridad de la Hermandad.
+—Pero... vosotros trabajáis para el Centro de Seguridad de la Hermandad.
 
-—¿Y?
+—Exacto.
 
-—Se supone que quienes trabajan en seguridad detienen a los que hacen esas cosas.
+—Se supone que, como trabajadores del centro, deberiais pararme y cerrar la web, no ¡quedaros con el dinero!.
 
 El cerdito pequeño se encogió de hombros, como si le estuvieran preguntando algo obvio.
 
-—Nosotros preferimos cobrarles.
+—Y la detendremos, cuando a nosotros nos convenga.
+
+—La segunda cosa —dijo el cerdito mediano— es esta lista.
+
+El Lobo la miró.
+
+—¿Qué es esto?
+
+—Casas del pueblo. Todas ellas.
+
+—¿Y qué tengo que hacer con una lista de casas?
+
+—Colarte en ellas.
+
+El Lobo parpadeó.
+
+—¿Perdona?
+
+—Buscar fallos en los sistemas de seguridad, entrar en las casas y hacer lo que haceis los lobos ¡sacar los dientes!
+
+—Un susto elegante —añadió el cerdito pequeño, muy orgulloso de la frase, aunque no era suya.
 
 El Lobo se quedó mirando a los dos.
 
-El cerdito mediano abrió la carpeta.
+—Entonces esto no solo va de robar.
 
-En la primera hoja apareció una lista.
+—No.
 
-Nombres.
+—También va de asustar.
 
-Direcciones.
+—Correcto.
 
-—Hay quien tiene cosas que prefiere que no se sepan —dijo el cerdito mediano—. 
+—¿Y para qué queréis asustar a todo un pueblo?
 
--Comerciantes que maquillan sus cuentas. Funcionarios que aceptan sobornos. Otros que directamente son delincuentes de los de verdad. Gente con dinero y algo que esconder.
+El cerdito mediano sonrió, y por primera vez pareció que de verdad disfrutaba explicando algo.
 
-El Lobo miró la lista.
+—Porque un pueblo asustado contrata seguridad. Y da la casualidad de que nosotros trabajamos en una empresa de seguridad.
 
-—¿Y vosotros los chantajeáis?
+—Cuantas más casas visites, más gente llama asustada a la Hermandad —dijo el cerdito pequeño—. Y cuantos más clientes nuevos consigamos mas dinero nos llevaremos.
 
-—Nosotros lo llamamos "cobrar por nuestros servicios".
+El Lobo tardó un momento en atar cabos.
 
-—Eso es chantaje con nombre elegante.
+—Un momento... vosotros no sois los dueños de la empresa.
 
-—Puedes llamarlo como quieras. Nosotros preferimos el nuestro. Suena mejor en las facturas.
+—Y por eso seguimos con la web falsa.
 
-—Cada semana tendrás que conseguir 100 monedas.
+El Lobo frunció el ceño.
 
-El Lobo soltó una carcajada nerviosa.
+El cerdito mediano cerró la carpeta, muy despacio, como si aquella fuera la parte que más le gustaba explicar.
 
-—¿Cada semana?
+—Si quitamos la web falsa, el dinero se lo lleva la empresa.
 
-—Cada semana.
+—En cambio, el dinero de tu web falsa...
 
-—¿Y si no consigo suficiente?
+—No pasa por ningún sitio —terminó el Lobo, entendiéndolo de golpe—. Es vuestro. Directamente.
 
-El cerdito mediano sonrió, sin ninguna gracia.
+—Ahora sí lo pillas.
 
-—Entonces hablaremos otra vez de las pruebas que tenemos sobre ti.
+—Cada semana nos entregarás en persona lo que haya caído en la web. En efectivo.
 
-El Lobo entendió perfectamente.
+—¿Aquí?
 
-Durante unos segundos pensó en negarse.
+—Aquí no. Pasaremos por tu casa a recogerlo.
 
-Podía contarle todo a la policía.
+El Lobo se quedó callado un instante, mirando la carpeta cerrada.
 
-Podía intentar escapar.
+Todo aquello estaba pensado con demasiado cuidado.
 
-Pero entonces recordó algo.
+La web que seguía abierta por una razón concreta.
 
-Los cerditos tenían pruebas contra él.
+Las casas, por otra.
 
-Y las pruebas eran reales.
+Y ellos, en el medio, sin tocar nada con las manos y sin que nada les salpicara si algo salía mal.
 
-El Lobo había hecho todas aquellas cosas.
+*"Estos dos no son tan tontos como parecen"*, pensó el Lobo.
 
-Había engañado a personas.
+Y por un segundo, solo por un segundo, se preguntó si de verdad la idea había sido suya o había alguien más.
 
-Había robado información.
+Pero no dijo nada.
 
-Había ganado dinero de forma ilegal.
-
-No podía fingir que era inocente.
-
-Por primera vez en mucho tiempo, no tenía ninguna frase ingeniosa preparada.
-
-Y así empezó.
+Todavía no.
 
 ---
 
-La primera semana, el Lobo consiguió una cantidad indicada.
+La primera semana, el Lobo entregó lo que la web falsa había conseguido.
 
 A los cerditos no les pareció suficiente.
 
-—Queremos más.
+—Queremos más, tienes que entrar en más casas.
 
 La segunda semana igual.
 
-—Más.
+—Más, sube el precio de la cuota.
 
 La tercera semana también.
 
@@ -174,7 +180,11 @@ Cada vez que el Lobo entregaba el dinero, los cerditos le pedían todavía más.
 
 El Lobo empezó a trabajar durante horas y horas.
 
-Ya no había vídeos de gatitos de fondo.
+De día, la pantalla: mensajes, páginas falsas, gente a la que engañar.
+
+De noche, la lista: direcciones, cerraduras, ventanas.
+
+Ya no había vídeos de gatitos.
 
 Ya no había tiempo para el sofá-hueso.
 
@@ -182,13 +192,11 @@ Ya no había café tranquilo por las mañanas, y mucho menos "Miau-miau-Money Da
 
 Solo ordenadores.
 
-Pantallas.
-
-Mensajes.
-
-Personas a las que engañar.
-
 Dinero que nunca se quedaba con él.
+
+Casas a oscuras.
+
+Gente asustada -se entristeció- gente muy muy asustada.
 
 ---
 
@@ -210,19 +218,17 @@ El Lobo había empezado haciendo pequeños engaños porque quería dinero fácil
 
 Ahora estaba haciendo cosas mucho peores.
 
-Una panadería llevaba semanas sin comprar harina para poder pagar.
+Una noche se había colado en una casita de madera al fondo del bosque, en cuanto vio que la dueña salía de casa. Pensó que estaría vacía. No lo estaba: siete cabritillos se habían escondido inultilmente por la casa cuando la sombra enorme del lobo apareció tras la puerta.
 
-Un joven que había tenido que vender su bicicleta.
+Otra noche fue una casa al otro lado del bosque, la de una anciana que vivía sola. La mujer se despertó de madrugada al oír crujir el suelo de su propia cocina, y se pasó el resto de la noche encerrada en un reloj de pared.
 
 El Lobo dejó de respirar durante unos segundos.
 
-No había estado robando una suma abstracta de monedas.
+No había estado solo robando una suma abstracta de monedas.
 
-Había estado empujando a alguien, en algún lugar, a quedarse sin dormir por las noches.
+Había estado dejando miedo donde antes solo había una casa tranquila.
 
 Personas que no habían hecho nada malo.
-
-Personas que solo querían salir adelante.
 
 Y de repente entendió algo que no había entendido antes.
 
@@ -254,11 +260,11 @@ Abrió un nuevo documento.
 
 Escribió una frase.
 
-**PLAN.**
+PLAN.
 
 Debajo escribió:
 
-**CERDITO PEQUEÑO.**
+CERDITO PEQUEÑO.
 
 Y empezó a pensar.
 
