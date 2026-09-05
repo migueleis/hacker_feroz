@@ -254,32 +254,7 @@ Era la sonrisa de alguien que acababa de tener una idea.
 
 Se levantó de la silla.
 
-—Queréis jugar.
+—¿Queréis jugar?
 
-Abrió un nuevo documento.
+—Pues JUGUEMOS
 
-Escribió una frase.
-
-PLAN.
-
-Debajo escribió:
-
-CERDITO PEQUEÑO.
-
-Y empezó a pensar.
-
-El Lobo Feroz seguía siendo un hacker.
-
-Seguía sabiendo engañar.
-
-Seguía sabiendo encontrar puertas abiertas.
-
-Pero ahora tenía un nuevo objetivo.
-
-No quería conseguir dinero.
-
-Quería descubrir la verdad.
-
-Y para conseguirlo tendría que entrar en la primera casa.
-
-La casa del Cerdito Pequeño.
