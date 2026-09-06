@@ -2,7 +2,7 @@
 
 ## La casa de madera
 
-El Lobo Feroz aparcó el coche a una distancia prudente.
+El Lobo Feroz se acercó a una distancia prudente.
 
 Miró la casa.
 
@@ -12,9 +12,7 @@ Volvió a mirar la casa.
 
 —Bueno...
 
-Sacó una libreta.
-
-En la primera página había escrito:
+En sus notas había escrito:
 
 **CASA DE PAJA**
 
@@ -54,25 +52,25 @@ Apareció una ventana.
 
 **INTRODUZCA LA CONTRASEÑA**
 
-El Lobo suspiró.
+-Bueno, al menos tiene contraseña
 
-—Ya decía yo que esto no iba a ser tan fácil.
+El Lobo probó también con su número de placa
 
-Probó una contraseña.
+-**CONTRASEÑA INCORRECTA**
 
-Nada.
+-No iba a ser tan fácil
 
 Probó otra.
 
 Nada.
 
-Una tercera.
-
-**ACCESO DENEGADO.**
+Probó todas las contraseñas que nunca deberías usar: 111111, 222222, 333333...
 
 —Vale.
 
-El Lobo cerró el ordenador.
+Cerró el ordenador.
+
+—Parece que el Cerdito Mediano si controla un poco de seguridad.
 
 Se quedó mirando la casa.
 
@@ -92,35 +90,23 @@ El Lobo sonrió.
 
 —No puede ser.
 
-Se quedó unos segundos mirando la pantalla.
-
 —¿El Cerdito Mediano tiene mi misma cafetera?
 
-El Lobo se frotó las patas.
+Se frotó las patas.
 
-—Gracias, cafetera.
-
-No era una cuestión de ingeniería complicada.
+—Gracias, cafetera SMART
 
 Era la clásica cafetera inteligente de la marca que todos los cerditos modernos parecían comprar cuando querían sentirse muy modernos.
 
 Y el Lobo la conocía mejor que nadie.
 
-Había pasado tantas horas jugando con ella que casi podía adivinar sus pensamientos.
-
-—Vamos, pequeña.
-
-Unos segundos.
+Probó una cosa.
 
 Nada.
 
-El Lobo probó otra cosa.
+Otra cosa.
 
 Nada.
-
-—Vamos...
-
-Volvió a intentarlo.
 
 **¡PIP!**
 
@@ -130,39 +116,115 @@ El Lobo levantó las orejas.
 
 La cafetera respondió.
 
-El Lobo sonrió.
-
-—Sabía que algún día todo ese tiempo jugando con su cafetera serviría para algo.
-
-Y, como si el destino quisiera dejarle una segunda oportunidad, no solo usó la cafetera para entrar.
-
-También dejó preparado un pequeño canal de vigilancia oculto.
-
-Una pequeña escucha silenciosa que podría seguir funcionando en segundo plano cuando él ya no estuviera allí.
-
-A través de ella consiguió acceder a la red de la casa.
-
-No había sido fácil.
-
-Pero lo había conseguido.
-
-El Lobo miró la pantalla.
+Y consiguió acceder a la red de la casa a través de ella.
 
 —Ahora sí.
 
-Buscó los dispositivos conectados.
+Empezó a mirar todo lo que la cafetera tenía activado.
 
-Encontró un ordenador.
+—A ver si el cerdito ha sido tan descuidado como yo espero.
 
-Después otro.
+Buscó una opción concreta.
 
-Y un teléfono.
+Y allí estaba.
 
-—Bingo.
+**MICRÓFONO: ACTIVADO**
 
-Pero esta vez no iba a ser tan sencillo como en la casa de paja.
+**ALTAVOZ: ACTIVADO**
 
-El ordenador tenía una contraseña fuerte.
+El Lobo sonrió.
+
+—Lo sabía.
+
+Esta cafetera llevaba micrófono de fábrica, para que pudieras pedirle el café con la voz en vez de apretar un botón.
+
+Casi nadie lo desactivaba.
+
+Y el Cerdito Mediano, por lo visto, tampoco.
+
+—Gracias por no leerte el manual, cerdito.
+
+-Ahora solo necesito activar esta opción y podré escuchar el micro desde mi ordenador
+
+**CLICK**
+
+Y entonces escuchó voces.
+
+—¿Se puede saber qué haces aquí?
+
+Era el Cerdito Mediano.
+
+—Necesitaba ayuda.
+
+Y ese, sin duda, era el Cerdito Pequeño.
+
+El Lobo se quedó muy quieto, escuchando.
+
+—¿Ayuda con qué?
+
+—El Lobo lo sabe todo.
+
+Silencio.
+
+—¿Todo el qué?
+
+—Todo, todo. Los cobros. Los mensajes. Las amenazas.
+
+El Cerdito Mediano soltó un suspiro largo.
+
+—Te dije que pusieras una contraseña en el ordenador.
+
+—¡Tenía una!
+
+—123456 no es una contraseña, es una fecha de caducidad.
+
+El Lobo, desde el coche, asintió con la cabeza.
+
+—Exacto.
+
+El Cerdito Pequeño siguió hablando, cada vez más nervioso.
+
+—Vino a mi casa. Tenía pruebas. Dijo que iba a ir a la policía.
+
+—¿Y qué le dijiste?
+
+—Que dejaríamos de hacerlo.
+
+—¿Y es verdad?
+
+Pausa.
+
+—No.
+
+El Cerdito Mediano suspiró de nuevo.
+
+—Genial. Genial. Justo lo que necesitábamos.
+
+—¿Qué hacemos?
+
+—De momento, nada. Voy a hacer unas llamadas.
+
+El Lobo sonrió despacio.
+
+—Ah, ¿sí?
+
+—Quédate aquí. No salgas. Y no toques nada.
+
+Pasos alejándose.
+
+Una puerta cerrándose.
+
+El Lobo se recostó en el asiento.
+
+—Bueno.
+
+Miró la pantalla.
+
+—Esto ha sido más fácil que la contraseña.
+
+Volvió a centrarse en el ordenador del Cerdito Mediano.
+
+Esta vez no iba a ser tan sencillo como en la casa de paja.
 
 El antivirus estaba activado.
 
@@ -186,7 +248,7 @@ Después un panel de administración.
 
 Y luego un puerto antiguo.
 
-El Lobo probó la primera ruta.
+Probó la primera ruta.
 
 Nada.
 
@@ -212,8 +274,6 @@ Un módulo viejo.
 
 Una errata de seguridad que alguien había dejado sin corregir.
 
-El Lobo sonrió.
-
 —Ah. Ahí estás.
 
 Escribió a toda prisa.
@@ -228,79 +288,69 @@ Y de repente...
 
 **ACCESO AL SISTEMA CONSEGUIDO**
 
-El Lobo levantó las patas.
-
 —¡Sí!
 
 Se quedó quieto.
 
-—Bueno.
-
-Miró la pantalla.
-
 —Eso ha costado.
-
-Abrió una carpeta.
-
-Nada.
-
-Otra.
-
-Nada.
-
-El ordenador tenía antivirus.
-
-Actualizaciones recientes.
-
-Y varias medidas de seguridad activadas.
-
-El Lobo asintió.
-
-—Muy bien.
-
-Por primera vez, estaba impresionado.
 
 —Este cerdito sabe lo que hace.
 
-Entonces vio una carpeta.
+Abrió una carpeta.
 
-DOCUMENTOS IMPORTANTES
-
-La abrió.
-
-Nada.
-
-Otra carpeta.
-
-TRABAJO
+**DOCUMENTOS IMPORTANTES**
 
 Nada.
 
 Otra.
 
-VACACIONES
+**TRABAJO**
 
 Nada.
 
+Otra.
+
+**VACACIONES**
+
 —¿De verdad?
 
-El Lobo abrió la carpeta.
+La abrió igualmente.
 
-Dentro había cientos de fotografías del Cerdito Mediano tumbado en una hamaca.
+Y se arrepintió al instante.
 
-—Vale.
+Docenas de fotos del Cerdito Mediano en una playa.
 
-La cerró inmediatamente.
+Con un bañador diminuto estampado de flamencos rosas.
 
-—Esto no me interesa.
+Posando.
+
+En una tumbona.
+
+Posando.
+
+Con un cóctel con sombrillita.
+
+Posando.
+
+El Lobo se llevó una pata a la cara.
+
+—No necesitaba ver esto.
+
+Pasó a la siguiente foto.
+
+—Ni esto tampoco.
+
+Cerró la carpeta de golpe.
+
+—Vale. Sigamos.
 
 Siguió buscando.
 
 Entonces encontró algo.
 
-OPERACIONES
+**OPERACIONES**
 
-El Lobo abrió la carpeta.
+La abrió.
 
 Había documentos.
 
@@ -332,11 +382,11 @@ Pagos.
 
 Y junto a cada operación aparecía una inicial.
 
-C.M.
+**C.M.**
 
 El Lobo se quedó pensando.
 
-—Cerdito Mediano?
+—¿Cerdito Mediano?
 
 Abrió otro archivo.
 
@@ -346,11 +396,11 @@ Una tabla.
 
 En la parte superior aparecían tres columnas:
 
-RECAUDACIÓN
+**RECAUDACIÓN**
 
-ENTREGA
+**ENTREGA**
 
-DESTINATARIO
+**DESTINATARIO**
 
 El Lobo fue bajando por la lista.
 
@@ -364,7 +414,7 @@ En la columna DESTINATARIO no aparecía ninguno de los dos.
 
 Siempre aparecía la misma inicial.
 
-C.M.
+**C.M.**
 
 El Lobo parpadeó.
 
@@ -380,23 +430,19 @@ Lo mismo.
 
 Siempre alguien por encima.
 
-Alguien por encima de ellos dos.
-
 Alguien que recibía el dinero.
 
-El Lobo siguió investigando.
+Siguió investigando.
 
 Y entonces encontró una carpeta protegida.
 
-NIVEL SUPERIOR
-
-El Lobo sonrió.
+**NIVEL SUPERIOR**
 
 —Ahí estás.
 
 Intentó abrirla.
 
-ACCESO DENEGADO.
+**ACCESO DENEGADO.**
 
 Lo intentó otra vez.
 
@@ -408,17 +454,7 @@ Otra vez.
 
 Nada.
 
-El Lobo se levantó.
-
-Se puso a caminar alrededor del coche.
-
-Volvió a sentarse.
-
-Miró la pantalla.
-
 —Soplaré...
-
-Pulsó una tecla.
 
 Nada.
 
@@ -430,13 +466,11 @@ Nada.
 
 —¡Y tu contraseña descubriré!
 
-ACCESO DENEGADO.
+**ACCESO DENEGADO.**
 
 El Lobo apoyó la cabeza sobre el volante.
 
-—Vale.
-
-—Uno a cero.
+—Vale. Uno a cero.
 
 Se quedó pensando.
 
@@ -446,17 +480,15 @@ Un calendario.
 
 Había una reunión programada para el día siguiente.
 
-REUNIÓN — 18:00
+**REUNIÓN — 18:00**
 
 Ubicación:
 
-CASA DEL CERDITO MAYOR
+**CASA DEL Cerdito MAYOR**
 
 El Lobo levantó lentamente la cabeza.
 
 —¿Cerdito Mayor?
-
-Abrió los ojos.
 
 —Así que hay otro.
 
@@ -464,74 +496,62 @@ Y si había alguien por encima del Cerdito Mediano...
 
 aquello significaba que la historia era mucho más grande de lo que pensaba.
 
-El Lobo hizo una captura de pantalla.
+Hizo una captura de pantalla.
 
-Guardó toda la información que había encontrado.
+Guardó toda la información.
 
-Y cerró el ordenador.
+Y entonces recordó algo.
 
-Pero justo cuando estaba a punto de marcharse...
+El micrófono seguía activado.
 
-¡CLAC!
+Volvió a subir el volumen.
 
-La puerta de la casa se abrió.
+Y escuchó pasos.
 
-El Cerdito Mediano salió.
+El Cerdito Mediano había vuelto a la cocina.
 
-Llevaba el teléfono en la mano.
+**¡CLIC!**
 
-El Lobo se agachó.
+La cafetera se puso en marcha.
 
-—Otra vez no...
+—Café mientras hago la llamada más importante del día. Perfecto.
 
-El cerdito miró a su alrededor.
+El Lobo sonrió.
 
-Después hizo una llamada.
+—Perfecto también para mí.
 
-—Sí.
-
-Pausa.
-
-—El pequeño está asustado.
-
-El Lobo escuchaba atentamente.
-
-—Dice que el Lobo tiene pruebas.
+—Sí, soy yo.
 
 Pausa.
 
-El cerdito empezó a caminar de un lado a otro.
+—El pequeño está asustado. Dice que el Lobo tiene pruebas.
+
+Pausa.
 
 —No, no creo que sepa nada del jefe.
 
 El Lobo abrió mucho los ojos.
 
-El jefe.
+—El jefe.
 
-El Cerdito Mediano continuó:
+El Cerdito Mediano continuó, con la taza en la pata:
 
-—Mañana iré a hablar con él.
+—Mañana iré a hablar con él. En su casa.
 
 Pausa.
 
-—Sí.
+—Sí, la reunión sigue en pie.
 
-Miró hacia la casa.
+El Lobo ya tenía lo que necesitaba.
 
-—En su casa.
+Colgó el cerdito.
 
-El Lobo sonrió.
+Cerró el ordenador.
 
-No necesitaba seguir escuchando.
+Y arrancó el coche.
 
-Ya tenía lo que necesitaba.
+—Gracias por el café, cerdito.
 
-El Cerdito Mediano colgó.
-
-Volvió a entrar.
-
-El Lobo se incorporó.
-
-Al día siguiente siguió al cerdito mediano hasta su reunión.
+Al día siguiente, el Lobo siguió al Cerdito Mediano hasta su reunión.
 
 —Así que el jefe vive en una casa de ladrillo.

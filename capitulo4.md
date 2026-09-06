@@ -44,7 +44,7 @@ Negó con la cabeza.
 
 Y para conseguir pruebas, solo hacía falta un cerdito descuidado.
 
-—El cerdito pequeño —murmuró, sonriendo de oreja a oreja.
+—El Cerdito Pequeño —murmuró, sonriendo de oreja a oreja.
 
 Era el más joven de los dos.
 
@@ -74,7 +74,7 @@ El Lobo sonrió.
 
 —Gracias por ponérmelo tan fácil, expertos en seguridad, ja, ja, ja.
 
-Encontró la dirección de correo electrónico del cerdito pequeño, un dato sin importancia para cualquier persona, salvo para un hacker como el lobo.
+Encontró la dirección de correo electrónico del Cerdito Pequeño, un dato sin importancia para cualquier persona, salvo para un hacker como el lobo.
 
 Eso era todo lo que necesitaba.
 
@@ -86,7 +86,7 @@ Ni siquiera sabía qué desayunaba.
 
 Pero sabía una cosa importante.
 
-Al cerdito pequeño le encantaba el dinero.
+Al Cerdito Pequeño le encantaba el dinero.
 
 Muchísimo.
 
@@ -212,7 +212,7 @@ El Lobo levantó la cabeza.
 
 —¡Sí!
 
-El cerdito pequeño había abierto el mensaje.
+El Cerdito Pequeño había abierto el mensaje.
 
 El Lobo observó la pantalla.
 

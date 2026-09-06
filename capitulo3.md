@@ -2,7 +2,7 @@
 
 ## El trato
 
-A la mañana siguiente, el cerdito pequeño volvió a entrar en la habitación.
+A la mañana siguiente, el Cerdito Pequeño volvió a entrar en la habitación.
 
 Dejó una carpeta sobre la mesa con un golpe demasiado dramático para lo que en realidad era una carpeta.
 
@@ -20,7 +20,7 @@ El Lobo la miró.
 
 —Suena exactamente igual de mal.
 
-El cerdito mediano se sentó frente al Lobo.
+El Cerdito Mediano se sentó frente al Lobo.
 
 —Vamos a explicarte exactamente qué queremos.
 
@@ -28,7 +28,7 @@ El Lobo cruzó las patas, todavía esposadas por delante.
 
 —Soy todo oídos. Un poco incómodo, pero todo oídos.
 
-El cerdito mediano abrió la carpeta.
+El Cerdito Mediano abrió la carpeta.
 
 Dentro había fotografías, documentos y varias hojas llenas de datos de personas.
 
@@ -42,7 +42,7 @@ El Lobo miró la carpeta.
 
 —Ya, ya. Es que a mí me sale solo. Es un problemilla que tengo.
 
-—Tienes dos opciones, oink. -dijo el cerdito pequeño
+—Tienes dos opciones, oink. -dijo el Cerdito Pequeño
 
 Levantó un dedo.
 
@@ -64,7 +64,7 @@ El Lobo frunció el ceño.
 
 —¿Trabajar para vosotros haciendo exactamente qué?
 
-El cerdito mediano se inclinó sobre la mesa.
+El Cerdito Mediano se inclinó sobre la mesa.
 
 —Dos cosas.
 
@@ -80,11 +80,11 @@ El Lobo abrió mucho los ojos.
 
 —Se supone que, como trabajadores del centro, deberiais pararme y cerrar la web, no ¡quedaros con el dinero!.
 
-El cerdito pequeño se encogió de hombros, como si le estuvieran preguntando algo obvio.
+El Cerdito Pequeño se encogió de hombros, como si le estuvieran preguntando algo obvio.
 
 —Y la detendremos, cuando a nosotros nos convenga, oink.
 
-—La segunda cosa —dijo el cerdito mediano— es esta lista.
+—La segunda cosa —dijo el Cerdito Mediano— es esta lista.
 
 El Lobo la miró.
 
@@ -102,7 +102,7 @@ El Lobo parpadeó.
 
 —Hackea sus sistemas de seguridad, entra en las casas y haz lo que haceis los lobos ¡sacar los dientes!
 
-—Un susto elegante, oink, oink. —añadió el cerdito pequeño, muy orgulloso de la frase, aunque no era suya.
+—Un susto elegante, oink, oink. —añadió el Cerdito Pequeño, muy orgulloso de la frase, aunque no era suya.
 
 El Lobo se quedó mirando a los dos.
 
@@ -112,11 +112,11 @@ El Lobo se quedó mirando a los dos.
 
 —¿Y para qué queréis asustar a todo un pueblo?
 
-El cerdito mediano sonrió, y por primera vez pareció que de verdad disfrutaba explicando algo.
+El Cerdito Mediano sonrió, y por primera vez pareció que de verdad disfrutaba explicando algo.
 
 —Porque un pueblo asustado contrata seguridad. Y da la casualidad de que nosotros trabajamos en una empresa de seguridad.
 
-—Cuantas más casas visites, más gente llamará asustada a la Hermandad, oink. —dijo el cerdito pequeño—. Y cuantos más clientes nuevos consigamos mas dinero nos llevaremos, oink, oink.
+—Cuantas más casas visites, más gente llamará asustada a la Hermandad, oink. —dijo el Cerdito Pequeño—. Y cuantos más clientes nuevos consigamos mas dinero nos llevaremos, oink, oink.
 
 El Lobo tardó un momento en atar cabos.
 
@@ -126,7 +126,7 @@ El Lobo tardó un momento en atar cabos.
 
 El Lobo frunció el ceño.
 
-El cerdito mediano cerró la carpeta, muy despacio, como si aquella fuera la parte que más le gustaba explicar.
+El Cerdito Mediano cerró la carpeta, muy despacio, como si aquella fuera la parte que más le gustaba explicar.
 
 —Si quitamos la web falsa, el dinero se lo lleva la empresa.
 

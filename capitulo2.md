@@ -22,7 +22,7 @@ Un silencio muy largo.
 
 Un silencio que duró, exactamente, dos segundos.
 
-Porque al tercer segundo, el cerdito mediano dio un paso al frente y lo placó limpiamente.
+Porque al tercer segundo, el Cerdito Mediano dio un paso al frente y lo placó limpiamente.
 
 **¡PLAF!**
 
@@ -34,7 +34,7 @@ Con el hocico aplastado contra el felpudo de la entrada, justo encima de donde p
 
 —Ay.
 
-El cerdito pequeño se subió a su espalda, sin ningún esfuerzo aparente, y sacó unas esposas diminutas del bolsillo.
+El Cerdito Pequeño se subió a su espalda, sin ningún esfuerzo aparente, y sacó unas esposas diminutas del bolsillo.
 
 —Muy temido, sí, oink.
 
@@ -46,7 +46,7 @@ El cerdito pequeño se subió a su espalda, sin ningún esfuerzo aparente, y sac
 
 —Seguro.
 
-El cerdito pequeño le puso las esposas.
+El Cerdito Pequeño le puso las esposas.
 
 **¡CLIC!**
 
@@ -56,9 +56,9 @@ El Lobo levantó las patas todo lo que le dejaban las esposas, que no era mucho.
 
 Aunque, siendo justos, a esas alturas ya no tenía muchas más opciones.
 
-Miró al cerdito pequeño.
+Miró al Cerdito Pequeño.
 
-Después miró al cerdito mediano.
+Después miró al Cerdito Mediano.
 
 Volvió a mirar al pequeño.
 
@@ -68,7 +68,7 @@ Volvió a mirar al pequeño.
 
 —¿Puedo coger mi chaqueta?
 
-El cerdito mediano negó con la cabeza.
+El Cerdito Mediano negó con la cabeza.
 
 El Lobo suspiró.
 
@@ -84,7 +84,7 @@ El Lobo se levantó del suelo como pudo, con el felpudo todavía marcado en la m
 
 En la acera había un coche del Centro de Seguridad de la Hermandad.
 
-El cerdito pequeño abrió la puerta trasera.
+El Cerdito Pequeño abrió la puerta trasera.
 
 —Dentro, oink.
 
@@ -108,11 +108,11 @@ El Lobo miró el coche.
 
 El Lobo entró.
 
-El cerdito pequeño cerró la puerta.
+El Cerdito Pequeño cerró la puerta.
 
 **¡CLAC!**
 
-El cerdito mediano se sentó al volante.
+El Cerdito Mediano se sentó al volante.
 
 El coche arrancó.
 
@@ -122,17 +122,17 @@ El Lobo miraba por la ventana, tarareando muy bajito con una voz distorsionada.
 
 —*Bye-bye-money...*
 
-—¿Qué dices?, oink. —preguntó el cerdito pequeño, girándose.
+—¿Qué dices?, oink. —preguntó el Cerdito Pequeño, girándose.
 
 —Nada. Cosas de lobos.
 
-El cerdito pequeño se encogió de hombros y volvió a mirar al frente. Llevaba un momento entretenido con una calculadora de bolsillo, sumando algo con mucha concentración.
+El Cerdito Pequeño se encogió de hombros y volvió a mirar al frente. Llevaba un momento entretenido con una calculadora de bolsillo, sumando algo con mucha concentración.
 
 —¿Qué haces? —preguntó el Lobo.
 
 —Calculo cuánto es la recompensa por atraparte, oink.
 
-El cerdito mediano puso los ojos en blanco.
+El Cerdito Mediano puso los ojos en blanco.
 
 —No hay recompensa.
 
@@ -144,13 +144,13 @@ El cerdito mediano puso los ojos en blanco.
 
 —No la hay.
 
-El cerdito pequeño guardó la calculadora, un poco alicaído.
+El Cerdito Pequeño guardó la calculadora, un poco alicaído.
 
 —Bueno. Uno puede soñar, oink, oink.
 
 —¿Puedo saber de qué se me acusa? —preguntó el Lobo.
 
-El cerdito pequeño se giró desde el asiento delantero, muy serio, carraspeando como si llevara toda la vida esperando decir aquella palabra.
+El Cerdito Pequeño se giró desde el asiento delantero, muy serio, carraspeando como si llevara toda la vida esperando decir aquella palabra.
 
 —De fisín, oink.
 
@@ -160,7 +160,7 @@ El Lobo frunció el ceño.
 
 —De fisín. Como cuando pescas, pero con ordenadores, oink.
 
-—Se dice phishing —corrigió el cerdito mediano, sin apartar los ojos de la carretera.
+—Se dice phishing —corrigió el Cerdito Mediano, sin apartar los ojos de la carretera.
 
 —Eso he dicho, oink, oink.
 
@@ -170,7 +170,7 @@ El Lobo frunció el ceño.
 
 El Lobo, a pesar de las esposas, no pudo evitar sonreír un poquito.
 
-—Creación de páginas web falsas —continuó el cerdito pequeño, ya más seguro.
+—Creación de páginas web falsas —continuó el Cerdito Pequeño, ya más seguro.
 
 —Bueno...
 
@@ -180,13 +180,13 @@ El Lobo miró al techo del coche.
 
 —Cuando lo decís todo seguido parece que hago muchas cosas.
 
-—Y las haces —gruñó el cerdito mediano.
+—Y las haces —gruñó el Cerdito Mediano.
 
-—Y encima cobrando a nuestros socios solo un euro —añadió el cerdito pequeño- ¡Qué ridículo!, oink.
+—Y encima cobrando a nuestros socios solo un euro —añadió el Cerdito Pequeño- ¡Qué ridículo!, oink.
 
-—¿Ridículo? ¡Una moneda por 5.000 socios que sabemos que nos ha robado este mes! —dijo el cerdito mediano.
+—¿Ridículo? ¡Una moneda por 5.000 socios que sabemos que nos ha robado este mes! —dijo el Cerdito Mediano.
 
-El cerdito pequeño se quedó completamente quieto.
+El Cerdito Pequeño se quedó completamente quieto.
 
 —Espera…
 
@@ -194,7 +194,7 @@ Abrió mucho los ojos.
 
 —¿Cinco mil?
 
-El cerdito mediano asintió.
+El Cerdito Mediano asintió.
 
 —Cinco mil.
 
@@ -216,7 +216,7 @@ El Lobo sonrió de lado y se acomodó en el asiento.
 
 Hizo una pequeña pausa, disfrutando de la cara del cerdito.
 
-El cerdito pequeño se quedó con la boca abierta. Sus ojos brillaban como si acabara de descubrir el mayor tesoro del reino.
+El Cerdito Pequeño se quedó con la boca abierta. Sus ojos brillaban como si acabara de descubrir el mayor tesoro del reino.
 
 —Eso es… eso es…
 
@@ -228,7 +228,7 @@ El Lobo sonrió por primera vez.
 
 —Lo sé, soy un crack, perdón un CRACK-ER
 
-El cerdito mediano suspiró.
+El Cerdito Mediano suspiró.
 
 —Por eso te lo estaba explicando - explicó con pesadez.
 
@@ -242,7 +242,7 @@ El pequeño ya estaba perdido en sus cálculos.
 
 —¿Y si fueran diez mil socios? ¿Y veinte mil? ¿Y cien mil?
 
-El cerdito mediano lo miró de reojo y negando con la cabeza.
+El Cerdito Mediano lo miró de reojo y negando con la cabeza.
 
 —No empieces.
 
@@ -264,7 +264,7 @@ El Lobo levantó una ceja.
 
 —¿Tenéis ordenadores?
 
-El cerdito pequeño lo miró.
+El Cerdito Pequeño lo miró.
 
 —Pues claro, oink. - dijo con un tono burlón.
 
@@ -276,7 +276,7 @@ El Lobo sonrió, olvidando por un segundo que llevaba esposas.
 
 —Esto se pone interesante.
 
-—No creo que estés en posición de decir eso - dijo el cerdito mediano.
+—No creo que estés en posición de decir eso - dijo el Cerdito Mediano.
 
 —Probablemente no, pero lo digo igual ¡Es parte de mi encanto!
 
@@ -312,7 +312,7 @@ El Lobo abrió mucho los ojos.
 
 —Vaya. Esto sí que es un buen montaje. Yo trabajo con tres monitores y un sofá con forma de hueso. Vosotros tenéis una sala entera, lo que podría hacer yo con todo esto.
 
-—Siéntate —ordenó el cerdito mediano, sin hacerle ni caso.
+—Siéntate —ordenó el Cerdito Mediano, sin hacerle ni caso.
 
 El Lobo obedeció.
 
@@ -330,7 +330,7 @@ El Lobo se quedó mirando.
 
 —¿Y lo habéis encendido?
 
-El cerdito mediano sonrió, un poco malicioso.
+El Cerdito Mediano sonrió, un poco malicioso.
 
 —Ya sabemos muchas cosas sobre ti.
 
@@ -342,7 +342,7 @@ El Lobo dejó de sonreír.
 
 —Espero que no hayan encontrado el video que me grabé el otro día bailando el "Miau Miau Money Dance". No creo, está en la carpeta de máxima seguridad - rezó para sí el lobo.
 
-El cerdito pequeño abrió la carpeta con más entusiasmo del necesario, como si fuera el mejor regalo de cumpleaños que había recibido nunca.
+El Cerdito Pequeño abrió la carpeta con más entusiasmo del necesario, como si fuera el mejor regalo de cumpleaños que había recibido nunca.
 
 Dentro había fotografías del lobo, capturas de pantalla de su web falsa, su dirección y registros de sus actividades.
 
@@ -360,7 +360,7 @@ Y sabían cómo lo hacía.
 
 —Entonces… ¿para qué me habéis traído aquí? ¿No debería estar ya en una celda, comiendo algo horrible en una bandeja de metal?
 
-—Porque creemos que puedes sernos útil —dijo el cerdito mediano.
+—Porque creemos que puedes sernos útil —dijo el Cerdito Mediano.
 
 El Lobo frunció el ceño.
 
@@ -368,7 +368,7 @@ El Lobo frunció el ceño.
 
 —Sí.
 
-El cerdito mediano se acercó a uno de los ordenadores y abrió una pantalla.
+El Cerdito Mediano se acercó a uno de los ordenadores y abrió una pantalla.
 
 —Tu sistema para engañar a la gente no es especialmente sofisticado.
 
@@ -380,7 +380,7 @@ El Lobo hizo una mueca.
 
 El Lobo no supo qué responder. Se limitó a asentir, como si aquello fuera obvio.
 
-El cerdito mediano continuó:
+El Cerdito Mediano continuó:
 
 —Y tienes algo que nosotros necesitamos.
 
@@ -398,7 +398,7 @@ Los dos cerditos se miraron, confundidos.
 
 -Toma!! no lo han visto -dijo el lobo para sus adentros.
 
-—Sabes cómo piensa alguien que intenta entrar donde no debe —dijo el cerdito mediano.
+—Sabes cómo piensa alguien que intenta entrar donde no debe —dijo el Cerdito Mediano.
 
 El Lobo miró las pantallas.
 
@@ -412,7 +412,7 @@ Y sonrieron.
 
 —No exactamente.
 
-El cerdito mediano pulsó una tecla.
+El Cerdito Mediano pulsó una tecla.
 
 En la pantalla apareció un mapa lleno de puntos.
 
@@ -426,7 +426,7 @@ El Lobo se quedó callado.
 
 —Creo que sí importa.
 
-El cerdito mediano se inclinó hacia él.
+El Cerdito Mediano se inclinó hacia él.
 
 —Tú haces lo que sabes hacer.
 
@@ -434,7 +434,7 @@ El cerdito mediano se inclinó hacia él.
 
 —Nosotros nos encargaremos del resto.
 
-El cerdito pequeño, que llevaba un rato callado, levantó la pata.
+El Cerdito Pequeño, que llevaba un rato callado, levantó la pata.
 
 — una pregunta jefe ¿esto cuenta para el bono de empresa?, oink.
 
@@ -456,7 +456,7 @@ Y mucho más peligroso.
 
 —¿Y si digo que no?
 
-El cerdito mediano señaló la carpeta.
+El Cerdito Mediano señaló la carpeta.
 
 —Entonces entregaremos todo esto a las autoridades.
 
@@ -464,7 +464,7 @@ El Lobo tragó saliva.
 
 —Ya...
 
-—Pero si aceptas —continuó el cerdito mediano—, quizá podamos hacer que todo esto desaparezca
+—Pero si aceptas —continuó el Cerdito Mediano—, quizá podamos hacer que todo esto desaparezca
 
 El Lobo miró a los dos cerditos.
 
@@ -476,7 +476,7 @@ Después sonrió.
 
 —Bueno, si voy a trabajar para vosotros...
 
-El cerdito mediano levantó una pata.
+El Cerdito Mediano levantó una pata.
 
 —Todavía no has aceptado.
 
@@ -486,11 +486,11 @@ El Lobo dejó de sonreír.
 
 Durante unos segundos, nadie dijo nada.
 
-El cerdito mediano cerró la carpeta.
+El Cerdito Mediano cerró la carpeta.
 
 —Mañana hablaremos de las condiciones.
 
-El cerdito pequeño, mientras tanto, seguía mirando fijamente la carpeta cerrada, como si pudiera ver el dinero a través del cartón.
+El Cerdito Pequeño, mientras tanto, seguía mirando fijamente la carpeta cerrada, como si pudiera ver el dinero a través del cartón.
 
 El Lobo se dio cuenta.
 
@@ -512,7 +512,7 @@ No tenía muchas opciones.
 
 Y eso podía significar cualquier cosa.
 
-El cerdito mediano se levantó.
+El Cerdito Mediano se levantó.
 
 —De momento pasarás la noche ahí en la sala de reuniones -dijo el cerdito señalando a la habitación contigua.
 

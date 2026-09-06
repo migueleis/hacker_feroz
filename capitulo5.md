@@ -38,15 +38,13 @@ El Lobo parpadeó.
 
 Volvió a mirar la pantalla.
 
-No había contraseña.
+¡No había contraseña!
 
 La red estaba completamente abierta.
 
 El Lobo se quedó unos segundos en silencio.
 
-—Cerdito...
-
-Miró hacia la casa.
+—Cerdito... -dijo negando con la cabeza.
 
 —Una Wi‑Fi debería tener contraseña.
 
@@ -60,7 +58,7 @@ Bastaba con entrar en la red.
 
 Ya estaba dentro.
 
-Ahora necesitaba encontrar el ordenador del cerdito pequeño.
+Ahora necesitaba encontrar el ordenador del Cerdito Pequeño.
 
 Lo localizó rápidamente.
 
@@ -78,7 +76,7 @@ Miró la pantalla.
 
 Pensó unos segundos.
 
-—Algo que le guste al cerdito pequeño...
+—Algo que le guste al Cerdito Pequeño...
 
 Tecleó:
 
@@ -90,7 +88,7 @@ Pulsó Enter.
 
 El Lobo chasqueó la lengua.
 
-—Normal, esto no funciona a la primera
+—Normal, esto nunca funciona a la primera
 
 **RICO**
 
@@ -138,7 +136,7 @@ Demasiado fácil de recordar.
 
 El Lobo sonrió despacio.
 
-—No puede ser tan tonto.
+—No puede ser tan tonto -volvió a negar con la cabeza.
 
 Tecleó:
 
@@ -152,7 +150,7 @@ El ordenador se desbloqueó.
 
 El Lobo se quedó mirando la pantalla.
 
-—Vale, sí que puede.
+—Vale, sí que puede -asintió.
 
 -Probablemente entre las 10 contraseñas mas débiles del mundo, al nivel de 111111
 
@@ -160,7 +158,7 @@ Pero sonrió de todas formas.
 
 Entonces entró en el ordenador.
 
-Y entonces descubrió algo todavía peor.
+Y descubrió algo todavía peor.
 
 En el escritorio había un archivo llamado:
 
@@ -190,7 +188,7 @@ Suspiró.
 
 Abrió los ojos.
 
-—Si alguien consigue una, las consigue todas.
+—Si alguien consigue una ¡las consigue todas!
 
 Se quedó mirando la pantalla.
 
@@ -208,9 +206,7 @@ Sonrió.
 
 —Dos puertas son más difíciles de abrir que una.
 
-Aunque, en aquel caso...
-
-solo había una puerta.
+Aunque, en este caso, solo había una puerta.
 
 Y ya estaba abierta.
 
@@ -236,11 +232,7 @@ Y una cantidad de dinero.
 
 El Lobo dejó de sonreír.
 
-Abrió el primero.
-
-Después el segundo.
-
-Después el tercero.
+Abrió el primero, el segundo, el tercero...
 
 Personas.
 
@@ -274,27 +266,11 @@ Eran decenas.
 
 El Cerdito Pequeño llevaba tiempo extorsionándolas.
 
-El Lobo abrió otro documento.
-
-Había una lista de pagos.
-
-Y junto a algunos nombres aparecía una palabra:
-
-**PAGADO.**
-
-Junto a otros:
-
-**PENDIENTE.**
-
 Se reclinó en el banco.
 
 Había conseguido entrar.
 
 Había encontrado pruebas.
-
-Pero necesitaba saber más.
-
-Mucho más.
 
 Entonces escuchó un ruido.
 
@@ -308,9 +284,9 @@ El Cerdito Pequeño salió.
 
 El Lobo cerró rápidamente el ordenador.
 
-Se agachó detrás del banco.
+Y se agachó detrás del banco.
 
-El cerdito miró alrededor.
+El Cerdito Miró alrededor.
 
 Después sacó su teléfono móvil.
 
@@ -328,11 +304,7 @@ Otra pausa.
 
 El cerdito sonrió.
 
-—Ha costado más de lo esperado.
-
-Silencio.
-
-—Pero, por fin, ha conseguido engañar a la persona adecuada.
+—Ha costado más de lo esperado. Pero, por fin, ha conseguido engañar a la persona adecuada.
 
 El Lobo frunció el ceño.
 
@@ -364,8 +336,6 @@ Después salió de su escondite.
 
 Miró la casa.
 
-Miró el ordenador.
-
 Y sonrió.
 
 —Ya sé lo que tengo que hacer.
@@ -380,19 +350,19 @@ El Cerdito Pequeño abrió.
 
 Al ver al Lobo, se quedó completamente quieto.
 
-—Tú...
+—¿Tú?
 
-—Hola.
+—Hola cerdito! saludo de una manera burlona.
 
-—¿Qué haces aquí? ¿Qué has venido a pagarme?
+—¿Qué haces aquí? oink, oink ¿Qué has venido a pagarme?
 
 El Lobo levantó el ordenador.
 
-—He estado investigando.
+—He estado investigando cerdito.
 
 El cerdito tragó saliva.
 
-—¿Investigando qué?
+—¿Investigando qué?, oink
 
 El Lobo sonrió.
 
@@ -442,7 +412,7 @@ Sonrió.
 
 —Un pequeño **soplo**.
 
-El cerdito parpadeó.
+El Cerdito Parpadeó.
 
 —¿Un soplo?
 
@@ -472,7 +442,7 @@ El Lobo sonrió.
 
 Durante unos segundos no se escuchó nada.
 
-Finalmente, el cerdito pequeño bajó la cabeza.
+Finalmente, el Cerdito Pequeño bajó la cabeza.
 
 —Está bien.
 
@@ -536,9 +506,9 @@ Y salió detrás de él.
 
 ---
 
-El cerdito pequeño corría todo lo rápido que podían correr unas patas de cerdo.
+El Cerdito Pequeño corría todo lo rápido que podían correr unas patas de cerdo.
 
--Necesito ayuda, estaré seguro en casa del cerdito mediano.
+-Necesito ayuda, estaré seguro en casa del Cerdito Mediano.
 
 El Lobo mantenía cierta distancia.
 
@@ -566,13 +536,13 @@ El Lobo lo observaba desde una esquina lejana
 
 La puerta se abrió.
 
-Un cerdito más grande apareció al otro lado.
+Un Cerdito Más grande apareció al otro lado.
 
-El cerdito pequeño entró rápidamente.
+El Cerdito Pequeño entró rápidamente.
 
 El Lobo entrecerró los ojos.
 
-—Ya te tengo cerdito mediano, ya se donde vives.
+—Ya te tengo Cerdito Mediano, ya se donde vives.
 
 Miró la casa.
 
