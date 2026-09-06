@@ -49,7 +49,8 @@ Y para conseguir pruebas, solo hacía falta un cerdito descuidado.
 Era el más joven de los dos.
 
 Y, con un poco de suerte, también el más fácil de engañar. 
-En las pocas veces que he hablado con el no parecia ni mucho menos un genio.
+
+-En las pocas veces que he hablado con el no parecia ni mucho menos un genio.
 
 Pero primero tenía que encontrarlo.
 
@@ -57,7 +58,7 @@ El Lobo abrió el ordenador y empezó a buscar información.
 
 No tuvo que esforzarse demasiado.
 
-El Centro de Seguridad de la Hermandad tenía una página web.
+Entró en la página web orignal del Centro de Seguridad de la Hermandad.
 
 Y en ella había información que cualquiera podía consultar.
 
@@ -159,7 +160,7 @@ El Lobo se echó hacia atrás.
 
 Sonrió.
 
-—O "fisín", que diría cierto cerdito.
+—O "fisín", que diría cierto cerdito -se rió.
 
 Pero precisamente por eso podía funcionar.
 
@@ -177,7 +178,7 @@ Dar su dirección.
 
 El Lobo no necesitaba conseguir la información por la fuerza.
 
-Solo necesitaba conseguir que el certido por su propia patita y encantado de la vida se lo dijera.
+Solo necesitaba conseguir que el certido por su propia patita y encantado de la vida, se lo dijera.
 
 Envió el correo.
 
@@ -253,7 +254,7 @@ El Baile Miau-miau-Money Dance, edición completa, después de semanas sin salir
 
 Le faltaba práctica.
 
-Le dio a la cadera un tirón que no debería haberle dado.
+Le dio un tirón en la cadera que no debería haberle dado.
 
 —Ay.
 
