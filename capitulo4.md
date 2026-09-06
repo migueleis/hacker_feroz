@@ -48,7 +48,8 @@ Y para conseguir pruebas, solo hacía falta un cerdito descuidado.
 
 Era el más joven de los dos.
 
-Y, con un poco de suerte, también el más fácil de engañar, en las pocas veces que he hablado con el no parecia ni mucho menos un genio.
+Y, con un poco de suerte, también el más fácil de engañar. 
+En las pocas veces que he hablado con el no parecia ni mucho menos un genio.
 
 Pero primero tenía que encontrarlo.
 
@@ -70,7 +71,7 @@ Nombres de algunos agentes.
 
 El Lobo sonrió.
 
-—Gracias por ponérmelo tan fácil, espertos en seguridad, ja ja ja
+—Gracias por ponérmelo tan fácil, expertos en seguridad, ja, ja, ja.
 
 Encontró la dirección de correo electrónico del cerdito pequeño, un dato sin importancia para cualquier persona, salvo para un hacker como el lobo.
 
@@ -290,7 +291,7 @@ Y salió de casa.
 
 ---
 
-Unos minutos después, el Lobo llegó hasta la dirección que había conseguido.
+Unos horas después, el Lobo llegó hasta la dirección que había conseguido.
 
 Frente a él había una pequeña casa.
 
