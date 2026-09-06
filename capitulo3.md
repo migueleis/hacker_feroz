@@ -6,17 +6,17 @@ A la mañana siguiente, el cerdito pequeño volvió a entrar en la habitación.
 
 Dejó una carpeta sobre la mesa con un golpe demasiado dramático para lo que en realidad era una carpeta.
 
-—Bienvenido a tu nuevo trabajo.
+—Bienvenido a tu nuevo trabajo, oink.
 
 El Lobo la miró.
 
 —Todavía no he dicho que sí.
 
-—Lo sabemos.
+—Lo sabemos, oink.
 
 —Entonces, técnicamente, esto es secuestro con papeleo.
 
-—Nosotros preferimos llamarlo "colaboración forzosa". Suena mucho mejor.
+—Nosotros preferimos llamarlo "colaboración forzosa". Suena mucho mejor, oink, oink.
 
 —Suena exactamente igual de mal.
 
@@ -42,7 +42,7 @@ El Lobo miró la carpeta.
 
 —Ya, ya. Es que a mí me sale solo. Es un problemilla que tengo.
 
-—Tienes dos opciones. -dijo el cerdito pequeño
+—Tienes dos opciones, oink. -dijo el cerdito pequeño
 
 Levantó un dedo.
 
@@ -50,23 +50,27 @@ Levantó un dedo.
 
 —Segunda: trabajas para nosotros. -dijo señalando uno de los documentos.
 
-—Tercera —interrumpió el Lobo—. Os devuelvo el dinero, me dais un móvil nuevo y me vuelvo a casa como si nada hubiera pasado.
+—Tercera —interrumpió el Lobo. -Os devuelvo el dinero, me dais un móvil nuevo y me vuelvo a casa como si nada hubiera pasado.
 
 —¡No hay tercera! -gritaron a la vez.
+
+- ¿Y sin movil nuevo?
+
+-¡Nooo!
 
 —Vale, vaaale, tenía que intentarlo.
 
 El Lobo frunció el ceño.
 
-—¿Trabajar para vosotros haciendo qué?
+—¿Trabajar para vosotros haciendo exactamente qué?
 
 El cerdito mediano se inclinó sobre la mesa.
 
 —Dos cosas.
 
-—Suena a mucho para un lobo esposado.
+—Suena a mucho para un pobre lobo esposado.
 
-—La primera: sigues con la web falsa. La mantienes abierta, la mantienes creciendo, y sigues pescando incautos como estabas haciendo, pero a partir de ahora el dinero que saques irá a nosotros.
+—Queremos que sigas con la web falsa. La mantienes abierta, la mantienes creciendo, y sigues pescando incautos como estabas haciendo, pero a partir de ahora el dinero que saques irá a nosotros.
 
 El Lobo abrió mucho los ojos.
 
@@ -78,7 +82,7 @@ El Lobo abrió mucho los ojos.
 
 El cerdito pequeño se encogió de hombros, como si le estuvieran preguntando algo obvio.
 
-—Y la detendremos, cuando a nosotros nos convenga.
+—Y la detendremos, cuando a nosotros nos convenga, oink.
 
 —La segunda cosa —dijo el cerdito mediano— es esta lista.
 
@@ -96,17 +100,13 @@ El Lobo parpadeó.
 
 —¿Perdona?
 
-—Buscar fallos en los sistemas de seguridad, entrar en las casas y hacer lo que haceis los lobos ¡sacar los dientes!
+—Hackea sus sistemas de seguridad, entra en las casas y haz lo que haceis los lobos ¡sacar los dientes!
 
-—Un susto elegante —añadió el cerdito pequeño, muy orgulloso de la frase, aunque no era suya.
+—Un susto elegante, oink, oink. —añadió el cerdito pequeño, muy orgulloso de la frase, aunque no era suya.
 
 El Lobo se quedó mirando a los dos.
 
-—Entonces esto no solo va de robar.
-
-—No.
-
-—También va de asustar.
+—Entonces esto no solo va de robar, quereis asustar
 
 —Correcto.
 
@@ -116,13 +116,13 @@ El cerdito mediano sonrió, y por primera vez pareció que de verdad disfrutaba 
 
 —Porque un pueblo asustado contrata seguridad. Y da la casualidad de que nosotros trabajamos en una empresa de seguridad.
 
-—Cuantas más casas visites, más gente llama asustada a la Hermandad —dijo el cerdito pequeño—. Y cuantos más clientes nuevos consigamos mas dinero nos llevaremos.
+—Cuantas más casas visites, más gente llamará asustada a la Hermandad, oink. —dijo el cerdito pequeño—. Y cuantos más clientes nuevos consigamos mas dinero nos llevaremos, oink, oink.
 
 El Lobo tardó un momento en atar cabos.
 
 —Un momento... vosotros no sois los dueños de la empresa.
 
-—Y por eso seguimos con la web falsa.
+—Y por eso queremos que sigas con la web falsa.
 
 El Lobo frunció el ceño.
 
@@ -132,7 +132,7 @@ El cerdito mediano cerró la carpeta, muy despacio, como si aquella fuera la par
 
 —En cambio, el dinero de tu web falsa...
 
-—No pasa por ningún sitio —terminó el Lobo, entendiéndolo de golpe—. Es vuestro. Directamente.
+—Os lo quereis quedar vosotros —terminó el Lobo
 
 —Ahora sí lo pillas.
 
@@ -158,8 +158,6 @@ Y por un segundo, solo por un segundo, se preguntó si de verdad la idea había 
 
 Pero no dijo nada.
 
-Todavía no.
-
 ---
 
 La primera semana, el Lobo entregó lo que la web falsa había conseguido.
@@ -182,7 +180,7 @@ El Lobo empezó a trabajar durante horas y horas.
 
 De día, la pantalla: mensajes, páginas falsas, gente a la que engañar.
 
-De noche, la lista: direcciones, cerraduras, ventanas.
+De noche, la lista: direcciones, sistemas de seguridad, ventanas.
 
 Ya no había vídeos de gatitos.
 
@@ -192,11 +190,11 @@ Ya no había café tranquilo por las mañanas, y mucho menos "Miau-miau-Money Da
 
 Solo ordenadores.
 
-Dinero que nunca se quedaba con él.
+Dinero que se llevaban los cerditos.
 
 Casas a oscuras.
 
-Gente asustada -se entristeció- gente muy muy asustada.
+Y gente asustada -se entristeció- gente muy muy asustada.
 
 ---
 
@@ -220,7 +218,7 @@ Ahora estaba haciendo cosas mucho peores.
 
 Una noche se había colado en una casita de madera al fondo del bosque, en cuanto vio que la dueña salía de casa. Pensó que estaría vacía. No lo estaba: siete cabritillos se habían escondido inultilmente por la casa cuando la sombra enorme del lobo apareció tras la puerta.
 
-Otra noche fue una casa al otro lado del bosque, la de una anciana que vivía sola. La mujer se despertó de madrugada al oír crujir el suelo de su propia cocina, y se pasó el resto de la noche encerrada en un reloj de pared.
+Otra noche fue a una casa al otro lado del bosque, la de una anciana que vivía sola. La mujer se despertó de madrugada al oír crujir el suelo de su propia cocina, y se pasó el resto de la noche encerrada en un reloj de pared.
 
 El Lobo dejó de respirar durante unos segundos.
 
