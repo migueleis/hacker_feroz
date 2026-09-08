@@ -436,30 +436,6 @@ El Lobo apoyó la cabeza sobre una pared.
 
 Se quedó pensando.
 
-Entonces vio algo en la pantalla.
-
-Un calendario.
-
-Había una reunión programada para el día siguiente.
-
-**REUNIÓN — 18:00**
-
-Ubicación:
-
-**Casa del Cerdito Mayor**
-
-El Lobo levantó lentamente la cabeza.
-
-—¿Cerdito Mayor? ¿tu eres C.M.?
-
-—Así que hay otro.
-
-Y si había alguien por encima del Cerdito Mediano...
-
-aquello significaba que la historia era mucho más grande de lo que pensaba.
-
-Guardó toda la información.
-
 Y entonces oyó un portazo.
 
 El micrófono seguía activado.
@@ -480,34 +456,62 @@ El Lobo sonrió.
 
 —Espero que también para mí.
 
-—Sí, soy yo.
+—Soy yo, tenemos un problema
 
 Pausa.
 
-—El pequeño está asustado. Dice que el Lobo tiene pruebas.
+—El pequeño está asustado. Dice que el Lobo ha hackeado su ordenador y tiene pruebas.
 
 Pausa.
 
-—No, no creo que sepa nada del jefe.
+—Si, quizas nos hemos equivocado y no era sólo un perrito bocazas sin agallas para plantarnos cara
 
 El Lobo abrió mucho los ojos.
 
-—¿El jefe?
+—¡Auch! Eso me ha dolido
 
 El Cerdito Mediano continuó, con la taza en la pata:
 
-—Si, mañana he quedado con él. En su casa.
+—Si, está aquí conmigo.
 
 Pausa.
 
-—Sí, la reunión sigue en pie.
+—¿En serio? —El Cerdito Mediano soltó el aire, aliviado—. Eso sería un alivio enorme.
+
+Pausa.
+
+—Gracias, Cerdito Mayor. De verdad.
+
+El Lobo, al otro lado del micrófono, se quedó completamente inmóvil.
+
+—Cerdito... Mayor.
+
+Pausa.
+
+—¿Mañana? Perfecto. Así me da tiempo a recoger algunas cosas.
+
+Pausa.
+
+—Tu casa es enorme, seguro que allí estaremos a salvo.
+
+Pausa.
+
+—Vale. Hasta mañana.
 
 Colgó el cerdito.
 
+-Tenemos que recojer cualquier cosa que pueda incriminarnos. -El Cerdito Mediano se dirijió al Cerdito Pequeño
+
+-Vamos a pasar una temporada en casa del Cerdito Mayor hasta que solucionemos el problema con el Lobo.
+
 El Lobo ya tenía lo que necesitaba.
+
+Guardó toda la información.
 
 Cerró el ordenador.
 
-Y se dirijió a su casa.
+—Parece que mañana los cerditos hacen mudanza.
+
+Se dirijió a su casa.
 
 —Yo también me merezco una taza de café, sonrió.

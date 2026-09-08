@@ -14,11 +14,7 @@ El Lobo Feroz levantó la mirada hacia el tejado.
 
 —Por fin —murmuró.
 
-Había tardado mucho en llegar hasta allí.
-
-Había seguido al Cerdito Mediano.
-
-Había descubierto quién estaba por encima de él.
+Había esperado a que oscureciera para poder trepar sin que nadie lo viera.
 
 Y ahora solo faltaba entrar en la casa del Cerdito Mayor y encontrar las pruebas.
 
@@ -50,7 +46,7 @@ Se agarró al borde.
 
 —Soplaré...
 
-Y se dejó caer.
+De repente resbaló.
 
 **FUUUUUUSH.**
 
@@ -88,10 +84,6 @@ Intentó moverse.
 
 Nada.
 
-Volvió a intentarlo.
-
-Nada.
-
 —Vale.
 
 Respiró profundamente.
@@ -116,15 +108,13 @@ Y el Mayor.
 
 Los tres estaban sonriendo.
 
-—¡Te tenemos! —gritó el Cerdito Pequeño.
+—¡Te tenemos!, oink, oink —gritó el Cerdito Pequeño.
 
-El Lobo miró a su alrededor.
-
-—Ya veo.
+El Lobo miró la red que lo mantenía atrapado.
 
 El Cerdito Mediano se echó a reír.
 
-—¡Míralo!
+—¡Míralo, atrapado! Esta red sí que la hemos configurado bien, ¿eh?
 
 Señaló al Lobo.
 
@@ -132,17 +122,11 @@ Señaló al Lobo.
 
 El Pequeño empezó a dar saltitos.
 
-—¡Ha caído por la chimenea!
-
-—Como en el cuento —dijo el Mediano.
-
-—Solo que esta vez —añadió el Mayor— el lobo no va a salir de aquí.
+—¿Lo pillas? Nuestra red ¡Y esta no necesita wifi, oink!
 
 El Lobo dejó de sonreír.
 
 Miró a los tres.
-
-Después miró la red que lo mantenía atrapado.
 
 —Así que era una trampa.
 
@@ -162,7 +146,7 @@ Y comenzaron a reír.
 
 El Lobo frunció el ceño.
 
-—¿Qué?
+—¿Qué he dicho?
 
 El Cerdito Mayor dio un paso hacia él.
 
@@ -174,17 +158,9 @@ El Lobo se quedó callado.
 
 —Podías haber seguido trabajando para nosotros.
 
-El Cerdito Mediano se acercó.
-
-—Tenías dinero.
-
-El Pequeño añadió:
-
-—Tenías protección.
-
 El Mayor negó lentamente con la cabeza.
 
-—Y decidiste ir contra nosotros.
+—Pero decidiste ir en nuestra contra.
 
 El Lobo tragó saliva.
 
@@ -198,29 +174,11 @@ Los cerditos volvieron a mirarse.
 
 Esta vez ninguno se rio.
 
-El Cerdito Mayor se acercó hasta quedar justo delante de la red.
-
-—Lo que tú intentabas hacer con nosotros.
-
-Silencio.
-
-—Acabar con nuestros planes.
-
-El Lobo lo miró fijamente.
-
-—¿Me vais a matar?
-
-El Mayor sonrió.
-
-—No hace falta decirlo así.
-
-El Mediano soltó una pequeña carcajada.
-
 —Digamos que no vas a salir de esta casa.
 
 El Pequeño se cruzó de patas.
 
-—Y nadie sabe que estás aquí.
+—Y nadie sabe que estás aquí, oink.
 
 El Lobo dejó de moverse.
 
@@ -264,19 +222,9 @@ Cómo habían utilizado al Lobo.
 
 Cómo el dinero iba pasando de un cerdito a otro.
 
-Y cómo, por encima de ellos...
-
-había alguien más.
-
 El Lobo escuchaba.
 
 Sin interrumpir.
-
-Cada nombre.
-
-Cada cantidad.
-
-Cada detalle.
 
 Los cerditos estaban tan seguros de haber ganado que ya no tenían ningún motivo para callarse.
 
@@ -286,7 +234,7 @@ El Cerdito Mediano incluso comenzó a presumir.
 
 El Pequeño se rio.
 
-—¡Y la cantidad de dinero que hemos conseguido!
+—¡Y la cantidad de dinero que hemos conseguido!, oink, oink.
 
 El Mayor sonrió.
 
@@ -338,9 +286,7 @@ Varios agentes entraron rápidamente en la casa.
 
 —¡Que nadie se mueva!
 
-—¡¿Qué está pasando?! —gritó el Cerdito Pequeño.
-
-—¡Esto es nuestra casa! —protestó el Mediano.
+—¡¿Qué está pasando?, oink, oink! —gritó el Cerdito Pequeño.
 
 El Cerdito Mayor miró al Lobo.
 
@@ -380,35 +326,13 @@ El Lobo seguía atrapado en la red.
 
 Miraba la escena sin decir una palabra.
 
-El Cerdito Pequeño se volvió hacia él.
-
-—¿Qué has hecho?
-
-El Lobo no respondió.
-
 El Mayor lo miró fijamente.
 
 —¿Cómo has conseguido que vinieran?
 
 El Lobo levantó ligeramente una ceja.
 
-Pero siguió sin responder.
-
-Uno de los agentes comenzó a bajar la red.
-
-Los cerditos fueron conducidos hacia la puerta.
-
-Y, mientras salían, el Cerdito Mayor volvió a mirar al Lobo.
-
-—¡Esto no ha terminado!
-
-El Lobo lo observó en silencio.
-
-Cuando la puerta se cerró detrás de ellos, la casa quedó completamente quieta.
-
-El Lobo miró a los agentes.
-
-Después miró la red.
+Miró a los agentes.
 
 Y finalmente sonrió.
 

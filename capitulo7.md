@@ -2,7 +2,7 @@
 
 ## La casa de ladrillo
 
-Al día siguiente, el Lobo siguió al Cerdito Mediano hasta su reunión.
+Al día siguiente, el Lobo siguió a los cerditos hasta la casa del Cerdito Mayor, donde el Mediano y el Pequeño iban a instalarse una temporada.
 
 —Así que el jefe vive en una casa de ladrillo.
 
