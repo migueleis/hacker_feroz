@@ -22,7 +22,7 @@ Debajo:
 
 Y una pequeña nota:
 
-**El cerdito no debería acercarse a un ordenador.**
+**El Cerdito Pequeño no debería acercarse a un ordenador.**
 
 El Lobo pasó de página.
 

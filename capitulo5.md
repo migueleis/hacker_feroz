@@ -286,7 +286,7 @@ El Lobo cerró rápidamente el ordenador.
 
 Y se agachó detrás del banco.
 
-El Cerdito Miró alrededor.
+El cerdito miró alrededor.
 
 Después sacó su teléfono móvil.
 
@@ -350,25 +350,25 @@ El Cerdito Pequeño abrió.
 
 Al ver al Lobo, se quedó completamente quieto.
 
-—¿Tú?
+—¿Tú?, oink, oink.
 
-—Hola cerdito! saludo de una manera burlona.
+—Hola cerdito! -saludó el Lobo de una manera burlona.
 
-—¿Qué haces aquí? oink, oink ¿Qué has venido a pagarme?
+—¿Qué haces aquí? ¿Has venido a pagarme?
 
 El Lobo levantó el ordenador.
 
 —He estado investigando cerdito.
 
-El cerdito tragó saliva.
+El cerdito sonrió pensando que el lobo le traía algo de información importante.
 
-—¿Investigando qué?, oink
+—¿Si?, ¿a quién has hackeado hoy?, oink
 
 El Lobo sonrió.
 
 —A ti.
 
-El Cerdito Pequeño intentó cerrar la puerta.
+El Cerdito Pequeño trago saliva e intentó cerrar la puerta.
 
 El Lobo puso una pata antes de que pudiera hacerlo.
 
@@ -378,7 +378,7 @@ El Lobo puso una pata antes de que pudiera hacerlo.
 
 El cerdito lo miró asustado.
 
-—No sabes lo que estás haciendo.
+—No sabes lo que estás haciendo. -replicó el cerdito
 
 —Creo que sí.
 
@@ -392,11 +392,9 @@ El cerdito no respondió.
 
 Silencio.
 
-—Y sé que no estás trabajando solo.
-
 El Cerdito Pequeño empezó a ponerse nervioso.
 
-—Mira, podemos llegar a un acuerdo.
+—Vale... podemos llegar a un acuerdo, oink, oink.
 
 —Eso espero -dijo el lobo -quiero que dejes de hacerlo.
 
@@ -412,15 +410,15 @@ Sonrió.
 
 —Un pequeño **soplo**.
 
-El Cerdito Parpadeó.
+El cerdito parpadeó.
 
 —¿Un soplo?
 
-—A la policía.
+—Sí, a la policía.
 
 El Cerdito Pequeño palideció.
 
-—No puedes hacer eso.
+—No puedes hacer eso, oink, oink.
 
 —Claro que puedo.
 
@@ -452,21 +450,21 @@ Finalmente, el Cerdito Pequeño bajó la cabeza.
 
 El cerdito asintió rápidamente.
 
-—Dejaré de hacerlo.
+—Dejaré de hacerlo, oink
 
 —¿De verdad?
 
-—De verdad.
+—De verdad, de verdad, oink.
 
 El Lobo lo miró con desconfianza.
 
 —Y dejarás de extorsionar a todas esas personas.
 
-—Sí.
+—Sí, si te lo prometo.
 
 —Y no volverás a utilizarme para conseguir dinero.
 
-—No.
+—No, nunca más, oink.
 
 El Lobo sonrió.
 
@@ -482,7 +480,7 @@ Demasiado extraña.
 
 El cerdito dio un paso atrás.
 
-—Creo que ya hemos terminado.
+—Creo que ya hemos terminado, oink.
 
 Y antes de que el Lobo pudiera responder...
 
@@ -500,7 +498,7 @@ El cerdito dobló la esquina a toda velocidad.
 
 El Lobo sonrió.
 
-—Justo lo que esperaba.
+—Tan tonto como esperaba.
 
 Y salió detrás de él.
 
@@ -520,23 +518,25 @@ Después en otra.
 
 Y después tomó una carretera que salía del pueblo.
 
-El Lobo lo siguió.
+Se giró varias veces, mirando que nadie lo siguiera.
 
-Pasaron junto a un parque.
+Pasó junto a un parque.
 
-Y finalmente llegaron a una zona llena de árboles.
+Y finalmente llegó a una zona llena de árboles.
 
 El cerdito frenó delante de una casa.
 
-Miró a su alrededor para asegurarse de que nadie lo siguiera y llamó a la puerta.
+Uff, la hora de bicicleta que heché el mes pasado ha servido para algo -pensó mientras miraba a su alrededor
+
+He despistado a ese lobo tontorrón -y llamó a la puerta.
 
 **TOC, TOC, TOC.**
 
-El Lobo lo observaba desde una esquina lejana
+Pero Lobo estaba al acecho, lo observaba desde una esquina lejana
 
 La puerta se abrió.
 
-Un Cerdito Más grande apareció al otro lado.
+Un cerdito más grande apareció al otro lado.
 
 El Cerdito Pequeño entró rápidamente.
 
