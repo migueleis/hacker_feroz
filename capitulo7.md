@@ -2,6 +2,10 @@
 
 ## La casa de ladrillo
 
+Al día siguiente, el Lobo siguió al Cerdito Mediano hasta su reunión.
+
+—Así que el jefe vive en una casa de ladrillo.
+
 La casa del Cerdito Mayor estaba al final de un camino.
 
 Era grande.
@@ -16,27 +20,23 @@ Miró la casa.
 
 —Bueno...
 
-Sacó su libreta.
+Sacó su portatil.
 
 En la primera página había escrito:
 
 **CASA DE PAJA**
 
-Debajo:
-
 **Seguridad: 0**
 
-Y una pequeña nota:
-
-**El cerdito no debería acercarse a un ordenador.**
+**Nota: El cerdito no debería acercarse a un ordenador.**
 
 Pasó de página.
 
 **CASA DE MADERA**
 
-Debajo había escrito:
-
 **Seguridad: bastante mejor.**
+
+**Nota: Adoro mi cafetera SMART.**
 
 El Lobo pasó otra página.
 
@@ -48,15 +48,7 @@ Se quedó mirando las tres palabras.
 
 —A ver qué tenemos aquí.
 
-Abrió el ordenador.
-
 Lo primero que hizo fue buscar redes Wi-Fi.
-
-Una.
-
-Dos.
-
-Tres.
 
 Nada.
 
@@ -168,13 +160,9 @@ Y lentamente sonrió.
 
 —Claro.
 
-Abrió la libreta.
-
-Escribió:
+Miró al portatil y escribió:
 
 **PLAN B**
-
-Debajo:
 
 **Entrar en la casa.**
 
@@ -210,7 +198,7 @@ El Lobo sonrió.
 
 Se quedó pensando.
 
-—No es exactamente una puerta, pero tampoco necesito una puerta.
+—No es exactamente una puerta, pero nunca he necesitado una. -sonrió
 
 Por primera vez en toda la tarde, parecía satisfecho.
 
@@ -225,8 +213,6 @@ Miró la chimenea.
 —Solo tengo que encontrar la forma de subir ahí arriba.
 
 El Lobo se quedó observando la casa.
-
-Y sonrió.
 
 Había encontrado una brecha de seguridad.
 

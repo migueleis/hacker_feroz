@@ -446,7 +446,7 @@ Había una reunión programada para el día siguiente.
 
 Ubicación:
 
-**CASA DEL Cerdito Mayor**
+**Casa del Cerdito Mayor**
 
 El Lobo levantó lentamente la cabeza.
 
@@ -492,11 +492,11 @@ Pausa.
 
 El Lobo abrió mucho los ojos.
 
-—El jefe.
+—¿El jefe?
 
 El Cerdito Mediano continuó, con la taza en la pata:
 
-—Mañana iré a hablar con él. En su casa.
+—Si, mañana he quedado con él. En su casa.
 
 Pausa.
 
@@ -511,7 +511,3 @@ Cerró el ordenador.
 Y se dirijió a su casa.
 
 —Yo también me merezco una taza de café, sonrió.
-
-Al día siguiente, el Lobo siguió al Cerdito Mediano hasta su reunión.
-
-—Así que el jefe vive en una casa de ladrillo.
