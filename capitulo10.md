@@ -20,8 +20,6 @@ Más dinero.
 
 Más personas implicadas.
 
-Y, por encima de ellos, alguien más.
-
 Pero el Lobo también tuvo que responder por lo que había hecho.
 
 Había entrado en sistemas sin permiso.
@@ -132,7 +130,7 @@ Se sentó frente al ordenador.
 
 La pantalla se encendió.
 
-**SISTEMA DE SEGURIDAD**
+**BIENVENIDO AL TEAM BLUE**
 
 El Lobo comenzó a trabajar.
 
