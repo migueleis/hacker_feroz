@@ -1,5 +1,6 @@
-Capítulo 9
-La trampa dentro de la trampa
+# Capítulo 9
+
+## La trampa dentro de la trampa
 
 **Mucho antes.**
 
@@ -27,7 +28,7 @@ SISTEMA DE GESTIÓN — HERMANDAD DE CONSTRUCTORES
 
 BIENVENIDO Cerdito Pequeño
 
-El Lobo enarcó una ceja.
+El Lobo levantó una ceja.
 
 —Vaya, parece que el Cerdito Pequeño no ha cerrado la sesión.
 
@@ -89,7 +90,7 @@ Después había hackado al Cerdito Mediano.
 
 Pero aún necesitaba pruebas contra el Cerdito Mayor
 
-Pero hackear la seguridad de la casa del Cerdito Mayor no iba a ser fácil.
+Pero hackear la seguridad de la casa del Cerdito Mayor no estaba siendo nada fácil.
 
 La había observado desde fuera.
 
@@ -185,9 +186,7 @@ Se recostó en la silla.
 
 Al Cerdito Pequeño no le había robado la dirección de su casa.
 
-Solo tuvo que mandarle un email de phising y esperó que el cerdito
-
-Encantado de la vida, hiciera click en el enlace y se la diera.
+Solo tuvo que mandarle un email de phising y esperó que el cerdito, encantado de la vida, hiciera click en el enlace y se la diera.
 
 Y el Cerdito Mayor no iba a ser distinto.
 
@@ -339,7 +338,7 @@ habían conseguido grabar sus propias palabras. Con su propio sistema. Pagado co
 
 ---
 
-el Lobo seguía apratado dentro de la red en a casa del Cerdito Mayor
+El Lobo seguía atrapado dentro de la red en la casa del Cerdito Mayor
 
 Había ganado.
 

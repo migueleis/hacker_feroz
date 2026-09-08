@@ -112,7 +112,7 @@ no había puerta.
 
 Ni ventana.
 
-Ni siquiera un agujero para meter una pata.
+Ni siquiera un agujero para meter una patita.
 
 El Lobo miró la casa.
 
@@ -172,11 +172,11 @@ Demasiado visible.
 
 Miró las ventanas.
 
-Demasiado altas.
+Demasiados cierres de seguridad.
 
 Miró el tejado.
 
-Demasiado difícil.
+Demasiado alto, pero...
 
 Entonces levantó la cabeza.
 

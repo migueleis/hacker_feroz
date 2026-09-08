@@ -124,7 +124,11 @@ El Pequeño empezó a dar saltitos.
 
 —¿Lo pillas? Nuestra red ¡Y esta no necesita wifi, oink!
 
-El Lobo dejó de sonreír.
+El pequeño siguió burlandose canturreando:
+
+¿Quién teme al Lobo Feroz?, al Lobo, al Lobo...
+
+El Lobo dejó de sonreír, un poco indignado por tanta burla.
 
 Miró a los tres.
 
@@ -182,7 +186,7 @@ El Pequeño se cruzó de patas.
 
 El Lobo dejó de moverse.
 
-Por primera vez aquella noche...
+En ese preciso instante,
 
 estaba realmente preocupado.
 
@@ -260,7 +264,7 @@ El Cerdito Mayor se levantó.
 
 Señaló la red.
 
-—Ya no tienes ninguna salida.
+—Ya no tienes ninguna salida, acabaremos contigo.
 
 El Lobo bajó la cabeza.
 
@@ -280,7 +284,7 @@ Los tres cerditos se quedaron paralizados.
 
 El Lobo levantó la cabeza.
 
-Por primera vez, su expresión no revelaba nada.
+Por primera vez, su expresión era de satisfacción, de un trabajo bien hecho.
 
 Varios agentes entraron rápidamente en la casa.
 

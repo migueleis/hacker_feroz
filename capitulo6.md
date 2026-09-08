@@ -142,7 +142,7 @@ Y entonces empezó a oir varias voces
 
 Era el Cerdito Mediano.
 
-—Necesitaba ayuda, oink.
+—Necesito ayuda, oink.
 
 Y ese, sin duda, era el Cerdito Pequeño.
 
@@ -230,7 +230,7 @@ Una tercera.
 
 Se mordió el labio.
 
-—Vale, vale. Si no puedes entar por la puerta, busca una ventana.
+—Vale, vale. Si no puedes entrar por la puerta, busca una ventana.
 
 Revisó el sistema en busca de una vulnerabilidad.
 
@@ -282,6 +282,10 @@ Otra.
 
 La abrió igualmente.
 
+El Lobo se llevó una pata a la cara.
+
+—¡Ouch! No necesitaba ver esto.
+
 Y se arrepintió al instante.
 
 Docenas de fotos del Cerdito Mediano en una playa.
@@ -293,14 +297,6 @@ Posando, en una tumbona.
 Posando, con un cóctel con sombrillita.
 
 Posando...
-
-El Lobo se llevó una pata a la cara.
-
-—¡Ouch! No necesitaba ver esto.
-
-Pasó a la siguiente foto.
-
-—Ni esto tampoco.
 
 Cerró la carpeta de golpe.
 
@@ -464,7 +460,7 @@ Pausa.
 
 Pausa.
 
-—Si, quizas nos hemos equivocado y no era sólo un perrito bocazas sin agallas para plantarnos cara
+—Si, quizas nos hemos equivocado y no era sólo un perrito bocazas, ambicioso y sin agallas para plantarnos cara.
 
 El Lobo abrió mucho los ojos.
 
@@ -484,7 +480,7 @@ Pausa.
 
 El Lobo, al otro lado del micrófono, se quedó completamente inmóvil.
 
-—Cerdito... Mayor.
+—Cerdito... Mayor. ajam
 
 Pausa.
 
@@ -514,4 +510,4 @@ Cerró el ordenador.
 
 Se dirijió a su casa.
 
-—Yo también me merezco una taza de café, sonrió.
+—Yo también me merezco una taza de café y algún que otro bailecito. -sonrió.
