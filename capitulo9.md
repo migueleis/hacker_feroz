@@ -1,60 +1,79 @@
-# Capítulo 9
-
-## La trampa dentro de la trampa
+Capítulo 9
+La trampa dentro de la trampa
 
 **Mucho antes.**
 
-La primera vez que los cerditos llevaron al Lobo al centro de seguridad de la Hermandad de Constructores, lo dejaron solo.
+La primera vez que los cerditos llevaron al Lobo al centro de seguridad de la Hermandad de Constructores, lo dejaron una noche encerrado.
 
-Había pasado horas trabajando frente a un ordenador.
+En una sala de reuniones.
 
-O eso creían ellos.
+Una mesa grande.
 
-El Lobo estaba rodeado de pantallas.
+Varias sillas.
 
-Cámaras.
+Y, al fondo, un monitor.
+
+Cuando los cerditos se marcharon
+
+El Lobo se quedó mirando el monitor durante un buen rato.
+
+—Bueno...
+
+Se acercó.
+
+Lo encendió.
+
+SISTEMA DE GESTIÓN — HERMANDAD DE CONSTRUCTORES
+
+BIENVENIDO Cerdito Pequeño
+
+El Lobo enarcó una ceja.
+
+—Vaya, parece que el Cerdito Pequeño no ha cerrado la sesión.
+
+Empezó a mirar.
+
+Se trataba de un panel de control.
+
+Un panel que controlaba, casa por casa, todos los sistemas de seguridad que la Hermandad instalaba en las casas de sus "clientes".
 
 Alarmas.
 
-Mapas.
+Sensores.
 
-Sistemas de seguridad.
+Cámaras.
 
-Todo parecía estar conectado.
+El Lobo sonrió despacio.
 
-El Lobo observó aquel enorme sistema con curiosidad.
-
-—Interesante...
-
-Siguió investigando.
+—Interesante.
 
 Cuanto más miraba, más claro lo tenía.
 
-Desde aquel ordenador se podía acceder al sistema de seguridad de la Hermandad.
+Aquel panel no vigilaba una casa.
 
-El Lobo sonrió.
+Vigilaba todas.
 
-Si algún día volvía a necesitar entrar allí...
+Cada sistema que la Hermandad vendía como protección pasaba, en algún momento, por aquel mismo servidor.
 
-podría ser útil tener una puerta abierta.
+El Lobo no tocó nada.
 
-Así que hizo algo que nadie vio.
+No cambió ninguna contraseña.
 
-Dejó preparada una pequeña puerta trasera.
+No movió ningún archivo.
 
-Una forma de volver a entrar en el sistema cuando quisiera.
+Solo hizo algo mucho más discreto.
 
-Después cerró todas las ventanas.
+Dejó una pequeña puerta trasera.
 
-Apagó el ordenador.
+Una forma de volver a entrar en el sistema, en silencio, siempre que quisiera.
 
-Y se levantó.
+Después cerró la sesión.
 
-Nadie se dio cuenta.
+Apagó el monitor.
 
-Los cerditos tampoco.
+Y luego se relajó como si no hubiera hecho nada.
 
-Para ellos, aquella noche no había ocurrido nada especial.
+Para los cerditos, aquella noche no había ocurrido nada especial.
 
 Pero el Lobo acababa de preparar algo que, mucho tiempo después, cambiaría todo.
 
@@ -62,33 +81,29 @@ Pero el Lobo acababa de preparar algo que, mucho tiempo después, cambiaría tod
 
 **Semanas después.**
 
-El Lobo ya sabía que había algo extraño detrás de los cerditos.
+El Lobo ya estaba decidido a acabar con los cerditos.
 
-Había empezado siguiendo al Cerdito Mediano.
+Había empezado con Cerdito Pequeño.
 
-Después había descubierto al Cerdito Mayor.
+Después había hackado al Cerdito Mediano.
 
-Y poco a poco había entendido que detrás de ellos había mucho más de lo que parecía.
+Pero aún necesitaba pruebas contra el Cerdito Mayor
 
-Necesitaba pruebas.
+Pero hackear la seguridad de la casa del Cerdito Mayor no iba a ser fácil.
 
-Pero entrar en la casa del Cerdito Mayor no iba a ser fácil.
-
-La observó desde lejos.
+La había observado desde fuera.
 
 Puertas.
 
 Ventanas.
 
-Tejado.
-
-Chimenea.
+Redes.
 
 Nada.
 
-La casa estaba protegida.
+Ni rastro.
 
-Y cada intento de entrar podía hacer saltar una alarma.
+Cerrada a cal y canto, también por dentro.
 
 El Lobo volvió a su casa.
 
@@ -96,155 +111,119 @@ Se sentó frente al ordenador.
 
 —Tiene que haber otra manera.
 
-Entonces recordó aquella noche en el centro de seguridad.
+Entonces se acordó.
 
-La puerta que había dejado abierta.
+De la sala de reuniones.
+
+Del monitor sin cerrar sesión.
+
+De la puerta trasera.
 
 El Lobo sonrió.
 
+—Claro. No necesito entrar en su casa por fuera.
+
 Abrió el ordenador.
 
-Y volvió a entrar.
-
----
+—Necesito entrar por donde entra la propia Hermandad.
 
 Esta vez no buscó documentos.
 
 Ni contraseñas.
 
-Ni ordenadores.
+Ni carpetas.
 
-Buscó las cámaras.
+Buscó, dentro del panel, la ficha de una sola casa.
 
-Una tras otra aparecieron en la pantalla.
+CLIENTE: CERDITO MAYOR
 
-El Lobo podía ver diferentes lugares protegidos por la Hermandad.
+SISTEMA: ACTIVO
 
-Y entonces encontró la que buscaba.
+El Lobo sonrió.
 
-La casa del Cerdito Mayor.
+—Ah. Así que hasta el jefe le paga a su propia empresa por protegerse.
 
-—Perfecto.
+Abrió la cámara de la entrada.
 
-Podía ver el interior.
+Después la del salón.
 
-El salón.
+El Lobo podía ver el interior de la casa.
 
-El pasillo.
+Pero había algo que aquel panel no le daba.
 
-La entrada.
+No podía abrir sus ordenadores.
 
-Pero había algo que no podía hacer.
+No podía leer sus archivos.
 
-No podía entrar en los ordenadores de la casa.
+Eso seguía tan protegido como siempre.
 
-No podía abrir sus archivos.
+Entonces vio algo mucho más interesante.
 
-No podía leer lo que guardaban.
-
-Y tampoco necesitaba hacerlo.
-
-Porque entonces vio algo mucho más interesante.
-
-Los cerditos estaban preparando algo.
-
-Algo para él.
-
-El Lobo observó la pantalla.
-
-Los tres hablaban.
+Los tres cerditos, en el salón, preparando algo.
 
 Movían una red.
 
-Preparaban la chimenea.
-
-Y colocaban una trampa.
-
-El Lobo se quedó completamente quieto.
+Ajustaban algo junto a la chimenea.
 
 —Así que eso es lo que estáis preparando...
 
-Durante unos segundos pensó qué podía hacer.
+El Lobo se quedó mirando la pantalla durante un buen rato.
 
-Podía intentar entrar en la casa.
+No podía entrar en los ordenadores del Cerdito Mayor.
 
-Pero lo descubrirían.
+Eso ya lo sabía. Llevaba días chocándose contra esa pared.
 
-Podía intentar escapar.
+—No puedo entrar en tu sistema.
 
-Pero los cerditos seguirían libres.
+Sonrió despacio.
 
-Podía buscar otra entrada.
+—Pero no necesito entrar.
 
-Pero la casa estaba demasiado protegida.
+Se recostó en la silla.
 
-Entonces tuvo una idea.
+—Solo necesito que tú me lo cuentes tú solito.
 
-El Lobo miró las cámaras.
+Al Cerdito Pequeño no le había robado la dirección de su casa.
 
-Después miró su ordenador.
+Solo tuvo que mandarle un email de phising y esperó que el cerdito
 
-Y sonrió.
+Encantado de la vida, hiciera click en el enlace y se la diera.
 
-—Si no puedo entrar sin que me descubran...
+Y el Cerdito Mayor no iba a ser distinto.
 
-Hizo una pausa.
+Solo que esta vez el Lobo no iba a mandar ningún correo.
 
-—...voy a hacer que me descubra la policía de verdad.
+Esta vez, el cebo iba a ser él mismo.
 
----
+Iba a dejarse caer por esa chimenea, dejarse atrapar en esa red, y aprovechar la soberbia de los cerditos para que ellos mismos le dieran la información que necesitaba.
 
-El plan era sencillo.
+Solo necesitaba una cosa: que, en cuanto la trampa se activara, las cámaras dejaran de avisar a la Hermandad y empezaran a avisar a otra persona.
 
-No necesitaba entrar en los ordenadores del Cerdito Mayor.
+Volvió a entrar por la puerta trasera.
 
-No necesitaba robar sus archivos.
+Buscó la alarma de intrusión de la casa del Cerdito Mayor.
 
-Solo necesitaba que alguien pudiera ver lo mismo que él.
+La que saltaría en el momento exacto en que algo cayera por aquella chimenea.
 
-Las cámaras de la casa ya estaban allí.
+Normalmente, esa alarma avisaba a los propios cerditos.
 
-El Lobo solo tenía que utilizarlas.
+El Lobo cambió el destino.
 
-Preparó una conexión.
+Ahora, cuando la alarma se activara, la grabación en directo de las cámaras iría a un único sitio.
 
-Y comenzó a enviar las imágenes.
+La comisaría de policía.
 
-Pero no a los cerditos.
+Lo dejó todo preparado.
 
-A la policía.
+Y cerró el ordenador.
 
-Primero les mostró la casa.
+—Ya está.
 
-Después, la trampa.
+Ahora solo faltaba la parte más peligrosa.
 
-Y después...
+Entrar. Y dejarse atrapar.
 
-esperó.
-
-No quería que la policía llegara todavía.
-
-Quería que los cerditos terminaran su plan.
-
-Porque si lo atrapaban...
-
-hablarían.
-
-Y si hablaban...
-
-las cámaras lo recogerían todo.
-
-El Lobo cerró el ordenador.
-
-Ya estaba.
-
-Ahora solo faltaba hacer la parte más peligrosa.
-
-Entrar.
-
----
-
-**Aquella noche.**
+Aquella noche.
 
 El Lobo llegó a la casa del Cerdito Mayor.
 
@@ -252,19 +231,17 @@ Subió al tejado.
 
 Miró la chimenea.
 
-Sabía perfectamente lo que había al otro lado.
+Sabía que en cuanto cayera, la alarma saltaría.
 
 Sabía que los cerditos estaban esperándolo.
 
-Y sabía que probablemente acabaría atrapado.
-
-Pero eso era exactamente lo que necesitaba.
+Y sabía que, en el mismo instante en que la red se cerrara, la policía empezaría a ver exactamente lo mismo que él.
 
 —Allá vamos.
 
 Se dejó caer por la chimenea.
 
-**FUUUUUUSH.**
+FUUUUUUSH.
 
 Bajó.
 
@@ -272,11 +249,15 @@ Bajó más.
 
 Hasta que...
 
-**¡CLAC!**
+¡CLAC!
 
 La red se cerró.
 
-El Lobo cayó dentro.
+En algún panel de control, muy lejos de allí, una alarma se activó.
+
+Y una grabación, en directo, empezó a llegar a la comisaría.
+
+El Lobo cayó dentro de la red.
 
 Los tres cerditos aparecieron.
 
@@ -308,8 +289,6 @@ No quería interrumpirlos.
 
 Solo tenía que esperar.
 
----
-
 El Cerdito Mayor se acercó a la red.
 
 —Ya no tienes ninguna salida.
@@ -318,9 +297,9 @@ El Lobo bajó la cabeza.
 
 Parecía derrotado.
 
-Pero en algún lugar, lejos de aquella casa, las imágenes seguían llegando.
+Pero en algún lugar, muy lejos de aquella casa, la grabación seguía llegando.
 
-La policía estaba viendo lo mismo que había visto el Lobo.
+La policía estaba viendo lo mismo que veía el Lobo.
 
 Los tres cerditos.
 
@@ -342,61 +321,25 @@ Todavía no.
 
 Sonreía porque su plan había funcionado.
 
-La puerta trasera que había dejado meses atrás.
+La puerta trasera que había dejado abierta meses atrás.
 
 Las cámaras.
 
-La trampa.
+La alarma.
 
 La red.
 
 Todo había encajado.
 
-Los cerditos pensaban que habían conseguido atrapar al Lobo.
+Los cerditos pensaban que habían atrapado al Lobo.
 
 Pero en realidad...
 
-habían conseguido atrapar sus propias palabras.
+habían conseguido grabar sus propias palabras. Con su propio sistema. Pagado con su propio dinero.
 
 ---
 
-Y ahora volvemos a aquella noche.
-
-El Cerdito Mayor acababa de decir:
-
-—Ya no tienes ninguna salida.
-
-El Lobo bajó la cabeza.
-
-Los tres cerditos sonrieron.
-
-Y entonces...
-
-**¡PUM!**
-
-La puerta principal se abrió de golpe.
-
-—¡POLICÍA!
-
-Los tres cerditos se quedaron paralizados.
-
-El Lobo levantó la cabeza.
-
-Esta vez sí sonrió.
-
-El Cerdito Mayor lo miró.
-
-—¿Cómo...?
-
-El Lobo no respondió.
-
-No hacía falta.
-
-Los agentes entraron en la casa.
-
-Y mientras los tres cerditos intentaban explicar lo ocurrido...
-
-el Lobo se quedó dentro de la red.
+el Lobo seguía apratado dentro de la red en a casa del Cerdito Mayor
 
 Había ganado.
 
@@ -407,5 +350,3 @@ Porque él también tendría que responder por todo lo que había hecho.
 Y eso...
 
 iba a cambiar su vida para siempre.
-
-**FIN DEL CAPÍTULO 9**
