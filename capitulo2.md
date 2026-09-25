@@ -182,7 +182,7 @@ El Lobo miró al techo del coche.
 
 —Y las haces —gruñó el Cerdito Mediano.
 
-—Y encima cobrando a nuestros socios solo un euro —añadió el Cerdito Pequeño- ¡Qué ridículo!, oink.
+—Y encima cobrando a nuestros socios solo una moneda —añadió el Cerdito Pequeño—. ¡Qué ridículo!, oink.
 
 —¿Ridículo? ¡Una moneda por 5.000 socios que sabemos que nos ha robado este mes! —dijo el Cerdito Mediano.
 
@@ -230,7 +230,7 @@ El Lobo sonrió por primera vez.
 
 El Cerdito Mediano suspiró.
 
-—Por eso te lo estaba explicando - explicó con pesadez.
+—Por eso te lo estaba explicando —explicó con pesadez.
 
 —¡No, no, no! —dijo el pequeño, cada vez más emocionado—. ¡Yo pensaba que era una moneda! ¡Una sola moneda! ¡Pero son cinco mil!, oink.
 
@@ -276,7 +276,7 @@ El Lobo sonrió, olvidando por un segundo que llevaba esposas.
 
 —Esto se pone interesante.
 
-—No creo que estés en posición de decir eso - dijo el Cerdito Mediano.
+—No creo que estés en posición de decir eso —dijo el Cerdito Mediano.
 
 —Probablemente no, pero lo digo igual ¡Es parte de mi encanto!
 
@@ -340,7 +340,7 @@ El Lobo dejó de sonreír.
 
 —Cosas cosas.
 
-—Espero que no hayan encontrado el video que me grabé el otro día bailando el "Miau Miau Money Dance". No creo, está en la carpeta de máxima seguridad - rezó para sí el lobo.
+—Espero que no hayan encontrado el vídeo que me grabé el otro día bailando el «Miau Miau Money Dance». No creo, está en la carpeta de máxima seguridad —rezó para sí el lobo.
 
 El Cerdito Pequeño abrió la carpeta con más entusiasmo del necesario, como si fuera el mejor regalo de cumpleaños que había recibido nunca.
 
@@ -376,7 +376,7 @@ El Lobo hizo una mueca.
 
 —Eso me ha dolido más que las esposas.
 
-—Pero funciona -añadió el cerdito
+—Pero funciona —añadió el cerdito.
 
 El Lobo no supo qué responder. Se limitó a asentir, como si aquello fuera obvio.
 
@@ -396,7 +396,7 @@ Los dos cerditos se miraron, confundidos.
 
 —Nada, nada, seguid, seguid.
 
--Toma!! no lo han visto -dijo el lobo para sus adentros.
+—¡Toma! ¡No lo han visto! —dijo el lobo para sus adentros.
 
 —Sabes cómo piensa alguien que intenta entrar donde no debe —dijo el Cerdito Mediano.
 
@@ -436,9 +436,9 @@ El Cerdito Mediano se inclinó hacia él.
 
 El Cerdito Pequeño, que llevaba un rato callado, levantó la pata.
 
-— una pregunta jefe ¿esto cuenta para el bono de empresa?, oink.
+—Una pregunta, jefe. ¿Esto cuenta para el bono de empresa?, oink.
 
-— Si, para el "BONO" -sonrió de manera maliciosa
+—Sí, para el «BONO» —sonrió de manera maliciosa.
 
 El Lobo miró de nuevo al ordenador, un poco confundido.
 
@@ -514,9 +514,9 @@ Y eso podía significar cualquier cosa.
 
 El Cerdito Mediano se levantó.
 
-—De momento pasarás la noche ahí en la sala de reuniones -dijo el cerdito señalando a la habitación contigua.
+—De momento pasarás la noche ahí, en la sala de reuniones —dijo el cerdito, señalando la habitación contigua.
 
-La sala era una habitación con solo una mesa enorme en el centro, unas pocas sillas y una pantalla para video conferencias colgada en la pared.
+La sala era una habitación con solo una mesa enorme en el centro, unas pocas sillas y una pantalla para videoconferencias colgada en la pared.
 
 —¿Y si quiero pensármelo?
 
@@ -526,7 +526,7 @@ El cerdito sonrió.
 
 Empujaron al lobo a la sala y cerraron la puerta con llave.
 
--¡Pero no me habeis dado almohada!
+—¡Pero no me habéis dado almohada!
 
 El Lobo se quedó solo.
 
@@ -534,6 +534,6 @@ Miró la puerta cerrada.
 
 Y tragó saliva.
 
-Aquello no parecía un mal trato, siempre que no acabara en la carcel.
+Aquello no parecía un mal trato, siempre que no acabara en la cárcel.
 
 Pero todavía no sabía qué precio tendría.

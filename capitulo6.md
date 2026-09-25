@@ -34,15 +34,9 @@ Se quedó pensando.
 
 —Veamos...
 
-Empezó a buscar redes Wi-Fi.
+Empezó a buscar redes Wi-Fi, y esta vez tardó un poco más que la última: dos, tres, hasta cuatro señales fueron apareciendo y desapareciendo en la pantalla, ninguna con el nombre que buscaba.
 
-Una.
-
-Dos.
-
-Tres.
-
-Y finalmente encontró una.
+Y entonces, por fin, la encontró.
 
 **CERDITO_MEDIANO_WIFI**
 
@@ -52,13 +46,13 @@ Apareció una ventana.
 
 **INTRODUZCA LA CONTRASEÑA**
 
--Bueno, al menos tiene contraseña
+—Bueno, al menos tiene contraseña.
 
 El Lobo probó también con su número de placa
 
--**CONTRASEÑA INCORRECTA**
+—**CONTRASEÑA INCORRECTA**
 
--No iba a ser tan fácil
+—No iba a ser tan fácil.
 
 Probó otra.
 
@@ -70,7 +64,7 @@ Probó todas las contraseñas que nunca deberías usar: 111111, 222222, 333333..
 
 Cerró el ordenador.
 
-—Parece que el Cerdito Mediano si controla un poco de seguridad.
+—Parece que el Cerdito Mediano sí controla un poco de seguridad.
 
 Se quedó mirando la casa.
 
@@ -94,7 +88,7 @@ Subió la potencia al máximo. La antena zumbó.
 
 Pasaron unos segundos.
 
-En la cocina del Cerdito Mediano, una cafetera Smart parpadeó. Detectó dos señales idénticas. Comparó. La del Lobo ganaba por goleada.
+En la cocina del Cerdito Mediano, una cafetera Smart parpadeó. Detectó dos señales idénticas. Comparó. La del Lobo ganaba por goleada. Como la cafetera conservaba la red guardada y no comprobaba el certificado del punto de acceso, se conectó a la señal más potente.
 
 Conectando a Cerdito_Mediano_WiFi...
 
@@ -104,7 +98,7 @@ Y allí estaba.
 
 El Lobo sonrió.
 
-—No puede ser -pensó nervioso y entusiasmado
+—No puede ser —pensó, nervioso y entusiasmado.
 
 —¿El Cerdito Mediano tiene mi misma cafetera?
 
@@ -132,11 +126,11 @@ El Lobo sonrió.
 
 Esta cafetera llevaba micrófono de fábrica, para que pudieras pedirle el café con la voz en vez de apretar un botón.
 
--Ahora solo necesito que envíe a mi ordenador lo que escuche el micrófono.
+—Ahora solo necesito que envíe a mi ordenador lo que escuche el micrófono.
 
-**CLICK**
+**CLIC**
 
-Y entonces empezó a oir varias voces
+Y entonces empezó a oír varias voces.
 
 —¿Se puede saber qué haces aquí?
 
@@ -188,7 +182,7 @@ Pasos alejándose.
 
 Una puerta cerrándose.
 
--Por ahora centremonos en el plan: conseguir pruebas contra el Cerdito Mediano
+—Por ahora, centrémonos en el plan: conseguir pruebas contra el Cerdito Mediano.
 
 Volvió a centrarse en acceder al ordenador del Cerdito Mediano.
 
@@ -240,7 +234,7 @@ Un servicio sin actualizar.
 
 Un módulo viejo.
 
-Una errata de seguridad que alguien había dejado sin corregir.
+Una vulnerabilidad que alguien había dejado sin corregir.
 
 —Ah. Ahí estás.
 
@@ -262,7 +256,7 @@ Y de repente...
 
 —Este cerdito sabe lo que hace.
 
--Ya estamos dentro, ahora a por la pruebas y abrió una carpeta.
+—Ya estamos dentro. Ahora, a por las pruebas —dijo, y abrió una carpeta.
 
 **DOCUMENTOS IMPORTANTES**
 
@@ -330,13 +324,7 @@ El Lobo frunció el ceño.
 
 Siguió leyendo.
 
-Había cantidades de dinero.
-
-Fechas.
-
-Reuniones.
-
-Pagos.
+Había cantidades de dinero, fechas, reuniones, pagos que se repetían mes tras mes.
 
 Y junto a cada operación aparecía una inicial.
 
@@ -496,9 +484,9 @@ Pausa.
 
 Colgó el cerdito.
 
--Tenemos que recojer cualquier cosa que pueda incriminarnos. -El Cerdito Mediano se dirijió al Cerdito Pequeño
+—Tenemos que recoger cualquier cosa que pueda incriminarnos —dijo el Cerdito Mediano, dirigiéndose al Cerdito Pequeño.
 
--Vamos a pasar una temporada en casa del Cerdito Mayor hasta que solucionemos el problema con el Lobo.
+—Vamos a pasar una temporada en casa del Cerdito Mayor hasta que solucionemos el problema con el Lobo.
 
 El Lobo ya tenía lo que necesitaba.
 
@@ -508,6 +496,6 @@ Cerró el ordenador.
 
 —Parece que mañana los cerditos hacen mudanza.
 
-Se dirijió a su casa.
+Se dirigió a su casa.
 
 —Yo también me merezco una taza de café y algún que otro bailecito. -sonrió.

@@ -142,7 +142,7 @@ Porque incluso los genios incomprendidos necesitan descansar.
 
 En el monitor central aparecía una página que parecía pertenecer a una organización muy conocida entre los cerditos.
 
-La **Hermandad de los Cerditos**.
+La **Hermandad de Constructores**.
 
 La Hermandad se encargaba de ayudar a los cerditos a construir casas seguras y ofrecía distintos servicios de protección.
 
@@ -183,7 +183,7 @@ El Lobo se frotó las patas.
 —Nadie. Porque soy un genio.
 
 —Un genio del mal. Con perdón, del mal-ware. Ja. Buena esa.
--Espera que tenga otra, soy un crack, mejor dicho un Crack-er.
+—Espera que tenga otra, soy un crack, mejor dicho un Crack-er.
 
 Se rio de su propio chiste durante un rato más de lo necesario.
 
@@ -235,7 +235,7 @@ El número cambió.
 
 —¡Cuarenta y nueve!
 
-El Lobo empezó a reírse frotándose las manos
+El Lobo empezó a reírse frotándose las patas
 
 —¡Esto funciona! ¡Soy imparable!
 
@@ -662,7 +662,7 @@ El Lobo miró al techo del coche.
 
 —Y las haces —gruñó el Cerdito Mediano.
 
-—Y encima cobrando a nuestros socios solo un euro —añadió el Cerdito Pequeño- ¡Qué ridículo!, oink.
+—Y encima cobrando a nuestros socios solo una moneda —añadió el Cerdito Pequeño—. ¡Qué ridículo!, oink.
 
 —¿Ridículo? ¡Una moneda por 5.000 socios que sabemos que nos ha robado este mes! —dijo el Cerdito Mediano.
 
@@ -710,7 +710,7 @@ El Lobo sonrió por primera vez.
 
 El Cerdito Mediano suspiró.
 
-—Por eso te lo estaba explicando - explicó con pesadez.
+—Por eso te lo estaba explicando —explicó con pesadez.
 
 —¡No, no, no! —dijo el pequeño, cada vez más emocionado—. ¡Yo pensaba que era una moneda! ¡Una sola moneda! ¡Pero son cinco mil!, oink.
 
@@ -756,7 +756,7 @@ El Lobo sonrió, olvidando por un segundo que llevaba esposas.
 
 —Esto se pone interesante.
 
-—No creo que estés en posición de decir eso - dijo el Cerdito Mediano.
+—No creo que estés en posición de decir eso —dijo el Cerdito Mediano.
 
 —Probablemente no, pero lo digo igual ¡Es parte de mi encanto!
 
@@ -820,7 +820,7 @@ El Lobo dejó de sonreír.
 
 —Cosas cosas.
 
-—Espero que no hayan encontrado el video que me grabé el otro día bailando el "Miau Miau Money Dance". No creo, está en la carpeta de máxima seguridad - rezó para sí el lobo.
+—Espero que no hayan encontrado el vídeo que me grabé el otro día bailando el «Miau Miau Money Dance». No creo, está en la carpeta de máxima seguridad —rezó para sí el lobo.
 
 El Cerdito Pequeño abrió la carpeta con más entusiasmo del necesario, como si fuera el mejor regalo de cumpleaños que había recibido nunca.
 
@@ -916,9 +916,9 @@ El Cerdito Mediano se inclinó hacia él.
 
 El Cerdito Pequeño, que llevaba un rato callado, levantó la pata.
 
-— una pregunta jefe ¿esto cuenta para el bono de empresa?, oink.
+—Una pregunta, jefe. ¿Esto cuenta para el bono de empresa?, oink.
 
-— Si, para el "BONO" -sonrió de manera maliciosa
+—Sí, para el «BONO» —sonrió de manera maliciosa.
 
 El Lobo miró de nuevo al ordenador, un poco confundido.
 
@@ -996,7 +996,7 @@ El Cerdito Mediano se levantó.
 
 —De momento pasarás la noche ahí, en la sala de reuniones —dijo el cerdito, señalando la habitación contigua.
 
-La sala era una habitación con solo una mesa enorme en el centro, unas pocas sillas y una pantalla para video conferencias colgada en la pared.
+La sala era una habitación con solo una mesa enorme en el centro, unas pocas sillas y una pantalla para videoconferencias colgada en la pared.
 
 —¿Y si quiero pensármelo?
 
@@ -1014,7 +1014,7 @@ Miró la puerta cerrada.
 
 Y tragó saliva.
 
-Aquello no parecía un mal trato, siempre que no acabara en la carcel.
+Aquello no parecía un mal trato, siempre que no acabara en la cárcel.
 
 Pero todavía no sabía qué precio tendría.
 # Capítulo 3
@@ -1169,7 +1169,7 @@ La web que seguía abierta por una razón concreta.
 
 Las casas, por otra.
 
-Y ellos, en el medio, sin tocar nada con las manos y sin que nada les salpicara si algo salía mal.
+Y ellos, en el medio, sin tocar nada con las patas y sin que nada les salpicara si algo salía mal.
 
 *"Estos dos no son tan tontos como parecen"*, pensó el Lobo.
 
@@ -1213,7 +1213,7 @@ Dinero que se llevaban los cerditos.
 
 Casas a oscuras.
 
-Y gente asustada -se entristeció- gente muy muy asustada.
+Y gente asustada —se entristeció— gente muy muy asustada.
 
 ---
 
@@ -1235,7 +1235,7 @@ El Lobo había empezado haciendo pequeños engaños porque quería dinero fácil
 
 Ahora estaba haciendo cosas mucho peores.
 
-Una noche se había colado en una casita de madera al fondo del bosque, en cuanto vio que la dueña salía de casa. Pensó que estaría vacía. No lo estaba: siete cabritillos se habían escondido inultilmente por la casa cuando la sombra enorme del lobo apareció tras la puerta.
+Una noche se había colado en una casita de madera al fondo del bosque, en cuanto vio que la dueña salía de casa. Pensó que estaría vacía. No lo estaba: siete cabritillos se habían escondido inútilmente por la casa cuando la sombra enorme del lobo apareció tras la puerta.
 
 Otra noche fue a una casa al otro lado del bosque, la de una anciana que vivía sola. La mujer se despertó de madrugada al oír crujir el suelo de su propia cocina, y se pasó el resto de la noche encerrada en un reloj de pared.
 
@@ -1749,7 +1749,7 @@ Demasiado fácil de recordar.
 
 El Lobo sonrió despacio.
 
-—No puede ser tan tonto -volvió a negar con la cabeza.
+—No puede ser tan tonto —volvió a negar con la cabeza.
 
 Tecleó:
 
@@ -1763,7 +1763,7 @@ El ordenador se desbloqueó.
 
 El Lobo se quedó mirando la pantalla.
 
-—Vale, sí que puede -asintió.
+—Vale, sí que puede —asintió.
 
 —Probablemente esté entre las diez contraseñas más débiles del mundo, al nivel de 111111.
 
@@ -2009,7 +2009,7 @@ El Cerdito Pequeño empezó a ponerse nervioso.
 
 —Vale... podemos llegar a un acuerdo, oink, oink.
 
-—Eso espero -dijo el lobo -quiero que dejes de hacerlo.
+—Eso espero —dijo el Lobo—. Quiero que dejes de hacerlo.
 
 —¿Y si no?
 
@@ -2141,7 +2141,7 @@ El cerdito frenó delante de una casa.
 
 Uff, la hora de bicicleta que eché el mes pasado ha servido para algo —pensó mientras miraba a su alrededor.
 
-He despistado a ese lobo tontorrón -y llamó a la puerta.
+He despistado a ese lobo tontorrón —pensó— y llamó a la puerta.
 
 **TOC, TOC, TOC.**
 
@@ -2207,15 +2207,9 @@ Se quedó pensando.
 
 —Veamos...
 
-Empezó a buscar redes Wi-Fi.
+Empezó a buscar redes Wi-Fi, y esta vez tardó un poco más que la última: dos, tres, hasta cuatro señales fueron apareciendo y desapareciendo en la pantalla, ninguna con el nombre que buscaba.
 
-Una.
-
-Dos.
-
-Tres.
-
-Y finalmente encontró una.
+Y entonces, por fin, la encontró.
 
 **CERDITO_MEDIANO_WIFI**
 
@@ -2503,13 +2497,7 @@ El Lobo frunció el ceño.
 
 Siguió leyendo.
 
-Había cantidades de dinero.
-
-Fechas.
-
-Reuniones.
-
-Pagos.
+Había cantidades de dinero, fechas, reuniones, pagos que se repetían mes tras mes.
 
 Y junto a cada operación aparecía una inicial.
 
@@ -2782,19 +2770,9 @@ Los abrió.
 
 —Esto es nuevo.
 
-Durante las dos casas anteriores siempre había encontrado algo.
+Durante las dos casas anteriores siempre había encontrado algo: una Wi-Fi abierta, una contraseña absurda, un dispositivo mal configurado. Siempre una pequeña puerta por la que colarse.
 
-Una Wi-Fi abierta.
-
-Una contraseña absurda.
-
-Un dispositivo mal configurado.
-
-Una pequeña puerta por la que colarse.
-
-Pero allí...
-
-no había puerta.
+Pero allí no había puerta.
 
 Ni ventana.
 
@@ -2808,17 +2786,7 @@ Volvió a mirar el ordenador.
 
 —No sé qué tienes ahí dentro.
 
-Y esa era precisamente la cuestión.
-
-**No sabía qué había dentro.**
-
-No podía ver los ordenadores.
-
-No podía comprobar las contraseñas.
-
-No podía saber qué sistemas de seguridad utilizaba.
-
-No podía saber si tenía un firewall, un antivirus o cualquier otra protección.
+Y esa era precisamente la cuestión: no podía ver los ordenadores, no podía comprobar las contraseñas, no tenía forma de saber qué sistemas de seguridad utilizaba, ni si tenía un firewall, un antivirus o cualquier otra protección.
 
 Desde fuera solo podía saber una cosa:
 
@@ -3342,21 +3310,11 @@ Había empezado con Cerdito Pequeño.
 
 Después había hackado al Cerdito Mediano.
 
-Pero aún necesitaba pruebas contra el Cerdito Mayor
+Pero aún necesitaba pruebas contra el Cerdito Mayor.
 
 Pero hackear la seguridad de la casa del Cerdito Mayor no estaba siendo nada fácil.
 
-La había observado desde fuera.
-
-Puertas.
-
-Ventanas.
-
-Redes.
-
-Nada.
-
-Ni rastro.
+La había observado desde fuera: puertas, ventanas, redes. Ni rastro de nada.
 
 Cerrada a cal y canto, también por dentro.
 
@@ -3683,6 +3641,60 @@ Sino de demostrar que podía hacerlo mejor.
 
 ---
 
+Mientras esperaba a que la justicia decidiera qué hacer con él, el Lobo hizo algo que nadie le había pedido.
+
+Pidió la lista.
+
+La lista de los "socios" de su propia web falsa. Los mismos nombres que había visto crecer, uno a uno, en aquel contador que tanto le había gustado mirar.
+
+**47.**
+
+**48.**
+
+**49.**
+
+Ya no le parecía un juego.
+
+Empezó a escribirles, uno por uno.
+
+No fue fácil. Algunos no querían saber nada de él. Otros ni siquiera contestaron. Pero unos pocos sí lo hicieron, y el Lobo escuchó cosas que antes nunca se había parado a escuchar: cuánto dinero habían perdido, cuánto miedo habían pasado, cuánto habían tardado en volver a fiarse de un simple correo electrónico.
+
+—Esto no lo arregla una disculpa —murmuró una noche, mirando la pantalla llena de nombres.
+
+Se quedó pensando.
+
+—Pero algo sí se puede hacer.
+
+Al día siguiente, presentó una propuesta a los investigadores. Quería usar lo que sabía —todo lo que sabía— para ayudar a la gente a la que él mismo había engañado. Y a cualquiera que pudiera caer en lo mismo que ellos.
+
+Le dijeron que sí.
+
+Y así nació Zarpa Segura.
+
+Al principio fue solo el Lobo, un ordenador y una sala pequeña con sillas prestadas. Enseñaba lo único que sabía enseñar de verdad: cómo pensaba un atacante, qué buscaba, por dónde entraba, y sobre todo, cómo no ponérselo tan fácil.
+
+—Antes me bastaba una contraseña débil para entrar en una casa —les decía a los primeros que se apuntaron a sus charlas—. Ahora solo necesito una pizarra.
+
+Nadie se reía todavía.
+
+Pero, con el tiempo, algunos empezaron a hacerlo.
+
+Las charlas de los martes se convirtieron en talleres. Y los talleres se convirtieron en fichas, con dibujos y ejemplos, para que cualquiera pudiera entender cómo funcionaba un engaño y cómo defenderse de él. El Lobo firmaba cada una con una frase suya, porque —a pesar de todo lo que le había pasado— seguía sin poder evitarlo.
+
+No devolvió todo el dinero que había robado.
+
+Eso no era posible.
+
+Pero enseñó a cientos de personas a no perderlo de la misma manera.
+
+Y aunque nunca lo dijo en voz alta, tampoco olvidó a los que no habían perdido dinero, sino algo peor: a quienes había hecho pasar miedo de verdad, escondidos en sus propias casas.
+
+A esos no podía escribirles una carta y ya está.
+
+Pero podía asegurarse, con cada persona a la que enseñaba a protegerse, de que nadie más tuviera que volver a esconderse así.
+
+---
+
 Meses después...
 
 El Lobo entró en un edificio nuevo.
@@ -3776,6 +3788,8 @@ Y entonces dijo:
 ## Fichas del Código Secreto
 
 ### 🔐 Código secreto — ¿qué son estas fichas?
+
+Estas son algunas de las fichas que el Lobo utiliza en los talleres de Zarpa Segura, la asociación que fundó para que nadie más caiga en las trampas en las que él mismo empezó a caer un día.
 
 Estos códigos existen de verdad.
 

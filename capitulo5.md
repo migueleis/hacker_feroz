@@ -44,7 +44,7 @@ La red estaba completamente abierta.
 
 El Lobo se quedó unos segundos en silencio.
 
-—Cerdito... -dijo negando con la cabeza.
+—Cerdito... —dijo, negando con la cabeza.
 
 —Una Wi‑Fi debería tener contraseña.
 
@@ -136,7 +136,7 @@ Demasiado fácil de recordar.
 
 El Lobo sonrió despacio.
 
-—No puede ser tan tonto -volvió a negar con la cabeza.
+—No puede ser tan tonto —volvió a negar con la cabeza.
 
 Tecleó:
 
@@ -150,9 +150,9 @@ El ordenador se desbloqueó.
 
 El Lobo se quedó mirando la pantalla.
 
-—Vale, sí que puede -asintió.
+—Vale, sí que puede —asintió.
 
--Probablemente entre las 10 contraseñas mas débiles del mundo, al nivel de 111111
+—Probablemente esté entre las diez contraseñas más débiles del mundo, al nivel de 111111.
 
 Pero sonrió de todas formas.
 
@@ -352,7 +352,7 @@ Al ver al Lobo, se quedó completamente quieto.
 
 —¿Tú?, oink, oink.
 
-—Hola cerdito! -saludó el Lobo de una manera burlona.
+—¡Hola, cerdito! —saludó el Lobo de una manera burlona.
 
 —¿Qué haces aquí? ¿Has venido a pagarme?
 
@@ -368,7 +368,7 @@ El Lobo sonrió.
 
 —A ti.
 
-El Cerdito Pequeño trago saliva e intentó cerrar la puerta.
+El Cerdito Pequeño tragó saliva e intentó cerrar la puerta.
 
 El Lobo puso una pata antes de que pudiera hacerlo.
 
@@ -378,7 +378,7 @@ El Lobo puso una pata antes de que pudiera hacerlo.
 
 El cerdito lo miró asustado.
 
-—No sabes lo que estás haciendo. -replicó el cerdito
+—No sabes lo que estás haciendo —replicó el cerdito.
 
 —Creo que sí.
 
@@ -396,7 +396,7 @@ El Cerdito Pequeño empezó a ponerse nervioso.
 
 —Vale... podemos llegar a un acuerdo, oink, oink.
 
-—Eso espero -dijo el lobo -quiero que dejes de hacerlo.
+—Eso espero —dijo el Lobo—. Quiero que dejes de hacerlo.
 
 —¿Y si no?
 
@@ -506,7 +506,7 @@ Y salió detrás de él.
 
 El Cerdito Pequeño corría todo lo rápido que podían correr unas patas de cerdo.
 
--Necesito ayuda, estaré seguro en casa del Cerdito Mediano.
+—Necesito ayuda. Estaré seguro en casa del Cerdito Mediano.
 
 El Lobo mantenía cierta distancia.
 
@@ -526,9 +526,9 @@ Y finalmente llegó a una zona llena de árboles.
 
 El cerdito frenó delante de una casa.
 
-Uff, la hora de bicicleta que heché el mes pasado ha servido para algo -pensó mientras miraba a su alrededor
+Uff, la hora de bicicleta que eché el mes pasado ha servido para algo —pensó mientras miraba a su alrededor.
 
-He despistado a ese lobo tontorrón -y llamó a la puerta.
+He despistado a ese lobo tontorrón —pensó— y llamó a la puerta.
 
 **TOC, TOC, TOC.**
 
@@ -542,7 +542,7 @@ El Cerdito Pequeño entró rápidamente.
 
 El Lobo entrecerró los ojos.
 
-—Ya te tengo Cerdito Mediano, ya se donde vives.
+—Ya te tengo, Cerdito Mediano. Ya sé dónde vives.
 
 Miró la casa.
 

@@ -36,27 +36,27 @@ Dentro había fotografías, documentos y varias hojas llenas de datos de persona
 
 El Lobo miró la carpeta.
 
-—Supongo que eso depende de lo bien que esté la comida en la carcel.
+—Supongo que eso depende de lo bien que esté la comida en la cárcel.
 
 —No estamos bromeando.
 
 —Ya, ya. Es que a mí me sale solo. Es un problemilla que tengo.
 
-—Tienes dos opciones, oink. -dijo el Cerdito Pequeño
+—Tienes dos opciones, oink —dijo el Cerdito Pequeño.
 
 Levantó un dedo.
 
-—Primera: entregamos todas las pruebas que tenemos sobre ti y te pasas unas largas vacaciones en la carcel.
+—Primera: entregamos todas las pruebas que tenemos sobre ti y te pasas unas largas vacaciones en la cárcel.
 
-—Segunda: trabajas para nosotros. -dijo señalando uno de los documentos.
+—Segunda: trabajas para nosotros —dijo, señalando uno de los documentos.
 
-—Tercera —interrumpió el Lobo. -Os devuelvo el dinero, me dais un móvil nuevo y me vuelvo a casa como si nada hubiera pasado.
+—Tercera —interrumpió el Lobo—. Os devuelvo el dinero, me dais un móvil nuevo y me vuelvo a casa como si nada hubiera pasado.
 
-—¡No hay tercera! -gritaron a la vez.
+—¡No hay tercera! —gritaron a la vez.
 
-- ¿Y sin movil nuevo?
+—¿Y sin móvil nuevo?
 
--¡Nooo!
+—¡Nooo!
 
 —Vale, vaaale, tenía que intentarlo.
 
@@ -78,7 +78,7 @@ El Lobo abrió mucho los ojos.
 
 —Exacto.
 
-—Se supone que, como trabajadores del centro, deberiais pararme y cerrar la web, no ¡quedaros con el dinero!.
+—Se supone que, como trabajadores del centro, deberíais pararme y cerrar la web, no ¡quedaros con el dinero!
 
 El Cerdito Pequeño se encogió de hombros, como si le estuvieran preguntando algo obvio.
 
@@ -102,11 +102,11 @@ El Lobo parpadeó.
 
 —Hackea sus sistemas de seguridad, entra en las casas y haz lo que haceis los lobos ¡sacar los dientes!
 
-—Un susto elegante, oink, oink. —añadió el Cerdito Pequeño, muy orgulloso de la frase, aunque no era suya.
+—Un susto elegante, oink, oink —añadió el Cerdito Pequeño, muy orgulloso de la frase, aunque no era suya.
 
 El Lobo se quedó mirando a los dos.
 
-—Entonces esto no solo va de robar, quereis asustar
+—Entonces esto no solo va de robar, queréis asustar.
 
 —Correcto.
 
@@ -132,7 +132,7 @@ El Cerdito Mediano cerró la carpeta, muy despacio, como si aquella fuera la par
 
 —En cambio, el dinero de tu web falsa...
 
-—Os lo quereis quedar vosotros —terminó el Lobo
+—Os lo queréis quedar vosotros —terminó el Lobo.
 
 —Ahora sí lo pillas.
 
@@ -150,7 +150,7 @@ La web que seguía abierta por una razón concreta.
 
 Las casas, por otra.
 
-Y ellos, en el medio, sin tocar nada con las manos y sin que nada les salpicara si algo salía mal.
+Y ellos, en el medio, sin tocar nada con las patas y sin que nada les salpicara si algo salía mal.
 
 *"Estos dos no son tan tontos como parecen"*, pensó el Lobo.
 
@@ -194,7 +194,7 @@ Dinero que se llevaban los cerditos.
 
 Casas a oscuras.
 
-Y gente asustada -se entristeció- gente muy muy asustada.
+Y gente asustada —se entristeció— gente muy muy asustada.
 
 ---
 
@@ -216,7 +216,7 @@ El Lobo había empezado haciendo pequeños engaños porque quería dinero fácil
 
 Ahora estaba haciendo cosas mucho peores.
 
-Una noche se había colado en una casita de madera al fondo del bosque, en cuanto vio que la dueña salía de casa. Pensó que estaría vacía. No lo estaba: siete cabritillos se habían escondido inultilmente por la casa cuando la sombra enorme del lobo apareció tras la puerta.
+Una noche se había colado en una casita de madera al fondo del bosque, en cuanto vio que la dueña salía de casa. Pensó que estaría vacía. No lo estaba: siete cabritillos se habían escondido inútilmente por la casa cuando la sombra enorme del lobo apareció tras la puerta.
 
 Otra noche fue a una casa al otro lado del bosque, la de una anciana que vivía sola. La mujer se despertó de madrugada al oír crujir el suelo de su propia cocina, y se pasó el resto de la noche encerrada en un reloj de pared.
 

@@ -58,7 +58,7 @@ También se había comprado una cafetera.
 
 Pero no una cafetera normal.
 
-Una cafetera con wifi, con aplicación móvil, con lucecitas y con más botones de los que cualquier cafetera debería tener.
+Una cafetera con Wi-Fi, con aplicación móvil, con lucecitas y con más botones de los que cualquier cafetera debería tener.
 
 Y, como era hacker, no pudo resistirse.
 
@@ -142,7 +142,7 @@ Porque incluso los genios incomprendidos necesitan descansar.
 
 En el monitor central aparecía una página que parecía pertenecer a una organización muy conocida entre los cerditos.
 
-La **Hermandad de los Cerditos**.
+La **Hermandad de Constructores**.
 
 La Hermandad se encargaba de ayudar a los cerditos a construir casas seguras y ofrecía distintos servicios de protección.
 
@@ -183,7 +183,7 @@ El Lobo se frotó las patas.
 —Nadie. Porque soy un genio.
 
 —Un genio del mal. Con perdón, del mal-ware. Ja. Buena esa.
--Espera que tenga otra, soy un crack, mejor dicho un Crack-er.
+—Espera que tenga otra, soy un crack, mejor dicho un Crack-er.
 
 Se rio de su propio chiste durante un rato más de lo necesario.
 
@@ -235,7 +235,7 @@ El número cambió.
 
 —¡Cuarenta y nueve!
 
-El Lobo empezó a reírse frotándose las manos
+El Lobo empezó a reírse frotándose las patas
 
 —¡Esto funciona! ¡Soy imparable!
 
@@ -306,6 +306,8 @@ El contador siguió aumentando.
 **53**
 
 **54**
+
+El contador solo mostraba los registros de aquella tanda. Las campañas anteriores habían acumulado muchos más.
 
 El Lobo ya ni siquiera intentaba disimular su sonrisa.
 
@@ -437,7 +439,7 @@ Y entonces soltó el aire que llevaba conteniendo.
 
 —¡Uf! ¡Menudo susto!
 
-—Seguro que era uno de mis colegas hackers haciendome una broma.
+—Seguro que era uno de mis colegas hackers haciéndome una broma.
 
 El Lobo empezó a reírse, aunque le temblaba un poco la voz.
 
@@ -469,7 +471,7 @@ El Lobo miró a un lado.
 
 Miró al otro.
 
-—Ehh! ¿Y mi pizza?
+—¡Eh! ¿Y mi pizza?
 
 —No hay pizza.
 

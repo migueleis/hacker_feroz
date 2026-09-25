@@ -88,21 +88,11 @@ Había empezado con Cerdito Pequeño.
 
 Después había hackado al Cerdito Mediano.
 
-Pero aún necesitaba pruebas contra el Cerdito Mayor
+Pero aún necesitaba pruebas contra el Cerdito Mayor.
 
 Pero hackear la seguridad de la casa del Cerdito Mayor no estaba siendo nada fácil.
 
-La había observado desde fuera.
-
-Puertas.
-
-Ventanas.
-
-Redes.
-
-Nada.
-
-Ni rastro.
+La había observado desde fuera: puertas, ventanas, redes. Ni rastro de nada.
 
 Cerrada a cal y canto, también por dentro.
 
@@ -186,7 +176,7 @@ Se recostó en la silla.
 
 Al Cerdito Pequeño no le había robado la dirección de su casa.
 
-Solo tuvo que mandarle un email de phising y esperó que el cerdito, encantado de la vida, hiciera click en el enlace y se la diera.
+Solo tuvo que mandarle un correo electrónico de phishing y esperar a que el cerdito, encantado de la vida, hiciera clic en el enlace y se la diera.
 
 Y el Cerdito Mayor no iba a ser distinto.
 

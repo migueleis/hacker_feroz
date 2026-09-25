@@ -122,9 +122,9 @@ Señaló al Lobo.
 
 El Pequeño empezó a dar saltitos.
 
-—¿Lo pillas? Nuestra red ¡Y esta no necesita wifi, oink!
+—¿Lo pillas? Nuestra red. ¡Y esta no necesita Wi-Fi, oink!
 
-El pequeño siguió burlandose canturreando:
+El pequeño siguió burlándose, canturreando:
 
 ¿Quién teme al Lobo Feroz?, al Lobo, al Lobo...
 

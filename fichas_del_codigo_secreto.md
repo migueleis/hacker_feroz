@@ -4,6 +4,8 @@
 
 ### 🔐 Código secreto — ¿qué son estas fichas?
 
+Estas son algunas de las fichas que el Lobo utiliza en los talleres de Zarpa Segura, la asociación que fundó para que nadie más caiga en las trampas en las que él mismo empezó a caer un día.
+
 Estos códigos existen de verdad.
 
 Los utilizan profesionales de la ciberseguridad para describir técnicas reales que pueden utilizar los atacantes. Se llaman **códigos MITRE ATT&CK** y funcionan como una especie de catálogo de técnicas de ataque.

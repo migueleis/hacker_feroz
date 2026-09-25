@@ -20,7 +20,7 @@ Miró la casa.
 
 —Bueno...
 
-Sacó su portatil.
+Sacó su portátil.
 
 En la primera página había escrito:
 
@@ -96,19 +96,9 @@ Los abrió.
 
 —Esto es nuevo.
 
-Durante las dos casas anteriores siempre había encontrado algo.
+Durante las dos casas anteriores siempre había encontrado algo: una Wi-Fi abierta, una contraseña absurda, un dispositivo mal configurado. Siempre una pequeña puerta por la que colarse.
 
-Una Wi-Fi abierta.
-
-Una contraseña absurda.
-
-Un dispositivo mal configurado.
-
-Una pequeña puerta por la que colarse.
-
-Pero allí...
-
-no había puerta.
+Pero allí no había puerta.
 
 Ni ventana.
 
@@ -122,17 +112,7 @@ Volvió a mirar el ordenador.
 
 —No sé qué tienes ahí dentro.
 
-Y esa era precisamente la cuestión.
-
-**No sabía qué había dentro.**
-
-No podía ver los ordenadores.
-
-No podía comprobar las contraseñas.
-
-No podía saber qué sistemas de seguridad utilizaba.
-
-No podía saber si tenía un firewall, un antivirus o cualquier otra protección.
+Y esa era precisamente la cuestión: no podía ver los ordenadores, no podía comprobar las contraseñas, no tenía forma de saber qué sistemas de seguridad utilizaba, ni si tenía un firewall, un antivirus o cualquier otra protección.
 
 Desde fuera solo podía saber una cosa:
 
@@ -160,7 +140,7 @@ Y lentamente sonrió.
 
 —Claro.
 
-Miró al portatil y escribió:
+Miró al portátil y escribió:
 
 **PLAN B**
 
