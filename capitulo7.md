@@ -58,9 +58,7 @@ Nada.
 
 —Qué raro.
 
-Cambió algunos parámetros.
-
-Volvió a buscar.
+Cambió algunos parámetros y lo intentó de nuevo.
 
 Nada.
 
@@ -68,19 +66,9 @@ El Lobo frunció el ceño.
 
 —Ni siquiera puedo verla.
 
-Probó otra cosa.
+Probó otra cosa: dispositivos cercanos, algún servicio abierto, alguna conexión olvidada.
 
-Buscó dispositivos cercanos.
-
-Nada.
-
-Intentó localizar algún servicio abierto.
-
-Nada.
-
-Alguna conexión olvidada.
-
-Nada.
+Nada, nada y nada.
 
 El Lobo empezó a ponerse nervioso.
 
@@ -146,17 +134,7 @@ Miró al portátil y escribió:
 
 **Entrar en la casa.**
 
-Miró la puerta principal.
-
-Demasiado visible.
-
-Miró las ventanas.
-
-Demasiados cierres de seguridad.
-
-Miró el tejado.
-
-Demasiado alto, pero...
+Miró la puerta principal: demasiado visible. Las ventanas: demasiados cierres de seguridad. El tejado: demasiado alto...
 
 Entonces levantó la cabeza.
 

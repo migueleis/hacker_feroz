@@ -14,7 +14,7 @@ Varias sillas.
 
 Y, al fondo, un monitor.
 
-Cuando los cerditos se marcharon
+Cuando los cerditos se marcharon.
 
 El Lobo se quedó mirando el monitor durante un buen rato.
 
@@ -32,7 +32,11 @@ El Lobo levantó una ceja.
 
 —Vaya, parece que el Cerdito Pequeño no ha cerrado la sesión.
 
-Empezó a mirar.
+Miró hacia la esquina del techo. La cámara seguía desconectada.
+
+—Sin cámara. Sin nadie mirando. Qué generosos.
+
+Comenzó a inspecccionar.
 
 Se trataba de un panel de control.
 

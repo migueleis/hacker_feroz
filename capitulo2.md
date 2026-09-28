@@ -252,6 +252,8 @@ El Cerdito Mediano lo miró de reojo y negando con la cabeza.
 
 El coche se detuvo frente a un edificio enorme.
 
+En el aparcamiento había más coches con el mismo logo. Varios cerditos con la misma placa entraban y salían, cargando maletines, hablando por teléfono, sin mirar siquiera al lobo esposado. Alguien se despedía de un cliente en la puerta con un apretón de pata.
+
 En la entrada había un cartel:
 
 **CENTRO DE SEGURIDAD DE LA HERMANDAD**
@@ -290,17 +292,9 @@ Un poco de ambiente, vamos.
 
 Pero no, no hubo nada de eso.
 
-Lo llevaron a una habitación llena de ordenadores.
+Lo llevaron a una habitación llena de ordenadores, apartada del resto de las oficinas, al final de un pasillo por el que no pasaba nadie más.
 
-Había pantallas por todas partes.
-
-Mapas.
-
-Gráficos.
-
-Listas de direcciones.
-
-Avisos de seguridad.
+Había pantallas por todas partes: mapas, gráficos, listas de direcciones, avisos de seguridad.
 
 Y en una de las paredes había una enorme insignia de la Hermandad: un emblema formado por ladrillos que dibujaban un escudo, con el pequeño símbolo de un cerdito en el centro.
 
@@ -368,7 +362,7 @@ El Lobo frunció el ceño.
 
 —Sí.
 
-El Cerdito Mediano se acercó a uno de los ordenadores y abrió una pantalla.
+El Cerdito Mediano se acercó a uno de los ordenadores y miró pantalla.
 
 —Tu sistema para engañar a la gente no es especialmente sofisticado.
 
@@ -525,6 +519,20 @@ El cerdito sonrió.
 —Claro, consultalo con la almohada.
 
 Empujaron al lobo a la sala y cerraron la puerta con llave.
+
+Antes de irse, el Cerdito Mediano se giró hacia una pequeña cámara instalada en la esquina del techo.
+
+Miró a un lado.
+
+Miró al otro.
+
+Y la desconectó con un gesto rápido, casi nervioso, del tipo que no quiere que le vean hacerlo.
+
+El Lobo, a través del cristal de la puerta, alcanzó a verlo.
+
+—¿Eso es normal? —preguntó, con la voz amortiguada por la puerta—. Digo, para ser una empresa de seguridad, apagáis muchas cámaras vosotros mismos.
+
+Nadie contestó.
 
 —¡Pero no me habéis dado almohada!
 

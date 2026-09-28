@@ -58,21 +58,21 @@ También se había comprado una cafetera.
 
 Pero no una cafetera normal.
 
-Una cafetera con Wi-Fi, con aplicación móvil, con lucecitas y con más botones de los que cualquier cafetera debería tener.
+Una cafetera con Wi-Fi, aplicación móvil, lucecitas y más botones de los que cualquier cafetera debería tener.
 
 Y, como era hacker, no pudo resistirse.
 
 La hackeó.
 
-Le añadió funciones que la cafetera jamás debería tener.
+Ahora podía hablar con ella, pedirle un café por voz y programarla desde el móvil.
 
-Ahora le mandaba mensajes de buenos días.
+—Un café expresso con dos gotas de leche espumosa.
 
-Ahora le hacía la lista de la compra.
+—Marchando —respondía la cafetera.
 
-Ahora, si se despistaba, empezaba a mandarle cafés a los vecinos.
+El lobo sonrió.
 
-—Es una obra de arte —decía también de la cafetera.
+—Esto sí que es tecnología.
 
 El Lobo, en resumen, sabía hacer cosas increíbles con los ordenadores.
 
@@ -466,13 +466,3 @@ El Lobo parpadeó.
 —¿Sí?
 
 —¡Estás detenido!
-
-El Lobo miró a un lado.
-
-Miró al otro.
-
-—¡Eh! ¿Y mi pizza?
-
-—No hay pizza.
-
-—Vaya —dijo el Lobo, bajando las orejas—. Eso sí que ha sido un timo.

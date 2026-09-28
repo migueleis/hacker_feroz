@@ -104,9 +104,15 @@ El Pequeño.
 
 El Mediano.
 
-Y el Mayor.
+Y entonces apareció el Cerdito Mayor.
 
-Los tres estaban sonriendo.
+Era enorme. Mucho más grande que los otros dos.
+
+Su pelaje era de un negro oscuro, casi como la sombra que dejaba la luz cuando desaparecía detrás de una nube. Tenía el gesto serio, las cejas fruncidas y una mirada que hacía que los demás dejaran de hablar.
+
+No necesitaba levantar la voz para hacerse notar.
+
+El Pequeño y el Mediano estaban sonriendo. El Mayor, no. El Mayor solo observaba.
 
 —¡Te tenemos!, oink, oink —gritó el Cerdito Pequeño.
 
@@ -134,7 +140,7 @@ Miró a los tres.
 
 —Así que era una trampa.
 
-—Claro —respondió el Mayor.
+—Claro —respondió el Mayor, y su voz grave y fuerte llenó toda la habitación.
 
 El Lobo suspiró.
 
@@ -214,17 +220,15 @@ El Mayor sonrió.
 
 —Que todo esto empezó mucho antes de que tú aparecieras.
 
+—Llevo quince años dirigiendo la división de Respuesta a Incidentes de la Hermandad —añadió, sin necesidad de levantar la voz—. Nadie audita a quien se supone que audita a los demás.
+
+—Fue idea mía —continuó—. Desde el principio. Ellos solo tenían que seguir el plan.
+
 Y entonces empezó a contar.
 
-Contó cómo habían empezado.
+Contó cómo habían empezado, cómo habían conseguido el dinero, cómo habían encontrado a otras personas a las que extorsionar.
 
-Cómo habían conseguido dinero.
-
-Cómo habían encontrado a otras personas para extorsionarlas.
-
-Cómo habían utilizado al Lobo.
-
-Cómo el dinero iba pasando de un cerdito a otro.
+Contó cómo habían utilizado al Lobo, y cómo el dinero iba pasando de un cerdito a otro.
 
 El Lobo escuchaba.
 
@@ -258,13 +262,37 @@ El Lobo lo miró.
 
 —Pero nosotros siempre estuvimos un paso por delante.
 
-El Cerdito Mayor se levantó.
+El Lobo levantó la mirada.
 
-—Y ahora...
+—¿Y quién os controla a vosotros?
 
-Señaló la red.
+El cerdito mayor se rio.
 
-—Ya no tienes ninguna salida, acabaremos contigo.
+—¿A nosotros? Nadie.
+
+El Lobo frunció el ceño.
+
+—Eso no puede ser verdad. Trabajáis para una empresa de seguridad. Alguien tiene que revisar lo que hacéis.
+
+—¿Revisarnos? —el mayor soltó una carcajada seca—. Somos nosotros los que sabemos dónde mirar y dónde no. Llevamos años dentro. Sabemos exactamente qué informes rellenar, qué casillas marcar, qué nadie va a volver a abrir jamás.
+
+—Eso es mentir.
+
+—Eso es saber cómo funciona el sistema. Y la mejor parte, Lobo... —se inclinó hacia él— es que nadie sospecha de quien lleva la placa. Nadie audita al auditor.
+
+El Lobo apretó los dientes.
+
+—Siempre hay alguien que controla a los que controlan.
+
+—Y si no lo hay... debería haberlo.
+
+El cerdito mayor se levantó y dejó de sonreír.
+
+—Ya es hora, Lobo.
+
+Señaló la red que colgaba sobre la trampilla.
+
+—Aquí se acaba tu suerte.
 
 El Lobo bajó la cabeza.
 

@@ -58,21 +58,21 @@ También se había comprado una cafetera.
 
 Pero no una cafetera normal.
 
-Una cafetera con Wi-Fi, con aplicación móvil, con lucecitas y con más botones de los que cualquier cafetera debería tener.
+Una cafetera con Wi-Fi, aplicación móvil, lucecitas y más botones de los que cualquier cafetera debería tener.
 
 Y, como era hacker, no pudo resistirse.
 
 La hackeó.
 
-Le añadió funciones que la cafetera jamás debería tener.
+Ahora podía hablar con ella, pedirle un café por voz y programarla desde el móvil.
 
-Ahora le mandaba mensajes de buenos días.
+—Un café expresso con dos gotas de leche espumosa.
 
-Ahora le hacía la lista de la compra.
+—Marchando —respondía la cafetera.
 
-Ahora, si se despistaba, empezaba a mandarle cafés a los vecinos.
+El lobo sonrió.
 
-—Es una obra de arte —decía también de la cafetera.
+—Esto sí que es tecnología.
 
 El Lobo, en resumen, sabía hacer cosas increíbles con los ordenadores.
 
@@ -467,16 +467,6 @@ El Lobo parpadeó.
 
 —¡Estás detenido!
 
-El Lobo miró a un lado.
-
-Miró al otro.
-
-—¡Eh! ¿Y mi pizza?
-
-—No hay pizza.
-
-—Vaya —dijo el Lobo, bajando las orejas—. Eso sí que ha sido un timo.
-
 
 # Capítulo 2
 
@@ -732,6 +722,8 @@ El Cerdito Mediano lo miró de reojo y negando con la cabeza.
 
 El coche se detuvo frente a un edificio enorme.
 
+En el aparcamiento había más coches con el mismo logo. Varios cerditos con la misma placa entraban y salían, cargando maletines, hablando por teléfono, sin mirar siquiera al lobo esposado. Alguien se despedía de un cliente en la puerta con un apretón de pata.
+
 En la entrada había un cartel:
 
 **CENTRO DE SEGURIDAD DE LA HERMANDAD**
@@ -770,17 +762,9 @@ Un poco de ambiente, vamos.
 
 Pero no, no hubo nada de eso.
 
-Lo llevaron a una habitación llena de ordenadores.
+Lo llevaron a una habitación llena de ordenadores, apartada del resto de las oficinas, al final de un pasillo por el que no pasaba nadie más.
 
-Había pantallas por todas partes.
-
-Mapas.
-
-Gráficos.
-
-Listas de direcciones.
-
-Avisos de seguridad.
+Había pantallas por todas partes: mapas, gráficos, listas de direcciones, avisos de seguridad.
 
 Y en una de las paredes había una enorme insignia de la Hermandad: un emblema formado por ladrillos que dibujaban un escudo, con el pequeño símbolo de un cerdito en el centro.
 
@@ -848,7 +832,7 @@ El Lobo frunció el ceño.
 
 —Sí.
 
-El Cerdito Mediano se acercó a uno de los ordenadores y abrió una pantalla.
+El Cerdito Mediano se acercó a uno de los ordenadores y miró pantalla.
 
 —Tu sistema para engañar a la gente no es especialmente sofisticado.
 
@@ -1006,6 +990,20 @@ El cerdito sonrió.
 
 Empujaron al lobo a la sala y cerraron la puerta con llave.
 
+Antes de irse, el Cerdito Mediano se giró hacia una pequeña cámara instalada en la esquina del techo.
+
+Miró a un lado.
+
+Miró al otro.
+
+Y la desconectó con un gesto rápido, casi nervioso, del tipo que no quiere que le vean hacerlo.
+
+El Lobo, a través del cristal de la puerta, alcanzó a verlo.
+
+—¿Eso es normal? —preguntó, con la voz amortiguada por la puerta—. Digo, para ser una empresa de seguridad, apagáis muchas cámaras vosotros mismos.
+
+Nadie contestó.
+
 —¡Pero no me habéis dado almohada!
 
 El Lobo se quedó solo.
@@ -1017,6 +1015,7 @@ Y tragó saliva.
 Aquello no parecía un mal trato, siempre que no acabara en la cárcel.
 
 Pero todavía no sabía qué precio tendría.
+
 # Capítulo 3
 
 ## El trato
@@ -2672,6 +2671,7 @@ Cerró el ordenador.
 Se dirigió a su casa.
 
 —Yo también me merezco una taza de café y algún que otro bailecito. -sonrió.
+
 # Capítulo 7
 
 ## La casa de ladrillo
@@ -2732,9 +2732,7 @@ Nada.
 
 —Qué raro.
 
-Cambió algunos parámetros.
-
-Volvió a buscar.
+Cambió algunos parámetros y lo intentó de nuevo.
 
 Nada.
 
@@ -2742,19 +2740,9 @@ El Lobo frunció el ceño.
 
 —Ni siquiera puedo verla.
 
-Probó otra cosa.
+Probó otra cosa: dispositivos cercanos, algún servicio abierto, alguna conexión olvidada.
 
-Buscó dispositivos cercanos.
-
-Nada.
-
-Intentó localizar algún servicio abierto.
-
-Nada.
-
-Alguna conexión olvidada.
-
-Nada.
+Nada, nada y nada.
 
 El Lobo empezó a ponerse nervioso.
 
@@ -2820,17 +2808,7 @@ Miró al portátil y escribió:
 
 **Entrar en la casa.**
 
-Miró la puerta principal.
-
-Demasiado visible.
-
-Miró las ventanas.
-
-Demasiados cierres de seguridad.
-
-Miró el tejado.
-
-Demasiado alto, pero...
+Miró la puerta principal: demasiado visible. Las ventanas: demasiados cierres de seguridad. El tejado: demasiado alto...
 
 Entonces levantó la cabeza.
 
@@ -2978,9 +2956,15 @@ El Pequeño.
 
 El Mediano.
 
-Y el Mayor.
+Y entonces apareció el Cerdito Mayor.
 
-Los tres estaban sonriendo.
+Era enorme. Mucho más grande que los otros dos.
+
+Su pelaje era de un negro oscuro, casi como la sombra que dejaba la luz cuando desaparecía detrás de una nube. Tenía el gesto serio, las cejas fruncidas y una mirada que hacía que los demás dejaran de hablar.
+
+No necesitaba levantar la voz para hacerse notar.
+
+El Pequeño y el Mediano estaban sonriendo. El Mayor, no. El Mayor solo observaba.
 
 —¡Te tenemos!, oink, oink —gritó el Cerdito Pequeño.
 
@@ -3008,7 +2992,7 @@ Miró a los tres.
 
 —Así que era una trampa.
 
-—Claro —respondió el Mayor.
+—Claro —respondió el Mayor, y su voz grave y fuerte llenó toda la habitación.
 
 El Lobo suspiró.
 
@@ -3088,17 +3072,15 @@ El Mayor sonrió.
 
 —Que todo esto empezó mucho antes de que tú aparecieras.
 
+—Llevo quince años dirigiendo la división de Respuesta a Incidentes de la Hermandad —añadió, sin necesidad de levantar la voz—. Nadie audita a quien se supone que audita a los demás.
+
+—Fue idea mía —continuó—. Desde el principio. Ellos solo tenían que seguir el plan.
+
 Y entonces empezó a contar.
 
-Contó cómo habían empezado.
+Contó cómo habían empezado, cómo habían conseguido el dinero, cómo habían encontrado a otras personas a las que extorsionar.
 
-Cómo habían conseguido dinero.
-
-Cómo habían encontrado a otras personas para extorsionarlas.
-
-Cómo habían utilizado al Lobo.
-
-Cómo el dinero iba pasando de un cerdito a otro.
+Contó cómo habían utilizado al Lobo, y cómo el dinero iba pasando de un cerdito a otro.
 
 El Lobo escuchaba.
 
@@ -3132,13 +3114,37 @@ El Lobo lo miró.
 
 —Pero nosotros siempre estuvimos un paso por delante.
 
-El Cerdito Mayor se levantó.
+El Lobo levantó la mirada.
 
-—Y ahora...
+—¿Y quién os controla a vosotros?
 
-Señaló la red.
+El Cerdito Mayor se rio.
 
-—Ya no tienes ninguna salida, acabaremos contigo.
+—¿A nosotros? Nadie.
+
+El Lobo frunció el ceño.
+
+—Eso no puede ser verdad. Trabajáis para una empresa de seguridad. Alguien tiene que revisar lo que hacéis.
+
+—¿Revisarnos? —el mayor soltó una carcajada seca—. Somos nosotros los que sabemos dónde mirar y dónde no. Llevamos años dentro. Sabemos exactamente qué informes rellenar, qué casillas marcar, qué nadie va a volver a abrir jamás.
+
+—Eso es mentir.
+
+—Eso es saber cómo funciona el sistema. Y la mejor parte, Lobo... —se inclinó hacia él— es que nadie sospecha de quien lleva la placa.
+
+El Lobo apretó los dientes.
+
+—Siempre hay alguien que controla a los que controlan.
+
+—Y si no lo hay... debería haberlo.
+
+El Cerdito Mayor se levantó y dejó de sonreír.
+
+—Ya es hora, Lobo.
+
+Señaló la red que colgaba sobre la trampilla.
+
+—Aquí se acaba tu suerte.
 
 El Lobo bajó la cabeza.
 
@@ -3236,7 +3242,7 @@ Varias sillas.
 
 Y, al fondo, un monitor.
 
-Cuando los cerditos se marcharon
+Cuando los cerditos se marcharon.
 
 El Lobo se quedó mirando el monitor durante un buen rato.
 
@@ -3254,7 +3260,11 @@ El Lobo levantó una ceja.
 
 —Vaya, parece que el Cerdito Pequeño no ha cerrado la sesión.
 
-Empezó a mirar.
+Miró hacia la esquina del techo. La cámara seguía desconectada.
+
+—Sin cámara. Sin nadie mirando. Qué generosos.
+
+Comenzó a inspecccionar.
 
 Se trataba de un panel de control.
 
@@ -4145,3 +4155,72 @@ Si descubres un problema de seguridad:
 *«Antes quería entrar en todas las casas. Ahora me pagan para asegurarme de que nadie entre en ellas.»*
 
 **—Me encanta mi trabajo.**
+
+---
+
+# 11. 📖 CONCEPTO: HACKER vs. CRACKER
+
+**Código secreto:** —
+*Distinción terminológica, no una técnica de ataque de MITRE ATT&CK.*
+
+### 🐺 El Lobo dice:
+
+*«Al principio de esta historia me llamaba a mí mismo "Crack-er". Y, la verdad, tenía más razón de la que pensaba.»*
+
+### Cómo funciona
+
+La palabra **hacker** no significa, en realidad, "delincuente informático".
+
+Un hacker es, sencillamente, alguien que entiende muy bien cómo funcionan los sistemas y le gusta explorarlos, desmontarlos y descubrir cómo hacerlos mejores. Eso no tiene nada de malo — de hecho, es justo lo que hacen los hackers éticos de la ficha anterior.
+
+La palabra que describe a alguien que usa esos conocimientos para hacer daño es otra: **cracker**. Alguien que "rompe" sistemas de seguridad con mala intención.
+
+Al principio de esta historia, el Lobo no era un hacker.
+
+Era un cracker que se hacía llamar hacker.
+
+### 🛡️ Cómo protegerte
+
+Esta ficha no protege tu ordenador. Protege una idea:
+
+* No todo el que sabe de tecnología es peligroso.
+* No todo el que dice ser "hacker" lo está usando bien.
+* Lo que importa no es cuánto sabes, sino qué decides hacer con ello.
+
+### 🐺 Frase del Lobo
+
+*«Tardé nueve capítulos en aprender la diferencia entre esas dos palabras. Espero que a ti no te cueste tanto.»*
+
+---
+
+# 12. 🕵️ CONCEPTO: AMENAZA INTERNA
+
+**Código secreto:** —
+*Relacionado con T1078 — Valid Accounts (uso indebido de credenciales legítimas), aunque la amenaza interna es un concepto más amplio que una sola técnica.*
+
+### 🐺 El Lobo dice:
+
+*«Yo tuve que romper una ventana. El Cerdito Mayor solo tuvo que apagar una cámara que ya era suya.»*
+
+### Cómo funciona
+
+No todos los ataques vienen de fuera.
+
+A veces, la persona que hace daño a una empresa es alguien que ya trabaja allí: alguien con acceso legítimo, una llave de verdad y un puesto de confianza. Eso se llama **amenaza interna**.
+
+Es más difícil de detectar que un ataque externo, porque no hay que forzar ninguna puerta: la puerta ya estaba abierta para esa persona. El problema no era la seguridad de la empresa. Era que nadie vigilaba a quien tenía que vigilar.
+
+El Centro de Seguridad de la Hermandad era una empresa de verdad, con empleados de verdad, protegiendo hogares de verdad. El problema nunca fue la empresa.
+
+El problema fue que nadie controlaba lo que hacía uno de sus jefes de departamento.
+
+### 🛡️ Cómo protegerte
+
+* Ninguna persona, por mucha confianza o cargo que tenga, debería tener acceso ilimitado y sin supervisión.
+* Los permisos de acceso deben revisarse periódicamente, también los de quienes llevan más tiempo.
+* Que algo lo haga "alguien de dentro" no lo hace automáticamente seguro.
+* Las auditorías no son desconfianza: son la forma en que una organización se cuida a sí misma.
+
+### 🐺 Frase del Lobo
+
+*«Siempre hay alguien que controla a los que controlan. Y si no lo hay... debería haberlo.»*
