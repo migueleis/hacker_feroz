@@ -361,3 +361,72 @@ Si descubres un problema de seguridad:
 
 **—Me encanta mi trabajo.**
 
+---
+
+# 11. 📖 CONCEPTO: HACKER vs. CRACKER
+
+**Código secreto:** —
+*Distinción terminológica, no una técnica de ataque de MITRE ATT&CK.*
+
+### 🐺 El Lobo dice:
+
+*«Al principio de esta historia me llamaba a mí mismo "Crack-er". Y, la verdad, tenía más razón de la que pensaba.»*
+
+### Cómo funciona
+
+La palabra **hacker** no significa, en realidad, "delincuente informático".
+
+Un hacker es, sencillamente, alguien que entiende muy bien cómo funcionan los sistemas y le gusta explorarlos, desmontarlos y descubrir cómo hacerlos mejores. Eso no tiene nada de malo — de hecho, es justo lo que hacen los hackers éticos de la ficha anterior.
+
+La palabra que describe a alguien que usa esos conocimientos para hacer daño es otra: **cracker** o también **hacker malicioso**. Alguien que "rompe" sistemas de seguridad con mala intención.
+
+Al principio de esta historia, el Lobo no era un hacker.
+
+Era un cracker que se hacía llamar hacker.
+
+### 🛡️ Cómo protegerte
+
+Esta ficha no protege tu ordenador. Protege una idea:
+
+* No todo el que sabe de tecnología es peligroso.
+* No todo el que dice ser "hacker" lo está usando bien.
+* Lo que importa no es cuánto sabes, sino qué decides hacer con ello.
+
+### 🐺 Frase del Lobo
+
+*«Tardé nueve capítulos en aprender la diferencia entre esas dos palabras. Espero que a ti no te cueste tanto.»*
+
+---
+
+# 12. 🕵️ CONCEPTO: AMENAZA INTERNA
+
+**Código secreto:** —
+*Relacionado con T1078 — Valid Accounts (uso indebido de credenciales legítimas), aunque la amenaza interna es un concepto más amplio que una sola técnica.*
+
+### 🐺 El Lobo dice:
+
+*«El Cerdito Mediano solo tuvo que apagar una cámara que ya era suya.»*
+
+### Cómo funciona
+
+No todos los ataques vienen de fuera.
+
+A veces, la persona que hace daño a una empresa es alguien que ya trabaja allí: alguien con acceso legítimo, una llave de verdad y un puesto de confianza. Eso se llama **amenaza interna**.
+
+Es más difícil de detectar que un ataque externo, porque no hay que forzar ninguna puerta: la puerta ya estaba abierta para esa persona. El problema no era la seguridad de la empresa. Era que nadie vigilaba a quien tenía que vigilar.
+
+El Centro de Seguridad de la Hermandad era una empresa de verdad, con empleados de verdad, protegiendo hogares de verdad. El problema nunca fue la empresa.
+
+El problema fue que nadie controlaba lo que hacía uno de sus jefes de departamento.
+
+### 🛡️ Cómo protegerte
+
+* Ninguna persona, por mucha confianza o cargo que tenga, debería tener acceso ilimitado y sin supervisión.
+* Los permisos de acceso deben revisarse periódicamente, también los de quienes llevan más tiempo.
+* Que algo lo haga "alguien de dentro" no lo hace automáticamente seguro.
+* Las auditorías no son desconfianza: son la forma en que una organización se cuida a sí misma.
+* Con las cosas importantes (dinero, llaves, contraseñas), mejor que lo haga uno y lo revise otro.
+
+### 🐺 Frase del Lobo
+
+*«Siempre hay alguien que controla a los que controlan. Y si no lo hay... debería haberlo.»*

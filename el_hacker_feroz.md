@@ -70,9 +70,7 @@ Ahora podía hablar con ella, pedirle un café por voz y programarla desde el m�
 
 —Marchando —respondía la cafetera.
 
-El lobo sonrió.
-
-—Esto sí que es tecnología.
+—Esto sí que es tecnología —El lobo sonrió.
 
 El Lobo, en resumen, sabía hacer cosas increíbles con los ordenadores.
 
@@ -682,7 +680,7 @@ Se giró hacia el Lobo con los ojos como platos.
 
 El Lobo sonrió de lado y se acomodó en el asiento.
 
-—Ejem, bueno… -carraspeó- cinco mil en lo que llevamos de mes.
+—Ejem, bueno… —carraspeó— cinco mil en lo que llevamos de mes.
 
 Hizo una pequeña pausa, disfrutando de la cara del cerdito.
 
@@ -696,7 +694,7 @@ Se quedó sin palabras durante unos segundos.
 
 El Lobo sonrió por primera vez.
 
-—Lo sé, soy un crack, perdón un CRACK-ER
+—Lo sé, soy un crack, perdón un CRACK-ER.
 
 El Cerdito Mediano suspiró.
 
@@ -738,7 +736,7 @@ El Lobo levantó una ceja.
 
 El Cerdito Pequeño lo miró.
 
-—Pues claro, oink. - dijo con un tono burlón.
+—Pues claro, oink. —dijo con un tono burlón.
 
 —¿Muchos?
 
@@ -986,7 +984,7 @@ La sala era una habitación con solo una mesa enorme en el centro, unas pocas si
 
 El cerdito sonrió.
 
-—Claro, consultalo con la almohada.
+—Claro, consúltalo con la almohada.
 
 Empujaron al lobo a la sala y cerraron la puerta con llave.
 
@@ -1118,7 +1116,7 @@ El Lobo parpadeó.
 
 —¿Perdona?
 
-—Hackea sus sistemas de seguridad, entra en las casas y haz lo que haceis los lobos ¡sacar los dientes!
+—Hackea sus sistemas de seguridad, entra en las casas y haz lo que hacéis los lobos ¡sacar los dientes!
 
 —Un susto elegante, oink, oink —añadió el Cerdito Pequeño, muy orgulloso de la frase, aunque no era suya.
 
@@ -1134,7 +1132,7 @@ El Cerdito Mediano sonrió, y por primera vez pareció que de verdad disfrutaba 
 
 —Porque un pueblo asustado contrata seguridad. Y da la casualidad de que nosotros trabajamos en una empresa de seguridad.
 
-—Cuantas más casas visites, más gente llamará asustada a la Hermandad, oink. —dijo el Cerdito Pequeño—. Y cuantos más clientes nuevos consigamos mas dinero nos llevaremos, oink, oink.
+—Cuantas más casas visites, más gente llamará asustada a la Hermandad, oink. —dijo el Cerdito Pequeño—. Y cuantos más clientes nuevos consigamos más dinero nos llevaremos, oink, oink.
 
 El Lobo tardó un momento en atar cabos.
 
@@ -1273,7 +1271,6 @@ Se levantó de la silla.
 —¿Queréis jugar?
 
 —Pues JUGUEMOS
-
 
 # Capítulo 4
 
@@ -1569,7 +1566,7 @@ Y salió de casa.
 
 ---
 
-Unos horas después, el Lobo llegó hasta la dirección que había conseguido.
+Unas horas después, el Lobo llegó hasta la dirección que había conseguido.
 
 Frente a él había una pequeña casa.
 
@@ -1610,6 +1607,7 @@ Sacó su ordenador portátil.
 Lo abrió.
 
 —Veamos cuánto sabes de seguridad.
+
 # Capítulo 5
 
 ## La casa de paja
@@ -1974,7 +1972,7 @@ El Lobo levantó el ordenador.
 
 El cerdito sonrió pensando que el lobo le traía algo de información importante.
 
-—¿Si?, ¿a quién has hackeado hoy?, oink
+—¿Sí?, ¿a quién has hackeado hoy?, oink
 
 El Lobo sonrió.
 
@@ -1996,7 +1994,7 @@ El cerdito lo miró asustado.
 
 El Lobo señaló la casa.
 
-—Sé que llevas bastante extorsionando a gente.
+—Sé que llevas bastante tiempo extorsionando a gente.
 
 El cerdito no respondió.
 
@@ -2138,13 +2136,13 @@ Y finalmente llegó a una zona llena de árboles.
 
 El cerdito frenó delante de una casa.
 
-Uff, la hora de bicicleta que eché el mes pasado ha servido para algo —pensó mientras miraba a su alrededor.
+—Uff, la hora de bicicleta que eché el mes pasado ha servido para algo —pensó mientras miraba a su alrededor.
 
-He despistado a ese lobo tontorrón —pensó— y llamó a la puerta.
+—He despistado a ese lobo tontorrón —pensó— y llamó a la puerta.
 
 **TOC, TOC, TOC.**
 
-Pero Lobo estaba al acecho, lo observaba desde una esquina lejana
+Pero el Lobo estaba al acecho, lo observaba desde una esquina lejana
 
 La puerta se abrió.
 
@@ -2620,7 +2618,7 @@ Pausa.
 
 Pausa.
 
-—Si, quizas nos hemos equivocado y no era sólo un perrito bocazas, ambicioso y sin agallas para plantarnos cara.
+—Sí, quizás nos hemos equivocado y no era sólo un perrito bocazas, ambicioso y sin agallas para plantarnos cara.
 
 El Lobo abrió mucho los ojos.
 
@@ -2628,7 +2626,7 @@ El Lobo abrió mucho los ojos.
 
 El Cerdito Mediano continuó, con la taza en la pata:
 
-—Si, está aquí conmigo.
+—Sí, está aquí conmigo.
 
 Pausa.
 
@@ -2640,7 +2638,7 @@ Pausa.
 
 El Lobo, al otro lado del micrófono, se quedó completamente inmóvil.
 
-—Cerdito... Mayor. ajam
+—Cerdito... Mayor. ajá
 
 Pausa.
 
@@ -2670,7 +2668,7 @@ Cerró el ordenador.
 
 Se dirigió a su casa.
 
-—Yo también me merezco una taza de café y algún que otro bailecito. -sonrió.
+—Yo también me merezco una taza de café y algún que otro bailecito. —sonrió.
 
 # Capítulo 7
 
@@ -2776,7 +2774,7 @@ Volvió a mirar el ordenador.
 
 Y esa era precisamente la cuestión: no podía ver los ordenadores, no podía comprobar las contraseñas, no tenía forma de saber qué sistemas de seguridad utilizaba, ni si tenía un firewall, un antivirus o cualquier otra protección.
 
-Desde fuera solo podía saber una cosa:
+Desde fuera sólo podía saber una cosa:
 
 **no conseguía entrar.**
 
@@ -2830,7 +2828,7 @@ El Lobo sonrió.
 
 Se quedó pensando.
 
-—No es exactamente una puerta, pero nunca he necesitado una. -sonrió
+—No es exactamente una puerta, pero nunca he necesitado una. —sonrió
 
 Por primera vez en toda la tarde, parecía satisfecho.
 
@@ -3264,7 +3262,7 @@ Miró hacia la esquina del techo. La cámara seguía desconectada.
 
 —Sin cámara. Sin nadie mirando. Qué generosos.
 
-Comenzó a inspecccionar.
+Comenzó a inspeccionar.
 
 Se trataba de un panel de control.
 
@@ -3316,9 +3314,9 @@ Pero el Lobo acababa de preparar algo que, mucho tiempo después, cambiaría tod
 
 El Lobo ya estaba decidido a acabar con los cerditos.
 
-Había empezado con Cerdito Pequeño.
+Había empezado con el Cerdito Pequeño.
 
-Después había hackado al Cerdito Mediano.
+Después había hackeado al Cerdito Mediano.
 
 Pero aún necesitaba pruebas contra el Cerdito Mayor.
 
@@ -3404,7 +3402,7 @@ Sonrió despacio.
 
 Se recostó en la silla.
 
-—Solo necesito que tú me lo cuentes tú solito.
+—Solo necesito que me lo cuentes tú solito.
 
 Al Cerdito Pequeño no le había robado la dirección de su casa.
 
@@ -3571,6 +3569,7 @@ Porque él también tendría que responder por todo lo que había hecho.
 Y eso...
 
 iba a cambiar su vida para siempre.
+
 # Capítulo 10
 
 ## Una nueva oportunidad
@@ -4173,7 +4172,7 @@ La palabra **hacker** no significa, en realidad, "delincuente informático".
 
 Un hacker es, sencillamente, alguien que entiende muy bien cómo funcionan los sistemas y le gusta explorarlos, desmontarlos y descubrir cómo hacerlos mejores. Eso no tiene nada de malo — de hecho, es justo lo que hacen los hackers éticos de la ficha anterior.
 
-La palabra que describe a alguien que usa esos conocimientos para hacer daño es otra: **cracker**. Alguien que "rompe" sistemas de seguridad con mala intención.
+La palabra que describe a alguien que usa esos conocimientos para hacer daño es otra: **cracker** o también **hacker malicioso**. Alguien que "rompe" sistemas de seguridad con mala intención.
 
 Al principio de esta historia, el Lobo no era un hacker.
 
@@ -4200,7 +4199,7 @@ Esta ficha no protege tu ordenador. Protege una idea:
 
 ### 🐺 El Lobo dice:
 
-*«Yo tuve que romper una ventana. El Cerdito Mayor solo tuvo que apagar una cámara que ya era suya.»*
+*«El Cerdito Mediano solo tuvo que apagar una cámara que ya era suya.»*
 
 ### Cómo funciona
 
@@ -4220,6 +4219,7 @@ El problema fue que nadie controlaba lo que hacía uno de sus jefes de departame
 * Los permisos de acceso deben revisarse periódicamente, también los de quienes llevan más tiempo.
 * Que algo lo haga "alguien de dentro" no lo hace automáticamente seguro.
 * Las auditorías no son desconfianza: son la forma en que una organización se cuida a sí misma.
+* Con las cosas importantes (dinero, llaves, contraseñas), mejor que lo haga uno y lo revise otro.
 
 ### 🐺 Frase del Lobo
 

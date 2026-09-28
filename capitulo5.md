@@ -362,7 +362,7 @@ El Lobo levantó el ordenador.
 
 El cerdito sonrió pensando que el lobo le traía algo de información importante.
 
-—¿Si?, ¿a quién has hackeado hoy?, oink
+—¿Sí?, ¿a quién has hackeado hoy?, oink
 
 El Lobo sonrió.
 
@@ -384,7 +384,7 @@ El cerdito lo miró asustado.
 
 El Lobo señaló la casa.
 
-—Sé que llevas bastante extorsionando a gente.
+—Sé que llevas bastante tiempo extorsionando a gente.
 
 El cerdito no respondió.
 
@@ -526,13 +526,13 @@ Y finalmente llegó a una zona llena de árboles.
 
 El cerdito frenó delante de una casa.
 
-Uff, la hora de bicicleta que eché el mes pasado ha servido para algo —pensó mientras miraba a su alrededor.
+—Uff, la hora de bicicleta que eché el mes pasado ha servido para algo —pensó mientras miraba a su alrededor.
 
-He despistado a ese lobo tontorrón —pensó— y llamó a la puerta.
+—He despistado a ese lobo tontorrón —pensó— y llamó a la puerta.
 
 **TOC, TOC, TOC.**
 
-Pero Lobo estaba al acecho, lo observaba desde una esquina lejana
+Pero el Lobo estaba al acecho, lo observaba desde una esquina lejana
 
 La puerta se abrió.
 

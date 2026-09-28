@@ -100,7 +100,7 @@ El Lobo parpadeó.
 
 —¿Perdona?
 
-—Hackea sus sistemas de seguridad, entra en las casas y haz lo que haceis los lobos ¡sacar los dientes!
+—Hackea sus sistemas de seguridad, entra en las casas y haz lo que hacéis los lobos ¡sacar los dientes!
 
 —Un susto elegante, oink, oink —añadió el Cerdito Pequeño, muy orgulloso de la frase, aunque no era suya.
 
@@ -116,7 +116,7 @@ El Cerdito Mediano sonrió, y por primera vez pareció que de verdad disfrutaba 
 
 —Porque un pueblo asustado contrata seguridad. Y da la casualidad de que nosotros trabajamos en una empresa de seguridad.
 
-—Cuantas más casas visites, más gente llamará asustada a la Hermandad, oink. —dijo el Cerdito Pequeño—. Y cuantos más clientes nuevos consigamos mas dinero nos llevaremos, oink, oink.
+—Cuantas más casas visites, más gente llamará asustada a la Hermandad, oink. —dijo el Cerdito Pequeño—. Y cuantos más clientes nuevos consigamos más dinero nos llevaremos, oink, oink.
 
 El Lobo tardó un momento en atar cabos.
 
@@ -255,4 +255,3 @@ Se levantó de la silla.
 —¿Queréis jugar?
 
 —Pues JUGUEMOS
-

@@ -292,7 +292,7 @@ Y salió de casa.
 
 ---
 
-Unos horas después, el Lobo llegó hasta la dirección que había conseguido.
+Unas horas después, el Lobo llegó hasta la dirección que había conseguido.
 
 Frente a él había una pequeña casa.
 

@@ -266,7 +266,7 @@ El Lobo levantó la mirada.
 
 —¿Y quién os controla a vosotros?
 
-El cerdito mayor se rio.
+El Cerdito Mayor se rio.
 
 —¿A nosotros? Nadie.
 
@@ -278,7 +278,7 @@ El Lobo frunció el ceño.
 
 —Eso es mentir.
 
-—Eso es saber cómo funciona el sistema. Y la mejor parte, Lobo... —se inclinó hacia él— es que nadie sospecha de quien lleva la placa. Nadie audita al auditor.
+—Eso es saber cómo funciona el sistema. Y la mejor parte, Lobo... —se inclinó hacia él— es que nadie sospecha de quien lleva la placa.
 
 El Lobo apretó los dientes.
 
@@ -286,7 +286,7 @@ El Lobo apretó los dientes.
 
 —Y si no lo hay... debería haberlo.
 
-El cerdito mayor se levantó y dejó de sonreír.
+El Cerdito Mayor se levantó y dejó de sonreír.
 
 —Ya es hora, Lobo.
 

@@ -70,9 +70,7 @@ Ahora podía hablar con ella, pedirle un café por voz y programarla desde el m�
 
 —Marchando —respondía la cafetera.
 
-El lobo sonrió.
-
-—Esto sí que es tecnología.
+—Esto sí que es tecnología —El lobo sonrió.
 
 El Lobo, en resumen, sabía hacer cosas increíbles con los ordenadores.
 

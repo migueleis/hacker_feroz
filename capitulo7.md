@@ -102,7 +102,7 @@ Volvió a mirar el ordenador.
 
 Y esa era precisamente la cuestión: no podía ver los ordenadores, no podía comprobar las contraseñas, no tenía forma de saber qué sistemas de seguridad utilizaba, ni si tenía un firewall, un antivirus o cualquier otra protección.
 
-Desde fuera solo podía saber una cosa:
+Desde fuera sólo podía saber una cosa:
 
 **no conseguía entrar.**
 
@@ -156,7 +156,7 @@ El Lobo sonrió.
 
 Se quedó pensando.
 
-—No es exactamente una puerta, pero nunca he necesitado una. -sonrió
+—No es exactamente una puerta, pero nunca he necesitado una. —sonrió
 
 Por primera vez en toda la tarde, parecía satisfecho.
 

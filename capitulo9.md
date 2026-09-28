@@ -36,7 +36,7 @@ Miró hacia la esquina del techo. La cámara seguía desconectada.
 
 —Sin cámara. Sin nadie mirando. Qué generosos.
 
-Comenzó a inspecccionar.
+Comenzó a inspeccionar.
 
 Se trataba de un panel de control.
 
@@ -88,9 +88,9 @@ Pero el Lobo acababa de preparar algo que, mucho tiempo después, cambiaría tod
 
 El Lobo ya estaba decidido a acabar con los cerditos.
 
-Había empezado con Cerdito Pequeño.
+Había empezado con el Cerdito Pequeño.
 
-Después había hackado al Cerdito Mediano.
+Después había hackeado al Cerdito Mediano.
 
 Pero aún necesitaba pruebas contra el Cerdito Mayor.
 
@@ -176,7 +176,7 @@ Sonrió despacio.
 
 Se recostó en la silla.
 
-—Solo necesito que tú me lo cuentes tú solito.
+—Solo necesito que me lo cuentes tú solito.
 
 Al Cerdito Pequeño no le había robado la dirección de su casa.
 

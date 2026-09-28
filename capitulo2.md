@@ -212,7 +212,7 @@ Se giró hacia el Lobo con los ojos como platos.
 
 El Lobo sonrió de lado y se acomodó en el asiento.
 
-—Ejem, bueno… -carraspeó- cinco mil en lo que llevamos de mes.
+—Ejem, bueno… —carraspeó— cinco mil en lo que llevamos de mes.
 
 Hizo una pequeña pausa, disfrutando de la cara del cerdito.
 
@@ -226,7 +226,7 @@ Se quedó sin palabras durante unos segundos.
 
 El Lobo sonrió por primera vez.
 
-—Lo sé, soy un crack, perdón un CRACK-ER
+—Lo sé, soy un crack, perdón un CRACK-ER.
 
 El Cerdito Mediano suspiró.
 
@@ -268,7 +268,7 @@ El Lobo levantó una ceja.
 
 El Cerdito Pequeño lo miró.
 
-—Pues claro, oink. - dijo con un tono burlón.
+—Pues claro, oink. —dijo con un tono burlón.
 
 —¿Muchos?
 
@@ -516,7 +516,7 @@ La sala era una habitación con solo una mesa enorme en el centro, unas pocas si
 
 El cerdito sonrió.
 
-—Claro, consultalo con la almohada.
+—Claro, consúltalo con la almohada.
 
 Empujaron al lobo a la sala y cerraron la puerta con llave.
 

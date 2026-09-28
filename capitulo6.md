@@ -448,7 +448,7 @@ Pausa.
 
 Pausa.
 
-—Si, quizas nos hemos equivocado y no era sólo un perrito bocazas, ambicioso y sin agallas para plantarnos cara.
+—Sí, quizás nos hemos equivocado y no era sólo un perrito bocazas, ambicioso y sin agallas para plantarnos cara.
 
 El Lobo abrió mucho los ojos.
 
@@ -456,7 +456,7 @@ El Lobo abrió mucho los ojos.
 
 El Cerdito Mediano continuó, con la taza en la pata:
 
-—Si, está aquí conmigo.
+—Sí, está aquí conmigo.
 
 Pausa.
 
@@ -468,7 +468,7 @@ Pausa.
 
 El Lobo, al otro lado del micrófono, se quedó completamente inmóvil.
 
-—Cerdito... Mayor. ajam
+—Cerdito... Mayor. ajá
 
 Pausa.
 
@@ -498,4 +498,4 @@ Cerró el ordenador.
 
 Se dirigió a su casa.
 
-—Yo también me merezco una taza de café y algún que otro bailecito. -sonrió.
+—Yo también me merezco una taza de café y algún que otro bailecito. —sonrió.
