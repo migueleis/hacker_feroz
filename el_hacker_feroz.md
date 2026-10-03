@@ -1234,7 +1234,7 @@ Ahora estaba haciendo cosas mucho peores.
 
 Una noche se había colado en una casita de madera al fondo del bosque, en cuanto vio que la dueña salía de casa. Pensó que estaría vacía. No lo estaba: siete cabritillos se habían escondido inútilmente por la casa cuando la sombra enorme del lobo apareció tras la puerta.
 
-Otra noche fue a una casa al otro lado del bosque, la de una anciana que vivía sola. La mujer se despertó de madrugada al oír crujir el suelo de su propia cocina, y se pasó el resto de la noche encerrada en un reloj de pared.
+Otra noche fue a una casa al otro lado del bosque, la de una anciana que vivía sola. La mujer oyó crujir el suelo de su propia cocina y corrió a esconderse en un armario para que no la vieran.
 
 El Lobo dejó de respirar durante unos segundos.
 
